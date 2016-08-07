@@ -1,0 +1,178 @@
+#!/bin/sh
+
+geth attach << EOF | egrep -e "Type|---|DAO|HAT|Total|Baddies|Goodies|Maybies"
+
+function percent(n, d) {
+  var o;
+  if (d != 0) {
+    var p = n / d * 100;
+    o = p.toFixed(7) + "%"
+  } else {
+    o = "";    
+  }
+  while (o.length <= 12) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function padRight(s, n) {
+  var o = s;
+  while (o.length <= n) {
+    o = o + " ";
+  }
+  return o;
+}
+
+function padId(s) {
+  var o = s.toFixed(0);
+  while (o.length <= 3) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function padTokens(s) {
+  var o = s.toFixed(16);
+  while (o.length <= 27) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function padEthers(s) {
+  var o = s.toFixed(18);
+  while (o.length <= 27) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function listProposals(startProposal, endProposal) {
+  var theDAOAddress="0xbb9bc244d798123fde783fcc1c72d3bb8c189413";
+  var theDAOABI =[{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"proposals","outputs":[{"name":"recipient","type":"address"},{"name":"amount","type":"uint256"},{"name":"description","type":"string"},{"name":"votingDeadline","type":"uint256"},{"name":"open","type":"bool"},{"name":"proposalPassed","type":"bool"},{"name":"proposalHash","type":"bytes32"},{"name":"proposalDeposit","type":"uint256"},{"name":"newCurator","type":"bool"},{"name":"yea","type":"uint256"},{"name":"nay","type":"uint256"},{"name":"creator","type":"address"}],"type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_amount","type":"uint256"}],"name":"approve","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"minTokensToCreate","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"rewardAccount","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":true,"inputs":[],"name":"daoCreator","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"divisor","outputs":[{"name":"divisor","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"extraBalance","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":false,"inputs":[{"name":"_proposalID","type":"uint256"},{"name":"_transactionData","type":"bytes"}],"name":"executeProposal","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFrom","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[],"name":"unblockMe","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"totalRewardToken","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"actualBalance","outputs":[{"name":"_actualBalance","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"closingTime","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"allowedRecipients","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferWithoutReward","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[],"name":"refund","outputs":[],"type":"function"},{"constant":false,"inputs":[{"name":"_recipient","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_description","type":"string"},{"name":"_transactionData","type":"bytes"},{"name":"_debatingPeriod","type":"uint256"},{"name":"_newCurator","type":"bool"}],"name":"newProposal","outputs":[{"name":"_proposalID","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"DAOpaidOut","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"minQuorumDivisor","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_newContract","type":"address"}],"name":"newContract","outputs":[],"type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_recipient","type":"address"},{"name":"_allowed","type":"bool"}],"name":"changeAllowedRecipients","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[],"name":"halveMinQuorum","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"paidOut","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_proposalID","type":"uint256"},{"name":"_newCurator","type":"address"}],"name":"splitDAO","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"DAOrewardAccount","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":true,"inputs":[],"name":"proposalDeposit","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"numberOfProposals","outputs":[{"name":"_numberOfProposals","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"lastTimeMinQuorumMet","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_toMembers","type":"bool"}],"name":"retrieveDAOReward","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[],"name":"receiveEther","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"isFueled","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":false,"inputs":[{"name":"_tokenHolder","type":"address"}],"name":"createTokenProxy","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[{"name":"_proposalID","type":"uint256"}],"name":"getNewDAOAddress","outputs":[{"name":"_newDAO","type":"address"}],"type":"function"},{"constant":false,"inputs":[{"name":"_proposalID","type":"uint256"},{"name":"_supportsProposal","type":"bool"}],"name":"vote","outputs":[{"name":"_voteID","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[],"name":"getMyReward","outputs":[{"name":"_success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"rewardToken","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFromWithoutReward","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_spender","type":"address"}],"name":"allowance","outputs":[{"name":"remaining","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_proposalDeposit","type":"uint256"}],"name":"changeProposalDeposit","outputs":[],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"blocked","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"curator","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":true,"inputs":[{"name":"_proposalID","type":"uint256"},{"name":"_recipient","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_transactionData","type":"bytes"}],"name":"checkProposalCode","outputs":[{"name":"_codeChecksOut","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"privateCreation","outputs":[{"name":"","type":"address"}],"type":"function"},{"inputs":[{"name":"_curator","type":"address"},{"name":"_daoCreator","type":"address"},{"name":"_proposalDeposit","type":"uint256"},{"name":"_minTokensToCreate","type":"uint256"},{"name":"_closingTime","type":"uint256"},{"name":"_privateCreation","type":"address"}],"type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_from","type":"address"},{"indexed":true,"name":"_to","type":"address"},{"indexed":false,"name":"_amount","type":"uint256"}],"name":"Transfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_owner","type":"address"},{"indexed":true,"name":"_spender","type":"address"},{"indexed":false,"name":"_amount","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"name":"value","type":"uint256"}],"name":"FuelingToDate","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"to","type":"address"},{"indexed":false,"name":"amount","type":"uint256"}],"name":"CreatedToken","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"to","type":"address"},{"indexed":false,"name":"value","type":"uint256"}],"name":"Refund","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"proposalID","type":"uint256"},{"indexed":false,"name":"recipient","type":"address"},{"indexed":false,"name":"amount","type":"uint256"},{"indexed":false,"name":"newCurator","type":"bool"},{"indexed":false,"name":"description","type":"string"}],"name":"ProposalAdded","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"proposalID","type":"uint256"},{"indexed":false,"name":"position","type":"bool"},{"indexed":true,"name":"voter","type":"address"}],"name":"Voted","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"proposalID","type":"uint256"},{"indexed":false,"name":"result","type":"bool"},{"indexed":false,"name":"quorum","type":"uint256"}],"name":"ProposalTallied","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_newCurator","type":"address"}],"name":"NewCurator","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_recipient","type":"address"},{"indexed":false,"name":"_allowed","type":"bool"}],"name":"AllowedRecipientChanged","type":"event"}];
+  var theDAO = web3.eth.contract(theDAOABI).at(theDAOAddress);
+  var numberOfProposals = theDAO.numberOfProposals();
+  console.log("Number of proposals: " + numberOfProposals);
+
+  if (startProposal == null) {
+    startProposal = 1;
+  }
+  if (endProposal == null) {
+    endProposal = numberOfProposals;
+  }
+
+  var theDAOBalance = web3.fromWei(eth.getBalance(theDAOAddress), "ether");
+  var theDAOExtraBalanceAccount = theDAO.extraBalance();
+  var theDAOExtraBalance = web3.fromWei(eth.getBalance(theDAOExtraBalanceAccount), "ether");
+  var theDAOTotalSupply = theDAO.totalSupply()/1e16;
+  var totalBalance = parseFloat(theDAOBalance);
+  var totalExtraBalance = parseFloat(theDAOExtraBalance);
+  var totalSupply = parseFloat(theDAOTotalSupply);
+  var baddyBalance = 0;
+  var baddyExtraBalance = 0;
+  var baddySupply = 0;
+  var goodyBalance = 0;
+  var goodyExtraBalance = 0;
+  var goodySupply = 0;
+  var maybeBalance = 0;
+  var maybeExtraBalance = 0;
+  var maybeSupply = 0;
+  console.log("Type         #                      Balance                 ExtraBalance                       Tokens Address");
+  var separator = "---------- --- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------";
+  console.log(separator);
+  console.log(padRight("The DAO", 8) + "    0 " + padEthers(theDAOBalance) + " " + padEthers(theDAOExtraBalance) + " " 
+    + padTokens(theDAOTotalSupply) + " " + theDAOAddress);
+
+  for (i = startProposal; i <= endProposal; i++) {
+    var proposal = theDAO.proposals(i);  
+    var recipient = proposal[0];  
+    var amount = proposal[1];
+    var description = proposal[2];
+    var votingDeadline = proposal[3];
+    var open = proposal[4];
+    var proposalPassed = proposal[5];
+    var proposalDeposit = proposal[7];
+    var yea = proposal[9] / 1e16;
+    var nay = proposal[10] / 1e16;
+    var yeaAndNay = yea + nay;
+    var yeaPercent;
+    var nayPercent;
+    if (yeaAndNay > 0) {
+       yeaPercent = yea / yeaAndNay * 100;
+       nayPercent = nay / yeaAndNay * 100;
+    } else {
+       yeaPercent = 0;
+       nayPercent = 0;
+    }
+    var newCurator = proposal[8];
+    var creator = proposal[11];
+    var childDAOAddress = theDAO.getNewDAOAddress(i);
+    if (childDAOAddress != null && childDAOAddress != "0x" && childDAOAddress != "0x0000000000000000000000000000000000000000") {
+      var childDAO = web3.eth.contract(theDAOABI).at(childDAOAddress);
+      var childDAOBalance = web3.fromWei(eth.getBalance(childDAOAddress), "ether");
+      var childDAOExtraBalanceAccount = childDAO.extraBalance();
+      var childDAOExtraBalance = web3.fromWei(eth.getBalance(childDAOExtraBalanceAccount), "ether");
+      var childDAOTotalSupply = childDAO.totalSupply()/1e16;
+
+      // var transferEvent = theDAO.Transfer({_to: childDAOAddress}, {fromBlock: 1599207, toBlock: "latest"});
+      // transferEvent.watch(function(error, result){
+      //   console.log(JSON.stringify(result));
+      // });
+
+      var type;
+      if (childDAOAddress == "0x304a554a310c7e546dfe434669c62820b7d83490" ||
+          childDAOAddress == "0xfe24cdd8648121a43a7c86d289be4dd2951ed49f" ||
+          childDAOAddress == "0xf14c14075d6c4ed84b86798af0956deef67365b5" ||
+          childDAOAddress == "0xfe24cdd8648121a43a7c86d289be4dd2951ed49f" ||
+          childDAOAddress == "0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a") {
+        type = "Baddies";
+        baddyBalance += parseFloat(childDAOBalance);
+        baddyExtraBalance += parseFloat(childDAOExtraBalance);
+        baddySupply += parseFloat(childDAOTotalSupply);
+      } else if (childDAOAddress == "0xb136707642a4ea12fb4bae820f03d2562ebff487" || 
+                 childDAOAddress == "0x84ef4b2357079cd7a7c69fd7a37cd0609a679106") {
+        type = "Goodies";
+        goodyBalance += parseFloat(childDAOBalance);
+        goodyExtraBalance += parseFloat(childDAOExtraBalance);
+        goodySupply += parseFloat(childDAOTotalSupply);
+      } else {
+        type = "child DAO";
+        maybeBalance += parseFloat(childDAOBalance);
+        maybeExtraBalance += parseFloat(childDAOExtraBalance);
+        maybeSupply += parseFloat(childDAOTotalSupply);
+      }
+      totalBalance += parseFloat(childDAOBalance);
+      totalExtraBalance += parseFloat(childDAOExtraBalance);
+      totalSupply += parseFloat(childDAOTotalSupply);
+      console.log(padRight(type, 8) + " " + padId(i) + " " + padEthers(childDAOBalance) + " " 
+        + padEthers(childDAOExtraBalance) + " " + padTokens(childDAOTotalSupply) + " " + childDAOAddress);
+    }
+  }
+  console.log(separator);
+  console.log(padRight("Total", 8) + " " + padId(numberOfProposals) + " " + padEthers(totalBalance) + " " 
+    + padEthers(totalExtraBalance) + " " + padTokens(totalSupply) + "      Balance%     ExtraBal%       Tokens%");
+  console.log(separator);
+  console.log(padRight("Baddies", 8) + "      " + padEthers(baddyBalance) + " " 
+    + padEthers(baddyExtraBalance) + " " + padTokens(baddySupply) + " " 
+    + percent(baddyBalance, totalBalance) + " " + percent(baddyExtraBalance, totalExtraBalance) + " " 
+    + percent(baddySupply, totalSupply));
+  console.log(padRight("Goodies", 8) + "      " + padEthers(goodyBalance) + " " 
+    + padEthers(goodyExtraBalance) + " " + padTokens(goodySupply) + " " 
+    + percent(goodyBalance, totalBalance) + " " + percent(goodyExtraBalance, totalExtraBalance) + " " 
+    + percent(goodySupply, totalSupply));
+  console.log(padRight("Maybies", 8) + "      " + padEthers(maybeBalance) + " " 
+    + padEthers(maybeExtraBalance) + " " + padTokens(maybeSupply) + " " 
+    + percent(maybeBalance, totalBalance) + " " + percent(maybeExtraBalance, totalExtraBalance) + " " 
+    + percent(maybeSupply, totalSupply));
+  console.log(separator);
+}
+
+// listProposals(59, 59);
+// listProposals(57, 60);
+// listProposals(99, 100);
+listProposals();
+
+exit;
+
+EOF
