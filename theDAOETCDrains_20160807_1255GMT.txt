@@ -1,0 +1,3813 @@
+--- SUMMARY ---
+Type                #                      Balance                 ExtraBalance                       Tokens Address
+------------ -------- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------
+The DAO      0               63.188156790000000740         0.000000000089472700  1153816598.7024669647216797 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+Safe         0:1              0.110000142499690437         0.000000000000000000          11.0000142499690430 0xd4fe7bc31cedb7bfb8a345f31e668033056b2728
+Safe         0:4              0.008519214441755700         0.000000000000000000          79.8519214441755594 0x2c19c7f9ae8b751e37aeb2d93a699722395ae18f
+Trusted      0:7            989.001281201758501993         0.000000000000000000       98900.1281201758538373 0x1975bd06d486162d5dc297798dfc41edd5d160a7
+Safe         0:8              0.000000000000090658         1.428573279216753589      202867.2384762869332917 0x319f70bab6845585f412ec7724b744fec6095c85
+Trusted      0:10             0.000000000000000000         0.000000000000000000       20500.6432347392910742 0x5c8536898fbb74fc7445814902fd08422eac56d0
+Safe         0:13             0.100000000000000006         0.018693039890011847      105482.6948358116351301 0x779543a0491a837ca36ce8c635d6154e3c4911a6
+Safe         0:14             0.000000000000000001         0.000000000000000000       74635.9658653056685580 0x5c6e67ccd5849c0d29219c4f95f1a7a93b3f5dc5
+Trusted      0:16          1250.001619314659365045         0.000000000000000000      125000.1619314659328666 0x200450f06520bdd6c527622a273333384d870efb
+Safe         0:18             0.000000000854763543         0.000000000000000000     3457503.6590232858434319 0x6b0c4d41ba9ab8d8cfb5d379c69a612f2ced8ecb
+Safe         0:19             0.018387737083543351         0.000000000000000000     1686497.8387737083248794 0xd1ac8b1ef1b69ff51d1d401a476e7e612414f091
+Trusted      0:20            10.000012954517274011         0.000000000000000000        1000.0012954517275148 0x51e0ddd9998364a2eb38588679f0d2c42653e4a6
+Safe         0:22             0.000000000000000000         0.000000000000000000      240000.3009084016666748 0xf0b1aa0eb660754448a7937c022e30aa692fe0c5
+Trusted      0:23             0.000000000000011277         0.000000000000000000        9999.8647723253125150 0x9f27daea7aca0aa0446220b98d028715e3bc803d
+Trusted      0:26           100.000129545172740109         0.000000000000000000       10000.0129545172749204 0xd9aef3a1e38a39c16b31d1ace71bca8ef58d315b
+Trusted      0:27            41.173345768012808321         0.000000000000000000        4117.3345768012804911 0x6f6704e5a10332af6672e50b3d9754dc460dfa4d
+Trusted      0:28             0.000000000000000000         0.000000000000000000       36738.0383063135377597 0x492ea3bb0f3315521c31f273e565b868fc090f17
+Trusted      0:29             0.000000000000090010         0.000000000000000000     1583946.1690131428185850 0x9ea779f907f0b315b364b0cfc39a0fde5b02a416
+Trusted      0:31             0.060000077727103647         0.000000000000000000           6.0000077727103651 0xcc34673c6c40e791051898567a1222daf90be287
+Safe         0:32             0.000000000000000000         0.000000000000000000       10705.0138678107414307 0xe308bd1ac5fda103967359b2712dd89deffb7973
+Safe         0:33             0.000000000000000001         0.000000000000000000     1313899.0176146971061826 0xac1ecab32727358dba8962a0f3b261731aad9723
+Trusted      0:34             0.054104538362875473         0.000000000000000000       26685.4104538362880703 0x440c59b325d2997a134c2c7c60a8c61611212bad
+Untrusted    0:35             2.236999142516500783         0.000000000000000000         223.6999142516500854 0x9c15b54878ba618f494b38f0ae7443db6af648ba
+Untrusted    0:36             0.027428797178668633         0.000000000000000000           2.7428797178668631 0x21c7fdb9ed8d291d79ffd82eb2c4356ec0d81241
+Trusted      0:37            76.761842290232380037         0.000000000000000000        7676.1842290232380037 0x1ca6abd14d30affe533b24d7a21bff4c2d5e1f3b
+Trusted      0:39             0.000000000000056186         0.000000000000000000      212183.7249362469301559 0x6131c42fa982e56929107413a9d526fd99405560
+Trusted      0:41             0.000000000000000001         0.000000000000000000     1254878.3143344640266150 0x542a9515200d14b68e934e9830d91645a980dd7a
+Trusted      0:44           250.000323862931878693         0.000000000000000000       25000.0323862931873009 0x782495b7b3355efb2833d56ecb34dc22ad7dfcc4
+Safe         0:45             0.000000000000000001         0.000000000000000000           0.0000000000000001 0x3ba4d81db016dc2890c81f3acec2454bff5aada5
+Trusted      0:52             0.000006477258637377         0.000000000000000000         500.0006477258637574 0xe4ae1efdfc53b73893af49113d8694a057b9c0d1
+Untrusted    0:53             7.144077587762826198         0.000000000000000000         714.4077587762826624 0x0737a6b837f97f46ebade41b9bc3e1c509c85c53
+Trusted      0:54             0.002585721648041229         0.000000000000000000      199600.2585721648065373 0x52c5317c848ba20c7504cb2c8052abd1fde29d03
+Trusted      0:56             5.000006477258637005         0.000000000000000000         500.0006477258637574 0x5d2b2e6fcbe3b11d26b525e085ff818dae332479
+Trusted      0:57             0.009900012824972102         0.000000000000000000           0.9900012824972102 0x057b56736d32b86616a10f619859c6cd6f59092a
+Baddies      0:59             0.000000000000000011       285.714295714285697159   364240852.7612792849540710 0x304a554a310c7e546dfe434669c62820b7d83490
+Baddies      0:59:10    3642408.527612792793661356         0.000000000000000000   364240852.7612792849540710 0x10abb5efecdc09581f8b7cb95791fe2936790b4e
+Trusted      0:60          1256.101627216914721430         0.000000000000000000      125610.1627216914785095 0x4deb0033bb26bc534b197e61d19e0733e5679784
+Trusted      0:61            15.276059789372407494         0.000000000000000000        1527.6059789372407067 0x35a051a0010aba705c9008d7a7eff6fb88f6ea7b
+Untrusted    0:62           934.889382511061057812         0.000000000000000000       93488.9382511061121477 0x9da397b9e80755301a3b32173283a91c0ef6c87e
+Trusted      0:63             0.384900000000000020         0.000000000000000000       55938.4955979606020264 0x0101f3be8ebb4bbd39a2e3b9a3639d4259832fd9
+Trusted      0:64             0.000000000124360133         0.000000000000000000     3069680.3822257122956216 0xbcf899e6c7d9d5a215ab1e3444c86806fa854c76
+Trusted      0:65             5.000006477258637005         0.000000000000000000         500.0006477258637574 0xa2f1ccba9395d7fcb155bba8bc92db9bafaeade7
+Trusted      0:66          1000.001295451727514774         0.000000000000000000      100000.1295451727492036 0xd164b088bd9108b60d0ca3751da4bceb207b0782
+Untrusted    0:67             0.068587370259945227         0.000000000000000000           6.8587370259945226 0x1cba23d343a983e9b5cfd19496b9a9701ada385f
+Untrusted    0:68          1409.336722195117545198         0.000000000000000000      140933.6722195117617957 0x9fcd2deaff372a39cc679d5c5e4de7bafb0b1339
+Infiltrated  0:69         19173.240336954135273118       118.886510785155266490     1917324.0336954134982079 0x0e0da70933f4c7849fc0d203f5d1d43b9ae4532d
+Untrusted    0:70          5634.097608979246615490         0.000000000000000000      563409.7608979246579111 0xbc07118b9ac290e4622f5e77a0853539789effbe
+Untrusted    0:71           207.153967008322382526         0.000000000000000000       20715.3967008322397305 0xacd87e28b0c9d1254e868b81cba4cc20d9a32225
+Untrusted    0:73             1.040487359828132563         0.000000000000000000         104.0487359828132412 0x5524c55fb03cf21f549444ccbecb664d0acad706
+Untrusted    0:73:1        6772.203185900849348400         0.000000000000000000      677220.3185900849057361 0xd98157ae53342c90cfd341417d3c856351c1df95
+Infiltrated  0:74           269.833661813680521391         0.000000000000000000       26982.3661813680519117 0xfe24cdd8648121a43a7c86d289be4dd2951ed49f
+Untrusted    0:76             3.486036451558542471         0.000000000000000000         348.6036451558542240 0x253488078a4edf4d6f42f113d1e62836a942cf1a
+Goodies      0:78       7277385.711515428498387337         0.000000000000000000   727738571.1515429019927979 0xb136707642a4ea12fb4bae820f03d2562ebff487
+Infiltrated  0:81             2.123311222366559115         0.000000000000000000         212.3311222366559150 0xf14c14075d6c4ed84b86798af0956deef67365b5
+Infiltrated  0:85           859.189750496835245031         0.000000000000000000       85918.9750496835331433 0xaeeb8ff27288bdabc0fa5ebb731b6f409507516c
+Untrusted    0:87             1.944767821345229741         0.000000000000000000         194.4767821345229777 0x6d87578288b6cb5549d5076a207456a1f6a63dc0
+Infiltrated  0:94            23.997787866533542456         0.000000000000000000        2399.7787866533544729 0xaccc230e8a6e5be9160b8cdf2864dd2a001c28b6
+Infiltrated  0:98         28927.603152430303453002      5192.307692307692377653     2892760.3152430304326117 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+Goodies      0:99        598974.326560793095268309     73722.042576599895255640    59897432.6560793146491051 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+Infiltrated  0:101            0.000000000000000021       369.231179004682303457    26956559.1797974072396755 0xf4c64518ea10f995918a454158c6b61407ea345c
+Infiltrated  0:101:1     269565.591797974077053368         0.000000000000000000    26956559.1797974072396755 0x39771e2d34eda36a49ff4fa4194d7fcb839165da
+
+--- DETAILS ---
+(The DAO)
+Address      0xbb9bc244d798123fde783fcc1c72d3bb8c189413 with 63.188156790000000001 ETH and 1153816599 DAO
+ExtraBalance 0x807640a13483f8ac783c557fcdf27be11ea4ac7a with 89472700 WEI
+  --------------------------------------------------------------------------------
+  Proposal 1; SPLIT; Voting to Sat, 04 Jun 2016 14:03:55 GMT
+  Open Y; Passed Y; Yea 967598 DAO; Nay 4276279 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x13680fa2a60fd551894199f009cca20fb63a3e31
+  Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+  
+  
+  (Safe)
+  Address      0xd4fe7bc31cedb7bfb8a345f31e668033056b2728 with 0.11000014249969043 ETH and 11 DAO
+  ExtraBalance 0xb3fb0e5aba0e20e5c49d252dfd30e102b171a425 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 1.1; SPLIT; Voting to Sun, 10 Jul 2016 00:52:32 GMT
+    Open Y; Passed n; Yea 2 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.2; non-split; Voting to Sun, 17 Jul 2016 00:56:56 GMT
+    Open Y; Passed n; Yea 4 DAO; Nay 0
+    Deposit 0 WEI; Amount 1000 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    
+    1000 eth to curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.3; non-split; Voting to Sun, 17 Jul 2016 00:58:08 GMT
+    Open Y; Passed n; Yea 4 DAO; Nay 0
+    Deposit 0 WEI; Amount 1000 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    
+    1000 eth to curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.4; non-split; Voting to Sun, 17 Jul 2016 00:58:08 GMT
+    Open Y; Passed n; Yea 4 DAO; Nay 0
+    Deposit 0 WEI; Amount 1000 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    
+    1000 eth to curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.5; non-split; Voting to Sun, 17 Jul 2016 00:58:08 GMT
+    Open Y; Passed n; Yea 4 DAO; Nay 0
+    Deposit 0 WEI; Amount 1000 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    
+    1000 eth to curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.6; non-split; Voting to Sun, 17 Jul 2016 01:01:12 GMT
+    Open n; Passed Y; Yea 6 DAO; Nay 0
+    Deposit 0 WEI; Amount 0.09 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0xd4fe7bc31cedb7bfb8a345f31e668033056b2728
+    
+    new dao
+    
+    --------------------------------------------------------------------------------
+    Proposal 1.7; non-split; Voting to Sun, 17 Jul 2016 01:02:26 GMT
+    Open Y; Passed n; Yea 6 DAO; Nay 0
+    Deposit 0 WEI; Amount 10000 ETH
+    Creator 0x042d2f9c0356d54e2f91ecfc30eac6711d40d8c4
+    Recipient 0xd4fe7bc31cedb7bfb8a345f31e668033056b2728
+    
+    new dao
+    
+  --------------------------------------------------------------------------------
+  Proposal 2; non-split; Voting to Sat, 11 Jun 2016 17:18:37 GMT
+  Open n; Passed n; Yea 3604955 DAO; Nay 6038624 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x5a8e70f2d75c1468db4a2241fdd70e5a84f028b8
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Do you believe in god?
+  
+  --------------------------------------------------------------------------------
+  Proposal 3; non-split; Voting to Sat, 11 Jun 2016 18:09:40 GMT
+  Open n; Passed n; Yea 1870518 DAO; Nay 7858443 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x66756ae3ebe94cd4e5e95846fceefcd4f69f8a8d
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Should curators only whitelist projects that are related to DAO security for the
+   next 4 weeks?
+  
+  --------------------------------------------------------------------------------
+  Proposal 4; SPLIT; Voting to Sat, 04 Jun 2016 18:59:04 GMT
+  Open Y; Passed Y; Yea 5279 DAO; Nay 4322942 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+  Recipient 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+  
+  split
+  
+  (Safe)
+  Address      0x2c19c7f9ae8b751e37aeb2d93a699722395ae18f with 8519214441755701 WEI and 80 DAO
+  ExtraBalance 0xecd135fa4f61a655311e86238c92adcd779555d2 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 4.1; non-split; Voting to Wed, 20 Jul 2016 03:36:52 GMT
+    Open n; Passed Y; Yea 80 DAO; Nay 0
+    Deposit 0 WEI; Amount 1 ETH
+    Creator 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+    Recipient 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+    
+    1
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.2; non-split; Voting to Wed, 20 Jul 2016 03:37:46 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 10 ETH
+    Creator 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+    Recipient 0x3d5507b53d1613d8491a606ecf5c9268301095dd
+    
+    10
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.3; non-split; Voting to Wed, 20 Jul 2016 03:58:42 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 100 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    100
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.4; non-split; Voting to Wed, 20 Jul 2016 03:58:59 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 1000 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    1000
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.5; non-split; Voting to Wed, 20 Jul 2016 03:59:18 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 10000 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    10000
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.6; non-split; Voting to Wed, 20 Jul 2016 03:59:51 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 100000 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    100000
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.7; non-split; Voting to Wed, 20 Jul 2016 03:59:51 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 1000000 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    1000000
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.8; non-split; Voting to Wed, 20 Jul 2016 04:00:59 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 10 ETH
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    10
+    
+    --------------------------------------------------------------------------------
+    Proposal 4.9; SPLIT; Voting to Wed, 13 Jul 2016 04:02:00 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    Recipient 0xa6ae5338cffb37055e32f3a8ac21cf14121ef764
+    
+    split
+    
+  --------------------------------------------------------------------------------
+  Proposal 5; non-split; Voting to Sat, 11 Jun 2016 19:31:34 GMT
+  Open Y; Passed n; Yea 94171553 DAO; Nay 10488953 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Moratorium on proposals until the DAO contract is upgraded (via newContract prop
+  osal), fixing most serious issues with voting and splitting. Funds can be moved 
+  to the new contract gradually, via multiple proposals.
+  
+  --------------------------------------------------------------------------------
+  Proposal 6; SPLIT; Voting to Sun, 12 Jun 2016 03:41:52 GMT
+  Open Y; Passed n; Yea 2 DAO; Nay 175454 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbeb0b93c01297146782a5581370489a36b24deca
+  Recipient 0xbeb0b93c01297146782a5581370489a36b24deca
+  
+  Original intent, non-interventionist curator.  Split to restore nonjudgmental ro
+  le of curator.
+  
+  --------------------------------------------------------------------------------
+  Proposal 7; SPLIT; Voting to Sun, 05 Jun 2016 05:29:37 GMT
+  Open Y; Passed Y; Yea 118007 DAO; Nay 3967414 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+  Recipient 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+  
+  Leave me alone
+  
+  (Trusted)
+  Address      0x1975bd06d486162d5dc297798dfc41edd5d160a7 with 989.001281201758472346 ETH and 98900 DAO
+  ExtraBalance 0xa3acf3a1e16b1d7c315e23510fdd7847b48234f6 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 7.1; non-split; Voting to Sun, 24 Jul 2016 03:32:31 GMT
+    Open n; Passed Y; Yea 98900 DAO; Nay 0
+    Deposit 0 WEI; Amount 989 WEI
+    Creator 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+    Recipient 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+    
+    It belongs to me
+    
+    --------------------------------------------------------------------------------
+    Proposal 7.2; non-split; Voting to Mon, 08 Aug 2016 08:03:39 GMT
+    Open Y; Passed n; Yea 98900 DAO; Nay 0
+    Deposit 0 WEI; Amount 989.001281201758472346 ETH
+    Creator 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+    Recipient 0xe82d5b10ad98d34df448b07a5a62c1affbef758f
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 8; SPLIT; Voting to Sun, 05 Jun 2016 12:42:28 GMT
+  Open Y; Passed Y; Yea 200000 DAO; Nay 3931881 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa72ded5c1122312d9f4ed66bf4a396139eadaf56
+  Recipient 0xa72ded5c1122312d9f4ed66bf4a396139eadaf56
+  
+  
+  (Safe)
+  Address      0x319f70bab6845585f412ec7724b744fec6095c85 with 90658 WEI and 202867 DAO
+  ExtraBalance 0x06706dd3f2c9abf0a21ddcc6941d9b86f0596936 with 1.428573279216753537 ETH
+    --------------------------------------------------------------------------------
+    Proposal 8.1; non-split; Voting to Sat, 16 Jul 2016 15:04:37 GMT
+    Open n; Passed Y; Yea 202867 DAO; Nay 0
+    Deposit 1 ETH; Amount 2028.6723847628693 ETH
+    Creator 0xa72ded5c1122312d9f4ed66bf4a396139eadaf56
+    Recipient 0xa72ded5c1122312d9f4ed66bf4a396139eadaf56
+    
+    Get ETH
+    
+  --------------------------------------------------------------------------------
+  Proposal 9; SPLIT; Voting to Sun, 05 Jun 2016 12:59:52 GMT
+  Open Y; Passed n; Yea 2659900 DAO; Nay 3911880 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x228d29ea776cb17ca0db0538562ecaacdc0a9e46
+  Recipient 0x228d29ea776cb17ca0db0538562ecaacdc0a9e46
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 10; SPLIT; Voting to Sun, 05 Jun 2016 14:45:29 GMT
+  Open Y; Passed Y; Yea 15746 DAO; Nay 3933148 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x374139a05ac55917badd3f934f1b93f5c8623ded
+  Recipient 0x374139a05ac55917badd3f934f1b93f5c8623ded
+  
+  
+  (Trusted)
+  Address      0x5c8536898fbb74fc7445814902fd08422eac56d0 with 0 WEI and 20501 DAO
+  ExtraBalance 0x6966ab0d485353095148a2155858910e0965b6f9 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 10.1; non-split; Voting to Sat, 23 Jul 2016 15:33:42 GMT
+    Open n; Passed Y; Yea 20501 DAO; Nay 0
+    Deposit 0 WEI; Amount 200 ETH
+    Creator 0x374139a05ac55917badd3f934f1b93f5c8623ded
+    Recipient 0xcafe00be401442bfb5e480c355393fd8c147abbb
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 10.2; non-split; Voting to Sat, 23 Jul 2016 21:41:49 GMT
+    Open n; Passed Y; Yea 20501 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x374139a05ac55917badd3f934f1b93f5c8623ded
+    Recipient 0x5c8536898fbb74fc7445814902fd08422eac56d0
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 11; non-split; Voting to Sun, 12 Jun 2016 21:05:29 GMT
+  Open n; Passed n; Yea 2778713 DAO; Nay 18364993 DAO
+  Deposit 2 ETH; Amount 5000 ETH
+  Creator 0x71744de37e18561c508082ea27aee707190c429b
+  Recipient 0xda4a4626d3e16e094de3225a751aab7128e96526
+  
+  Curators, please hire somebody to fix the DAO code and allow more recipients
+  
+  --------------------------------------------------------------------------------
+  Proposal 12; SPLIT; Voting to Mon, 06 Jun 2016 04:05:37 GMT
+  Open Y; Passed n; Yea 5281 DAO; Nay 3945155 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcdc00dd1459e293c9c81880a2b3c4e5396a8ef7b
+  Recipient 0xcdc00dd1459e293c9c81880a2b3c4e5396a8ef7b
+  
+  �� cdc00 split proposal ��
+  
+  --------------------------------------------------------------------------------
+  Proposal 13; SPLIT; Voting to Mon, 06 Jun 2016 06:40:32 GMT
+  Open Y; Passed Y; Yea 46039 DAO; Nay 3926435 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf8f9fc62a19c87c657a06febd184f068c0fc9cae
+  Recipient 0xf8f9fc62a19c87c657a06febd184f068c0fc9cae
+  
+  arbitrage ftw
+  
+  (Safe)
+  Address      0x779543a0491a837ca36ce8c635d6154e3c4911a6 with 0.1 ETH and 105483 DAO
+  ExtraBalance 0x2a5ed960395e2a49b1c758cef4aa15213cfd874c with 0.018693039890011849 ETH
+    --------------------------------------------------------------------------------
+    Proposal 13.1; non-split; Voting to Sun, 17 Jul 2016 06:54:11 GMT
+    Open n; Passed Y; Yea 91472 DAO; Nay 0
+    Deposit 0 WEI; Amount 1054.726948358116317772 ETH
+    Creator 0xf8f9fc62a19c87c657a06febd184f068c0fc9cae
+    Recipient 0xf8f9fc62a19c87c657a06febd184f068c0fc9cae
+    
+    tick tock also David Sucks at OW
+    
+  --------------------------------------------------------------------------------
+  Proposal 14; SPLIT; Voting to Mon, 06 Jun 2016 10:47:20 GMT
+  Open Y; Passed Y; Yea 51751 DAO; Nay 3873727 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1502447aadf5979e7a842709cd6c4f60afb0a281
+  Recipient 0x1502447aadf5979e7a842709cd6c4f60afb0a281
+  
+  
+  (Safe)
+  Address      0x5c6e67ccd5849c0d29219c4f95f1a7a93b3f5dc5 with 1 WEI and 74636 DAO
+  ExtraBalance 0x9c50426be05db97f5d64fc54bf89eff947f0a321 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 14.1; SPLIT; Voting to Sun, 10 Jul 2016 11:23:29 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x1502447aadf5979e7a842709cd6c4f60afb0a281
+    Recipient 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 14.2; non-split; Voting to Sun, 17 Jul 2016 11:33:14 GMT
+    Open Y; Passed n; Yea 15088 DAO; Nay 0
+    Deposit 0 WEI; Amount 746.359658653056584615 ETH
+    Creator 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    Recipient 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 14.3; non-split; Voting to Sun, 17 Jul 2016 11:48:54 GMT
+    Open n; Passed Y; Yea 74636 DAO; Nay 0
+    Deposit 0 WEI; Amount 746.359658653056584614 ETH
+    Creator 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    Recipient 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 14.4; non-split; Voting to Sun, 17 Jul 2016 11:50:24 GMT
+    Open Y; Passed n; Yea 15088 DAO; Nay 0
+    Deposit 0 WEI; Amount 746.3 ETH
+    Creator 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    Recipient 0x7b0aed10c3b86738f96cbd4fb0933085e0e1ddca
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 15; non-split; Voting to Mon, 13 Jun 2016 16:27:09 GMT
+  Open Y; Passed n; Yea 21145886 DAO; Nay 7336710 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x0cddbbf2871745b092e5b91eed3066e890999b60
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Dear DAO - Tokenholders, I am a simple DAO-Tokenholder and I will not post anyth
+  ing on the conventional Web2.0 social media. At the moment, it seems voting in t
+  he DAO has security issues. I am asking all DAO-Tokenholders to show the actual 
+  voting-power of the DAO. Please vote YES to show you are actually voting. Please
+   vote NO to show that you are voting but unfortunately, you are a little bit ann
+  oyed by that proposal. I am serious. That's why I am willing to spend 2 ETH for 
+  this proposal. Lets show what we've got! The DAO is alive! I am auxborg
+  
+  --------------------------------------------------------------------------------
+  Proposal 16; SPLIT; Voting to Tue, 07 Jun 2016 01:02:47 GMT
+  Open Y; Passed Y; Yea 130199 DAO; Nay 3892662 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb0ea1855228793d06e22dd6164fe6e8ea60a9145
+  Recipient 0x7c81d252d9d1295058cd3620835f37e0eedd8840
+  
+  Split 0x7C8
+  
+  (Trusted)
+  Address      0x200450f06520bdd6c527622a273333384d870efb with 1250.001619314659344457 ETH and 125000 DAO
+  ExtraBalance 0xbe8539bfe837b67d1282b2b1d61c3f723966f049 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 16.1; non-split; Voting to Fri, 19 Aug 2016 12:52:21 GMT
+    Open Y; Passed n; Yea 125000 DAO; Nay 0
+    Deposit 0 WEI; Amount 1250.001619314659344457 ETH
+    Creator 0xb0ea1855228793d06e22dd6164fe6e8ea60a9145
+    Recipient 0x7c81d252d9d1295058cd3620835f37e0eedd8840
+    
+    cash-out
+    
+  --------------------------------------------------------------------------------
+  Proposal 17; non-split; Voting to Tue, 14 Jun 2016 01:39:18 GMT
+  Open Y; Passed n; Yea 116433834 DAO; Nay 7260134 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x6fc4d393bcebc69dbc8a6877e098babd19504e3b
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Raising the Proposal Deposit to 11 ETH  \n  This Proposal will raise the deposit
+   required to make a Proposal to The DAO from 2 ETH to 11 ETH. \n \n An increase 
+  of the Proposal Deposit to **11 ETH** is expected to:\n \n \n \n - decrease the 
+  number of poorly thought-out proposals. \n \n - help avoid the confusion and con
+  cern that could be caused by hundreds of proposals that cannot be adequately ass
+  essed by DAO Token Holders. \n \n - reduce the number of spam proposals and amou
+  nt of proposal-graffiti on The DAO. \n \n \n   Moreover, the time spent on revie
+  wing proposals by DAO Token Holders should be valued.  Therefore, additional val
+  ue will accrue to The DAO because of this Proposal from the proposal deposits th
+  at stay with The DAO when proposals fail to reach quorum. \n \n While an increas
+  e is necessary, **11 ETH is still within reach for small start-ups and individua
+  ls** that will want to offer services to The DAO.  \n \n [Join the conversation 
+  about this proposal on DAOhub.org](https://forum.daohub.org/t/raising-the-propos
+  al-deposit-to-11-eth/4106)   \n \n ![Graphic: decrease proposals, increase quali
+  ty](https://ipfs.pics/ipfs/Qmcg2geJ2eCSMEBBSbP8Z56AZgg6mnfTHo56t4SBC74873)   \n 
+  \n
+  
+  --------------------------------------------------------------------------------
+  Proposal 18; SPLIT; Voting to Tue, 07 Jun 2016 07:17:14 GMT
+  Open Y; Passed Y; Yea 2200 DAO; Nay 3913649 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x13680fa2a60fd551894199f009cca20fb63a3e31
+  Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+  
+  
+  (Safe)
+  Address      0x6b0c4d41ba9ab8d8cfb5d379c69a612f2ced8ecb with 854763543 WEI and 3457504 DAO
+  ExtraBalance 0xf1385fb24aad0cd7432824085e42aff90886fef5 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 18.1; non-split; Voting to Mon, 18 Jul 2016 07:20:55 GMT
+    Open n; Passed Y; Yea 3457504 DAO; Nay 0
+    Deposit 1000000000000 WEI; Amount 34575.036590231999999999 ETH
+    Creator 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    Recipient 0x13680fa2a60fd551894199f009cca20fb63a3e31
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 19; SPLIT; Voting to Tue, 07 Jun 2016 07:38:00 GMT
+  Open Y; Passed Y; Yea 1686496 DAO; Nay 3906901 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf398c9b8107dccc697546969fb2d5956762b60fb
+  Recipient 0xf398c9b8107dccc697546969fb2d5956762b60fb
+  
+  split-ID-x8nj2z
+  
+  (Safe)
+  Address      0xd1ac8b1ef1b69ff51d1d401a476e7e612414f091 with 0.01838773708354335 ETH and 1686498 DAO
+  ExtraBalance 0x8163e7fb499e90f8544ea62bbf80d21cd26d9efd with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 19.1; non-split; Voting to Mon, 18 Jul 2016 07:59:29 GMT
+    Open n; Passed Y; Yea 1686498 DAO; Nay 0
+    Deposit 0 WEI; Amount 0.5 ETH
+    Creator 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    Recipient 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    
+    withdrawal-TEST
+    
+    --------------------------------------------------------------------------------
+    Proposal 19.2; non-split; Voting to Mon, 18 Jul 2016 08:03:59 GMT
+    Open n; Passed Y; Yea 1686498 DAO; Nay 0
+    Deposit 0 WEI; Amount 16864 ETH
+    Creator 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    Recipient 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    
+    withdrawal
+    
+    --------------------------------------------------------------------------------
+    Proposal 19.3; non-split; Voting to Mon, 18 Jul 2016 08:07:08 GMT
+    Open n; Passed Y; Yea 1686498 DAO; Nay 0
+    Deposit 0 WEI; Amount 0.46 ETH
+    Creator 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    Recipient 0xf398c9b8107dccc697546969fb2d5956762b60fb
+    
+    withdrawal-change
+    
+  --------------------------------------------------------------------------------
+  Proposal 20; SPLIT; Voting to Tue, 07 Jun 2016 09:08:31 GMT
+  Open Y; Passed Y; Yea 1000 DAO; Nay 3906621 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe7535ddfcbefe5c318d271476d068d5f7cf77290
+  Recipient 0xe7535ddfcbefe5c318d271476d068d5f7cf77290
+  
+  
+  (Trusted)
+  Address      0x51e0ddd9998364a2eb38588679f0d2c42653e4a6 with 10.000012954517274755 ETH and 1000 DAO
+  ExtraBalance 0x627a0a960c079c21c34f7612d5d230e01b4ad4c7 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 21; SPLIT; Voting to Tue, 07 Jun 2016 09:14:14 GMT
+  Open Y; Passed n; Yea 0; Nay 3866621 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe7535ddfcbefe5c318d271476d068d5f7cf77290
+  Recipient 0xe7535ddfcbefe5c318d271476d068d5f7cf77290
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 22; SPLIT; Voting to Tue, 07 Jun 2016 09:50:32 GMT
+  Open Y; Passed Y; Yea 240000 DAO; Nay 3894155 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x95a61f934d66580dd410a7369f9c5b8e228d2ff3
+  Recipient 0x95a61f934d66580dd410a7369f9c5b8e228d2ff3
+  
+  
+  (Safe)
+  Address      0xf0b1aa0eb660754448a7937c022e30aa692fe0c5 with 0 WEI and 240000 DAO
+  ExtraBalance 0x24c4d950dfd4dd1902bbed3508144a54542bba94 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 22.1; non-split; Voting to Tue, 19 Jul 2016 13:24:32 GMT
+    Open n; Passed Y; Yea 240000 DAO; Nay 0
+    Deposit 1 ETH; Amount 2400.003009084016396185 ETH
+    Creator 0x95a61f934d66580dd410a7369f9c5b8e228d2ff3
+    Recipient 0xde551cfbbb2f462b159924119883381dacd67446
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 23; SPLIT; Voting to Tue, 07 Jun 2016 13:21:23 GMT
+  Open Y; Passed Y; Yea 10000 DAO; Nay 3885354 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6c0d74c64b4ed871837651c4ab3cdce425c1ec6c
+  Recipient 0x357d083321319cc1a8ebad90ba1db06c8698eef6
+  
+  sploot
+  
+  (Trusted)
+  Address      0x9f27daea7aca0aa0446220b98d028715e3bc803d with 11277 WEI and 10000 DAO
+  ExtraBalance 0xa5dc5acd6a7968a4554d89d65e59b7fd3bff0f90 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 23.1; non-split; Voting to Mon, 25 Jul 2016 02:40:19 GMT
+    Open n; Passed Y; Yea 10000 DAO; Nay 0
+    Deposit 0 WEI; Amount 99.99864772325311 ETH
+    Creator 0x6c0d74c64b4ed871837651c4ab3cdce425c1ec6c
+    Recipient 0x357d083321319cc1a8ebad90ba1db06c8698eef6
+    
+    please turn out the lights
+    
+  --------------------------------------------------------------------------------
+  Proposal 24; SPLIT; Voting to Tue, 07 Jun 2016 15:14:52 GMT
+  Open Y; Passed n; Yea 10 DAO; Nay 3885354 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3065a8444787f076bff10e5df3ec66606e3c8b68
+  Recipient 0x3065a8444787f076bff10e5df3ec66606e3c8b68
+  
+  WL split
+  
+  --------------------------------------------------------------------------------
+  Proposal 25; SPLIT; Voting to Tue, 07 Jun 2016 16:56:00 GMT
+  Open Y; Passed n; Yea 100000 DAO; Nay 3885354 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1873f651ecf56d27c01d8d17a1bf06a9acf8830b
+  Recipient 0x1873f651ecf56d27c01d8d17a1bf06a9acf8830b
+  
+  0x187 canonball
+  
+  --------------------------------------------------------------------------------
+  Proposal 26; SPLIT; Voting to Tue, 07 Jun 2016 17:07:42 GMT
+  Open Y; Passed Y; Yea 10000 DAO; Nay 3885354 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x2b15c5211bda6a867c582080536f6c61766aa5af
+  Recipient 0x2b15c5211bda6a867c582080536f6c61766aa5af
+  
+  0x2b15 DAO Split
+  
+  (Trusted)
+  Address      0xd9aef3a1e38a39c16b31d1ace71bca8ef58d315b with 100.000129545172747556 ETH and 10000 DAO
+  ExtraBalance 0x63ed5a272de2f6d968408b4acb9024f4cc208ebf with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 27; SPLIT; Voting to Tue, 07 Jun 2016 20:55:11 GMT
+  Open Y; Passed Y; Yea 4117 DAO; Nay 3881047 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa7c605a1aacb641d873c82f9b2715e87339dfd48
+  Recipient 0xa7c605a1aacb641d873c82f9b2715e87339dfd48
+  
+  n0k0 split
+  
+  (Trusted)
+  Address      0x6f6704e5a10332af6672e50b3d9754dc460dfa4d with 41.1733457680128043 ETH and 4117 DAO
+  ExtraBalance 0x77ca7b50b6cd7e2f3fa008e24ab793fd56cb15f6 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 27.1; non-split; Voting to Sat, 23 Jul 2016 01:28:27 GMT
+    Open n; Passed n; Yea 4117 DAO; Nay 0
+    Deposit 0 WEI; Amount 41.1733457680128043 ETH
+    Creator 0xa7c605a1aacb641d873c82f9b2715e87339dfd48
+    Recipient 0xa7c605a1aacb641d873c82f9b2715e87339dfd48
+    
+    See Ya!
+    
+  --------------------------------------------------------------------------------
+  Proposal 28; SPLIT; Voting to Tue, 07 Jun 2016 21:11:05 GMT
+  Open Y; Passed Y; Yea 22738 DAO; Nay 3885354 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb18e6467db64686dfed14c7368ca59e5019c95c8
+  Recipient 0xb18e6467db64686dfed14c7368ca59e5019c95c8
+  
+  0xB18e split
+  
+  (Trusted)
+  Address      0x492ea3bb0f3315521c31f273e565b868fc090f17 with 0 WEI and 36738 DAO
+  ExtraBalance 0x0ff30d6de14a8224aa97b78aea5388d1c51c1f00 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 28.1; non-split; Voting to Wed, 27 Jul 2016 01:31:53 GMT
+    Open n; Passed Y; Yea 36738 DAO; Nay 0
+    Deposit 0 WEI; Amount 367.380383063135344585 ETH
+    Creator 0xb18e6467db64686dfed14c7368ca59e5019c95c8
+    Recipient 0xb18e6467db64686dfed14c7368ca59e5019c95c8
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 29; SPLIT; Voting to Tue, 07 Jun 2016 22:55:02 GMT
+  Open Y; Passed Y; Yea 1275843 DAO; Nay 46974 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+  Recipient 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+  
+  
+  (Trusted)
+  Address      0x9ea779f907f0b315b364b0cfc39a0fde5b02a416 with 90010 WEI and 1583946 DAO
+  ExtraBalance 0xceaeb481747ca6c540a000c1f3641f8cef161fa7 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 29.1; non-split; Voting to Sun, 24 Jul 2016 19:39:52 GMT
+    Open n; Passed Y; Yea 1583946 DAO; Nay 0
+    Deposit 2 ETH; Amount 15839.461690131427 ETH
+    Creator 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+    Recipient 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 30; SPLIT; Voting to Wed, 08 Jun 2016 00:52:46 GMT
+  Open Y; Passed n; Yea 24654 DAO; Nay 44307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x479abf2da4d58716fd973a0d13a75f530150260a
+  Recipient 0x479abf2da4d58716fd973a0d13a75f530150260a
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 31; SPLIT; Voting to Wed, 08 Jun 2016 07:09:05 GMT
+  Open Y; Passed Y; Yea 7319 DAO; Nay 44307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf8c3879ee8dde81f074abca79b2270eab9942ec1
+  Recipient 0xf8c3879ee8dde81f074abca79b2270eab9942ec1
+  
+  my_pitui
+  
+  (Trusted)
+  Address      0xcc34673c6c40e791051898567a1222daf90be287 with 0.060000077727103648 ETH and 6 DAO
+  ExtraBalance 0x579a80d909f346fbfb1189493f521d7f48d52238 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 32; SPLIT; Voting to Wed, 08 Jun 2016 12:34:38 GMT
+  Open Y; Passed Y; Yea 18008 DAO; Nay 44307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb42da5b3701a0592e5aa0aebc0c20711bd49fb46
+  Recipient 0xb42da5b3701a0592e5aa0aebc0c20711bd49fb46
+  
+  0xB42 private split
+  
+  (Safe)
+  Address      0xe308bd1ac5fda103967359b2712dd89deffb7973 with 0 WEI and 10705 DAO
+  ExtraBalance 0x4cb31628079fb14e4bc3cd5e30c2f7489b00960c with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 32.1; non-split; Voting to Wed, 20 Jul 2016 12:38:58 GMT
+    Open n; Passed Y; Yea 10705 DAO; Nay 0
+    Deposit 0 WEI; Amount 107.050138678107426259 ETH
+    Creator 0xb42da5b3701a0592e5aa0aebc0c20711bd49fb46
+    Recipient 0xb42da5b3701a0592e5aa0aebc0c20711bd49fb46
+    
+    gimme
+    
+  --------------------------------------------------------------------------------
+  Proposal 33; SPLIT; Voting to Wed, 08 Jun 2016 13:34:36 GMT
+  Open Y; Passed Y; Yea 7313 DAO; Nay 44307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcf69ab35bb6a87a68ce83571a174eef4f998baa7
+  Recipient 0xcf69ab35bb6a87a68ce83571a174eef4f998baa7
+  
+  
+  (Safe)
+  Address      0xac1ecab32727358dba8962a0f3b261731aad9723 with 1 WEI and 1313899 DAO
+  ExtraBalance 0x4fd6ace747f06ece9c49699c7cabc62d02211f75 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 33.1; non-split; Voting to Tue, 19 Jul 2016 20:22:29 GMT
+    Open n; Passed Y; Yea 1313899 DAO; Nay 0
+    Deposit 5000000000000000 WEI; Amount 13138.99017614697121269 ETH
+    Creator 0xcf69ab35bb6a87a68ce83571a174eef4f998baa7
+    Recipient 0xcf69ab35bb6a87a68ce83571a174eef4f998baa7
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 34; SPLIT; Voting to Wed, 08 Jun 2016 22:11:40 GMT
+  Open Y; Passed Y; Yea 26685 DAO; Nay 45307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfdf97eaa34a883647fac329926b1747e9ef601c6
+  Recipient 0xfdf97eaa34a883647fac329926b1747e9ef601c6
+  
+  arbitrageservice 0.00 - test
+  
+  (Trusted)
+  Address      0x440c59b325d2997a134c2c7c60a8c61611212bad with 0.054104538362875475 ETH and 26685 DAO
+  ExtraBalance 0x4486a3d68fac6967006d7a517b889fd3f98c102b with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 34.1; non-split; Voting to Wed, 27 Jul 2016 07:36:21 GMT
+    Open n; Passed Y; Yea 26685 DAO; Nay 0
+    Deposit 0 WEI; Amount 266.8 ETH
+    Creator 0xfdf97eaa34a883647fac329926b1747e9ef601c6
+    Recipient 0xfdf97eaa34a883647fac329926b1747e9ef601c6
+    
+    recovery
+    
+  --------------------------------------------------------------------------------
+  Proposal 35; SPLIT; Voting to Wed, 08 Jun 2016 23:19:09 GMT
+  Open Y; Passed Y; Yea 331 DAO; Nay 45307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaf496a1083a3a7c7edb831f2e9a31eb065f5a228
+  Recipient 0xaf496a1083a3a7c7edb831f2e9a31eb065f5a228
+  
+  E's Castle Rock
+  
+  (Untrusted)
+  Address      0x9c15b54878ba618f494b38f0ae7443db6af648ba with 2.236999142516500888 ETH and 224 DAO
+  ExtraBalance 0x27b137a85656544b1ccb5a0f2e561a5703c6a68f with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 36; SPLIT; Voting to Wed, 08 Jun 2016 23:26:39 GMT
+  Open Y; Passed Y; Yea 9 DAO; Nay 45307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaf496a1083a3a7c7edb831f2e9a31eb065f5a228
+  Recipient 0xaf496a1083a3a7c7edb831f2e9a31eb065f5a228
+  
+  Galt's Gulch
+  
+  (Untrusted)
+  Address      0x21c7fdb9ed8d291d79ffd82eb2c4356ec0d81241 with 0.027428797178668633 ETH and 3 DAO
+  ExtraBalance 0x23b75c2f6791eef49c69684db4c6c1f93bf49a50 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 37; SPLIT; Voting to Thu, 09 Jun 2016 02:03:12 GMT
+  Open Y; Passed Y; Yea 7676 DAO; Nay 44307 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x98dac39fdcc5c9a8dfc6f63898b62704806851b4
+  Recipient 0x98dac39fdcc5c9a8dfc6f63898b62704806851b4
+  
+  0x98dac split
+  
+  (Trusted)
+  Address      0x1ca6abd14d30affe533b24d7a21bff4c2d5e1f3b with 76.761842290232377901 ETH and 7676 DAO
+  ExtraBalance 0xb9637156d330c0d605a791f1c31ba5890582fe1c with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 38; SPLIT; Voting to Thu, 28 Jul 2016 03:23:50 GMT
+  Open Y; Passed n; Yea 24565 DAO; Nay 4692 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaf496a1083a3a7c7edb831f2e9a31eb065f5a228
+  Recipient 0x3822e5ff792e75817b89f5bbb405fc4a9d1a0552
+  
+  The Ilium Works
+  
+  --------------------------------------------------------------------------------
+  Proposal 39; SPLIT; Voting to Thu, 09 Jun 2016 05:38:01 GMT
+  Open Y; Passed Y; Yea 212183 DAO; Nay 3904410 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf4c0eef475ab35625ac223394f9c410ccb577747
+  Recipient 0xf4c0eef475ab35625ac223394f9c410ccb577747
+  
+  GFX, others please don't vote
+  
+  (Trusted)
+  Address      0x6131c42fa982e56929107413a9d526fd99405560 with 56186 WEI and 212184 DAO
+  ExtraBalance 0x1591fc0f688c81fbeb17f5426a162a7024d430c2 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 39.1; non-split; Voting to Wed, 20 Jul 2016 19:45:04 GMT
+    Open n; Passed Y; Yea 212184 DAO; Nay 0
+    Deposit 0 WEI; Amount 2121.8372493624692 ETH
+    Creator 0xf4c0eef475ab35625ac223394f9c410ccb577747
+    Recipient 0xf4c0eef475ab35625ac223394f9c410ccb577747
+    
+    Terug
+    
+  --------------------------------------------------------------------------------
+  Proposal 40; non-split; Voting to Fri, 17 Jun 2016 05:25:37 GMT
+  Open Y; Passed n; Yea 50845388 DAO; Nay 507877 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x13370ca2e8426a82bcfcce21c97817a243c521cf
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Return dao tokens accidentally sent to TheDao.  56,829 tokens have been sent to 
+  TheDao.  This proposal will send those tokens to a contract where they can be cl
+  aimed by the original owners for free.  Token not claimed can be purchased and t
+  he eth from the purchase is sent back to TheDao.  The contract address is 0xe3B6
+  638F0C1C0FA37282FAb6eF9457e457A1E9a8 with sources verified on etherscan.  Thanks
+  , -psdev
+  
+  --------------------------------------------------------------------------------
+  Proposal 41; SPLIT; Voting to Fri, 10 Jun 2016 06:04:03 GMT
+  Open Y; Passed Y; Yea 0.190000000000000002 DAO; Nay 3888583 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfaed3f06255794bf3f83d7ab08d4554d5d218b41
+  Recipient 0xfaed3f06255794bf3f83d7ab08d4554d5d218b41
+  
+  
+  (Trusted)
+  Address      0x542a9515200d14b68e934e9830d91645a980dd7a with 1 WEI and 1254878 DAO
+  ExtraBalance 0xc4bbd073882dd2add2424cf47d35213405b01324 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 41.1; non-split; Voting to Sat, 23 Jul 2016 11:23:57 GMT
+    Open n; Passed Y; Yea 1254878 DAO; Nay 0
+    Deposit 10000000000000000 WEI; Amount 12548.783143344641481995 ETH
+    Creator 0xfaed3f06255794bf3f83d7ab08d4554d5d218b41
+    Recipient 0xfaed3f06255794bf3f83d7ab08d4554d5d218b41
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 42; SPLIT; Voting to Fri, 10 Jun 2016 06:23:17 GMT
+  Open Y; Passed n; Yea 54977 DAO; Nay 3896914 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x18e53243981aabc8767da10c73449f1391560eaa
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 43; non-split; Voting to Fri, 17 Jun 2016 14:03:24 GMT
+  Open Y; Passed n; Yea 729601 DAO; Nay 1921669 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0xbc6292a8c9691b3a456406e34613632349c0cf7c
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Would you try (or contribute to) a collaborative musical performance application
+  ? - solam.co/loops -
+  
+  --------------------------------------------------------------------------------
+  Proposal 44; SPLIT; Voting to Fri, 10 Jun 2016 21:54:53 GMT
+  Open Y; Passed Y; Yea 25000 DAO; Nay 3910121 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5a422fb07fc9270f5b310fc61f85b8e779cb29a2
+  Recipient 0x5a422fb07fc9270f5b310fc61f85b8e779cb29a2
+  
+  Hotdog cheap plot gongzho dao
+  
+  (Trusted)
+  Address      0x782495b7b3355efb2833d56ecb34dc22ad7dfcc4 with 250.000323862931868891 ETH and 25000 DAO
+  ExtraBalance 0x58b95c9a9d5d26825e70a82b6adb139d3fd829eb with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 45; SPLIT; Voting to Sat, 11 Jun 2016 19:27:05 GMT
+  Open Y; Passed Y; Yea 100 DAO; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  Recipient 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  
+  
+  (Safe)
+  Address      0x3ba4d81db016dc2890c81f3acec2454bff5aada5 with 1 WEI and 0.000000000000000100 DAO
+  ExtraBalance 0xb52042c8ca3f8aa246fa79c3feaa3d959347c0ab with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 46; SPLIT; Voting to Sat, 11 Jun 2016 19:27:05 GMT
+  Open Y; Passed n; Yea 100 DAO; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  Recipient 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 47; SPLIT; Voting to Sat, 11 Jun 2016 19:27:05 GMT
+  Open Y; Passed n; Yea 100 DAO; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  Recipient 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 48; SPLIT; Voting to Sat, 11 Jun 2016 19:27:05 GMT
+  Open Y; Passed n; Yea 100 DAO; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  Recipient 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 49; SPLIT; Voting to Sat, 11 Jun 2016 19:27:05 GMT
+  Open Y; Passed n; Yea 738 DAO; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  Recipient 0x5824a7486ea2ec17749f936c7b89faa4972f8eb1
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 50; SPLIT; Voting to Sat, 11 Jun 2016 21:50:08 GMT
+  Open Y; Passed n; Yea 0; Nay 3844276 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0ee82c5e35cbcf9e1271808f0386b930ee8ae8a2
+  Recipient 0x0ee82c5e35cbcf9e1271808f0386b930ee8ae8a2
+  
+  m split
+  
+  --------------------------------------------------------------------------------
+  Proposal 51; non-split; Voting to Sun, 19 Jun 2016 17:59:48 GMT
+  Open Y; Passed n; Yea 10799915 DAO; Nay 508471 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x0cddbbf2871745b092e5b91eed3066e890999b60
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  #42 ULTIMATE SHOW OFF DAO Community! Let´s show DAO´s voting power! Simply vot
+  e yay or nay - it doesen´t matter.  BUT VOTE! (I beg you!)
+  
+  --------------------------------------------------------------------------------
+  Proposal 52; SPLIT; Voting to Mon, 13 Jun 2016 14:37:36 GMT
+  Open Y; Passed Y; Yea 350 DAO; Nay 3844526 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaf2ac7f7115e96eed2d7a992c6d9558275da55d4
+  Recipient 0x56ae819a1bc418121a6e8428b5884f7604152322
+  
+  test split 1337
+  
+  (Trusted)
+  Address      0xe4ae1efdfc53b73893af49113d8694a057b9c0d1 with 6477258637377 WEI and 500 DAO
+  ExtraBalance 0x3c02a7bc0391e86d91b7d144e61c2c01a25a79c5 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 52.1; non-split; Voting to Tue, 26 Jul 2016 12:35:19 GMT
+    Open n; Passed Y; Yea 500 DAO; Nay 0
+    Deposit 0 WEI; Amount 5 ETH
+    Creator 0x56ae819a1bc418121a6e8428b5884f7604152322
+    Recipient 0x56ae819a1bc418121a6e8428b5884f7604152322
+    
+    withdrawal 1337
+    
+  --------------------------------------------------------------------------------
+  Proposal 53; SPLIT; Voting to Mon, 13 Jun 2016 18:28:42 GMT
+  Open Y; Passed Y; Yea 1000 DAO; Nay 3847136 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4853143d0f5524df67a0a5bdd2fb63c76c7693f6
+  Recipient 0x4853143d0f5524df67a0a5bdd2fb63c76c7693f6
+  
+  arbitrage ftw 2
+  
+  (Untrusted)
+  Address      0x0737a6b837f97f46ebade41b9bc3e1c509c85c53 with 7.144077587762826223 ETH and 714 DAO
+  ExtraBalance 0x97f43a37f595ab5dd318fb46e7a155eae057317a with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 54; SPLIT; Voting to Mon, 13 Jun 2016 20:00:31 GMT
+  Open Y; Passed Y; Yea 200 DAO; Nay 3838630 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0f935781046701897c9e0d9876fb5c82d89d53be
+  Recipient 0x0f935781046701897c9e0d9876fb5c82d89d53be
+  
+  split me baby one more time
+  
+  (Trusted)
+  Address      0x52c5317c848ba20c7504cb2c8052abd1fde29d03 with 2585721648041229 WEI and 199600 DAO
+  ExtraBalance 0x4863226780fe7c0356454236d3b1c8792785748d with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 54.1; non-split; Voting to Thu, 28 Jul 2016 16:10:40 GMT
+    Open n; Passed Y; Yea 199600 DAO; Nay 0
+    Deposit 0 WEI; Amount 1996 ETH
+    Creator 0x0f935781046701897c9e0d9876fb5c82d89d53be
+    Recipient 0x0f935781046701897c9e0d9876fb5c82d89d53be
+    
+    do it - do it
+    
+  --------------------------------------------------------------------------------
+  Proposal 55; SPLIT; Voting to Mon, 13 Jun 2016 20:37:57 GMT
+  Open Y; Passed n; Yea 477555 DAO; Nay 3838380 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf2a83b593162d77c62337a02668be1ee088cb55d
+  Recipient 0xf2a83b593162d77c62337a02668be1ee088cb55d
+  
+  0xF2a83 Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 56; SPLIT; Voting to Tue, 14 Jun 2016 15:42:02 GMT
+  Open Y; Passed Y; Yea 500 DAO; Nay 3858630 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5accb9f69bb0c04465d6701bdce4d8bd0198d0f6
+  Recipient 0x55d1554b08a5311c5c0a0b6464162192f9d2f884
+  
+  Baby Split
+  
+  (Trusted)
+  Address      0x5d2b2e6fcbe3b11d26b525e085ff818dae332479 with 5.000006477258637377 ETH and 500 DAO
+  ExtraBalance 0x5f9f3392e9f62f63b8eac0beb55541fc8627f42c with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 56.1; non-split; Voting to Fri, 12 Aug 2016 14:41:04 GMT
+    Open Y; Passed n; Yea 500 DAO; Nay 0
+    Deposit 0 WEI; Amount 5 ETH
+    Creator 0x5accb9f69bb0c04465d6701bdce4d8bd0198d0f6
+    Recipient 0xc27ed3f27d6a3966d06348c6237525ae827e28eb
+    
+    Escape Hatch
+    
+  --------------------------------------------------------------------------------
+  Proposal 57; SPLIT; Voting to Tue, 14 Jun 2016 17:37:38 GMT
+  Open Y; Passed Y; Yea 2 DAO; Nay 3838380 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x065f074f1e93a215a9a05b2c92059ca44a4827eb
+  Recipient 0x065f074f1e93a215a9a05b2c92059ca44a4827eb
+  
+  split-0x065f
+  
+  (Trusted)
+  Address      0x057b56736d32b86616a10f619859c6cd6f59092a with 9900012824972102 WEI and 0.990001282497210200 DAO
+  ExtraBalance 0x9aa008f65de0b923a2a4f02012ad034a5e2e2192 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 58; SPLIT; Voting to Tue, 14 Jun 2016 19:09:12 GMT
+  Open Y; Passed n; Yea 560 DAO; Nay 3838630 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc4dc238f4ff143480f64456e0c4837e1c802934e
+  Recipient 0xc4dc238f4ff143480f64456e0c4837e1c802934e
+  
+  this is rickdiculous!
+  
+  --------------------------------------------------------------------------------
+  Proposal 59; SPLIT; Voting to Wed, 15 Jun 2016 05:38:01 GMT
+  Open n; Passed Y; Yea 0.000000000000000200 DAO; Nay 3838630 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb656b2a9c3b2416437a811e07466ca712f5a5b5a
+  Recipient 0xb656b2a9c3b2416437a811e07466ca712f5a5b5a
+  
+  lonely, so lonely
+  
+  (Baddies)
+  Address      0x304a554a310c7e546dfe434669c62820b7d83490 with 11 WEI and 364240853 DAO
+  ExtraBalance 0x914d1b8b43e92723e64fd0a06f5bdb8dd9b10c79 with 285.714295714285714286 ETH
+    --------------------------------------------------------------------------------
+    Proposal 59.1; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.2; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.3; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.4; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.5; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.6; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.7; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.8; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.9; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.10; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+    Open Y; Passed Y; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+    Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+    
+    
+    (Baddies)
+    Address      0x10abb5efecdc09581f8b7cb95791fe2936790b4e with 3642408.52761279270689932 ETH and 364240853 DAO
+    ExtraBalance 0xfde8d5f77ef48bb7bf5766c7404691b9ee1dfca7 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 59.11; SPLIT; Voting to Thu, 21 Jul 2016 03:35:57 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+    
+    Split for great Justice
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.12; non-split; Voting to Thu, 28 Jul 2016 03:40:27 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 3642408.527612792706899331 ETH
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+    
+    Ending this game would be nice
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.13; non-split; Voting to Thu, 28 Jul 2016 03:50:41 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 3642408.527612792706899331 ETH
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0xda4a4626d3e16e094de3225a751aab7128e96526
+    
+    Ending this game would be nice
+    
+    --------------------------------------------------------------------------------
+    Proposal 59.14; SPLIT; Voting to Thu, 21 Jul 2016 03:52:48 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    
+    Split for great Justice
+    
+  --------------------------------------------------------------------------------
+  Proposal 60; SPLIT; Voting to Wed, 15 Jun 2016 12:40:40 GMT
+  Open Y; Passed Y; Yea 10 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x65c407ffea9fcff194fe9d3335d2b78416226056
+  Recipient 0x65c407ffea9fcff194fe9d3335d2b78416226056
+  
+  0x65split
+  
+  (Trusted)
+  Address      0x4deb0033bb26bc534b197e61d19e0733e5679784 with 1256.101627216914882057 ETH and 125610 DAO
+  ExtraBalance 0x07f5c1e1bc2c93e0402f23341973a0e043f7bf8a with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 60.1; non-split; Voting to Mon, 08 Aug 2016 02:08:30 GMT
+    Open Y; Passed n; Yea 125610 DAO; Nay 0
+    Deposit 0 WEI; Amount 1255 WEI
+    Creator 0x65c407ffea9fcff194fe9d3335d2b78416226056
+    Recipient 0x65c407ffea9fcff194fe9d3335d2b78416226056
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 61; SPLIT; Voting to Wed, 15 Jun 2016 14:08:24 GMT
+  Open Y; Passed Y; Yea 500 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x42b8a09e46e6e367ed0135d3cd7fbdce777e0873
+  Recipient 0x42b8a09e46e6e367ed0135d3cd7fbdce777e0873
+  
+  banana split
+  
+  (Trusted)
+  Address      0x35a051a0010aba705c9008d7a7eff6fb88f6ea7b with 15.276059789372406985 ETH and 1528 DAO
+  ExtraBalance 0x4fa802324e929786dbda3b8820dc7834e9134a2a with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 62; SPLIT; Voting to Wed, 15 Jun 2016 18:24:51 GMT
+  Open Y; Passed Y; Yea 115106 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4e0494181464ce213089eb86b8195ed135eb4d48
+  Recipient 0x4e0494181464ce213089eb86b8195ed135eb4d48
+  
+  0x4E04 split proposal
+  
+  (Untrusted)
+  Address      0x9da397b9e80755301a3b32173283a91c0ef6c87e with 934.889382511061152028 ETH and 93489 DAO
+  ExtraBalance 0x8d9edb3054ce5c5774a420ac37ebae0ac02343c6 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 62.1; non-split; Voting to Fri, 05 Aug 2016 08:30:03 GMT
+    Open n; Passed Y; Yea 93489 DAO; Nay 0
+    Deposit 0 WEI; Amount 934 WEI
+    Creator 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    Recipient 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    
+    xyzzy
+    
+    --------------------------------------------------------------------------------
+    Proposal 62.2; non-split; Voting to Fri, 05 Aug 2016 19:55:52 GMT
+    Open n; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 934.789382511061152962 ETH
+    Creator 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    Recipient 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    
+    All money this time
+    
+    --------------------------------------------------------------------------------
+    Proposal 62.3; non-split; Voting to Sat, 20 Aug 2016 09:04:30 GMT
+    Open Y; Passed n; Yea 93489 DAO; Nay 0
+    Deposit 0 WEI; Amount 934.689382511061152962 ETH
+    Creator 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    Recipient 0x4e0494181464ce213089eb86b8195ed135eb4d48
+    
+    Third time :-(
+    
+  --------------------------------------------------------------------------------
+  Proposal 63; SPLIT; Voting to Wed, 15 Jun 2016 22:09:46 GMT
+  Open Y; Passed Y; Yea 55938 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x46664c1e2ddd896a3e0c2b3d502842f261b9e62f
+  Recipient 0x46664c1e2ddd896a3e0c2b3d502842f261b9e62f
+  
+  Toni split
+  
+  (Trusted)
+  Address      0x0101f3be8ebb4bbd39a2e3b9a3639d4259832fd9 with 0.3849 ETH and 55938 DAO
+  ExtraBalance 0x5dc28b15dffed94048d73806ce4b7a4612a1d48f with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 63.1; non-split; Voting to Thu, 28 Jul 2016 17:17:45 GMT
+    Open n; Passed Y; Yea 55937 DAO; Nay 0
+    Deposit 0 WEI; Amount 559.000055979606013894 ETH
+    Creator 0x46664c1e2ddd896a3e0c2b3d502842f261b9e62f
+    Recipient 0x989ec34c00ce4025cf5b12542947a71e106ea521
+    
+    DAO Exit
+    
+  --------------------------------------------------------------------------------
+  Proposal 64; SPLIT; Voting to Thu, 16 Jun 2016 06:02:14 GMT
+  Open Y; Passed Y; Yea 3069670 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x547389052a8dc86365c46641b5184956ec22749d
+  Recipient 0x547389052a8dc86365c46641b5184956ec22749d
+  
+  0x54738 Split
+  
+  (Trusted)
+  Address      0xbcf899e6c7d9d5a215ab1e3444c86806fa854c76 with 124360133 WEI and 3069680 DAO
+  ExtraBalance 0x12e626b0eebfe86a56d633b9864e389b45dcb260 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 64.1; non-split; Voting to Wed, 27 Jul 2016 06:44:13 GMT
+    Open n; Passed Y; Yea 3069680 DAO; Nay 0
+    Deposit 0 WEI; Amount 30696.803822257 ETH
+    Creator 0x547389052a8dc86365c46641b5184956ec22749d
+    Recipient 0x547389052a8dc86365c46641b5184956ec22749d
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 65; SPLIT; Voting to Thu, 16 Jun 2016 07:18:53 GMT
+  Open Y; Passed Y; Yea 500 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x208e4a03118380b4f63cf056ecbfe0a241a41b46
+  Recipient 0x208e4a03118380b4f63cf056ecbfe0a241a41b46
+  
+  0x28e 432 split
+  
+  (Trusted)
+  Address      0xa2f1ccba9395d7fcb155bba8bc92db9bafaeade7 with 5.000006477258637377 ETH and 500 DAO
+  ExtraBalance 0xec8e57756626fdc07c63ad2eafbd28d08e7b0ca5 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 65.1; non-split; Voting to Fri, 29 Jul 2016 08:27:30 GMT
+    Open Y; Passed n; Yea 500 DAO; Nay 0
+    Deposit 0 WEI; Amount 5.000006477258637377 ETH
+    Creator 0x208e4a03118380b4f63cf056ecbfe0a241a41b46
+    Recipient 0x208e4a03118380b4f63cf056ecbfe0a241a41b46
+    
+    snow is a good dog
+    
+  --------------------------------------------------------------------------------
+  Proposal 66; SPLIT; Voting to Thu, 16 Jun 2016 13:16:31 GMT
+  Open Y; Passed Y; Yea 100000 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x9a9d6a470fc8034085ee8e509623e2f742da6625
+  Recipient 0x9a9d6a470fc8034085ee8e509623e2f742da6625
+  
+  THE DAO SHOWS THAT VAROUFAKIS HAS NO VISION
+  
+  (Trusted)
+  Address      0xd164b088bd9108b60d0ca3751da4bceb207b0782 with 1000.001295451727475566 ETH and 100000 DAO
+  ExtraBalance 0x6231b6d0d5e77fe001c2a460bd9584fee60d409b with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 67; SPLIT; Voting to Thu, 16 Jun 2016 15:34:40 GMT
+  Open Y; Passed Y; Yea 10 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3065a8444787f076bff10e5df3ec66606e3c8b68
+  Recipient 0x3065a8444787f076bff10e5df3ec66606e3c8b68
+  
+  WL split again
+  
+  (Untrusted)
+  Address      0x1cba23d343a983e9b5cfd19496b9a9701ada385f with 0.068587370259945226 ETH and 7 DAO
+  ExtraBalance 0xa82f360a8d3455c5c41366975bde739c37bfeb8a with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 68; SPLIT; Voting to Fri, 17 Jun 2016 05:51:34 GMT
+  Open Y; Passed Y; Yea 0.000000010000000000 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4b595e2328b73a7f4e4cb65b506a74d836bbd7f9
+  Recipient 0x4b595e2328b73a7f4e4cb65b506a74d836bbd7f9
+  
+  
+  (Untrusted)
+  Address      0x9fcd2deaff372a39cc679d5c5e4de7bafb0b1339 with 1409.336722195117395464 ETH and 140934 DAO
+  ExtraBalance 0x005f5cee7a43331d5a3d3eec71305925a62f34b6 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 68.1; non-split; Voting to Mon, 08 Aug 2016 10:06:06 GMT
+    Open Y; Passed n; Yea 140934 DAO; Nay 0
+    Deposit 0 WEI; Amount 1409.336722195117395464 ETH
+    Creator 0x4b595e2328b73a7f4e4cb65b506a74d836bbd7f9
+    Recipient 0x4b595e2328b73a7f4e4cb65b506a74d836bbd7f9
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 69; SPLIT; Voting to Fri, 17 Jun 2016 10:32:18 GMT
+  Open Y; Passed Y; Yea 11765917 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x96dade6c87e483acb081e9f669b4fc029a440e8b
+  Recipient 0x55d1554b08a5311c5c0a0b6464162192f9d2f884
+  
+  Congo Split
+  
+  (Infiltrated)
+  Address      0x0e0da70933f4c7849fc0d203f5d1d43b9ae4532d with 19173.240336954131945545 ETH and 1917324 DAO
+  ExtraBalance 0xd131637d5275fd1a68a3200f4ad25c71a2a9522e with 118.88651078515527458 ETH
+    --------------------------------------------------------------------------------
+    Proposal 69.1; SPLIT; Voting to Wed, 10 Aug 2016 11:54:53 GMT
+    Open Y; Passed n; Yea 500 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xbc701cb9fd9d4f6a24a44d718924279d187e7310
+    Recipient 0xbc701cb9fd9d4f6a24a44d718924279d187e7310
+    
+    ---
+    
+  --------------------------------------------------------------------------------
+  Proposal 70; SPLIT; Voting to Fri, 17 Jun 2016 10:35:54 GMT
+  Open n; Passed Y; Yea 43109583 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x96dade6c87e483acb081e9f669b4fc029a440e8b
+  Recipient 0x55d1554b08a5311c5c0a0b6464162192f9d2f884
+  
+  Congo Split
+  
+  (Untrusted)
+  Address      0xbc07118b9ac290e4622f5e77a0853539789effbe with 5634.097608979247392143 ETH and 563410 DAO
+  ExtraBalance 0x47e7aa56d6bdf3f36be34619660de61275420af8 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 70.1; non-split; Voting to Thu, 11 Aug 2016 15:15:13 GMT
+    Open Y; Passed n; Yea 171400 DAO; Nay 0
+    Deposit 0 WEI; Amount 1028.124680196578948798 ETH
+    Creator 0x835ad98ab8af27814f6563b3117d6b0ab897f83b
+    Recipient 0x835ad98ab8af27814f6563b3117d6b0ab897f83b
+    
+    withdraw share of 1028 ethers
+    
+    --------------------------------------------------------------------------------
+    Proposal 70.2; non-split; Voting to Thu, 11 Aug 2016 15:17:42 GMT
+    Open Y; Passed n; Yea 171400 DAO; Nay 0
+    Deposit 0 WEI; Amount 4605 ETH
+    Creator 0xa4084616dac89e5fd7b81c30e73deb7bcbcc8716
+    Recipient 0xc27ed3f27d6a3966d06348c6237525ae827e28eb
+    
+    Any issues call griff
+    
+  --------------------------------------------------------------------------------
+  Proposal 71; SPLIT; Voting to Fri, 17 Jun 2016 16:06:45 GMT
+  Open Y; Passed Y; Yea 6591643 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc1aba55035310a703ee450142eb31961a2723006
+  Recipient 0xc1aba55035310a703ee450142eb31961a2723006
+  
+  beer split
+  
+  (Untrusted)
+  Address      0xacd87e28b0c9d1254e868b81cba4cc20d9a32225 with 207.153967008322399135 ETH and 20715 DAO
+  ExtraBalance 0xadf80daec7ba8dcf15392f1ac611fff65d94f880 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 71.1; non-split; Voting to Wed, 17 Aug 2016 11:50:27 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 207.153967008322399135 ETH
+    Creator 0xbc701cb9fd9d4f6a24a44d718924279d187e7310
+    Recipient 0x68bbe7b8ea5c6435c427e1423d2b35da29eb148a
+    
+    ---
+    
+  --------------------------------------------------------------------------------
+  Proposal 72; SPLIT; Voting to Fri, 17 Jun 2016 20:48:50 GMT
+  Open Y; Passed n; Yea 26464165 DAO; Nay 250 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3c111dde8bbe5270b55f85e7c377c8fe4ee26242
+  Recipient 0x3c111dde8bbe5270b55f85e7c377c8fe4ee26242
+  
+  FUN-SPLT-42
+  
+  --------------------------------------------------------------------------------
+  Proposal 73; SPLIT; Voting to Sat, 18 Jun 2016 16:33:00 GMT
+  Open Y; Passed Y; Yea 997355 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa003e4b91180d3e06a03f1916fe94eb4c350850e
+  Recipient 0xa003e4b91180d3e06a03f1916fe94eb4c350850e
+  
+  
+  (Untrusted)
+  Address      0x5524c55fb03cf21f549444ccbecb664d0acad706 with 1.040487359828132511 ETH and 104 DAO
+  ExtraBalance 0x40b803a9abce16f50f36a77ba41180eb90023925 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 73.1; SPLIT; Voting to Wed, 03 Aug 2016 07:16:53 GMT
+    Open Y; Passed Y; Yea 677220 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xde013d0fb1b41ea3c86bb335487c52acc8484bf2
+    Recipient 0xe766ac7915e126f429abd534135179144627d01a
+    
+    afool split again
+    
+    (Untrusted)
+    Address      0xd98157ae53342c90cfd341417d3c856351c1df95 with 6772.203185900849465032 ETH and 677220 DAO
+    ExtraBalance 0x44d4b7faaddc01c253f01d8c2c33456026c0b895 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 74; SPLIT; Voting to Sun, 19 Jun 2016 11:53:33 GMT
+  Open Y; Passed Y; Yea 29871 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x374139a05ac55917badd3f934f1b93f5c8623ded
+  Recipient 0x1bc31e2e4f1bcc0a7dd9d849dfc57e66e59896ab
+  
+  
+  (Infiltrated)
+  Address      0xfe24cdd8648121a43a7c86d289be4dd2951ed49f with 269.833661813680507459 ETH and 26982 DAO
+  ExtraBalance 0x17802f43a0137c506ba92291391a8a8f207f487d with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 75; SPLIT; Voting to Sun, 19 Jun 2016 12:04:31 GMT
+  Open Y; Passed n; Yea 116 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x98e27ba4f77f2b4149402c0fd7b92921b47ac8f1
+  Recipient 0x98e27ba4f77f2b4149402c0fd7b92921b47ac8f1
+  
+  TestSplitT
+  
+  --------------------------------------------------------------------------------
+  Proposal 76; SPLIT; Voting to Sun, 19 Jun 2016 13:17:57 GMT
+  Open Y; Passed Y; Yea 518 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x7727b2afc5a6816452a455e65a6a7dd01d03af4b
+  Recipient 0x7727b2afc5a6816452a455e65a6a7dd01d03af4b
+  
+  Split Proposal - C
+  
+  (Untrusted)
+  Address      0x253488078a4edf4d6f42f113d1e62836a942cf1a with 3.486036451558542464 ETH and 349 DAO
+  ExtraBalance 0x86af3e9626fce1957c82e88cbf04ddf3a2ed7915 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 77; SPLIT; Voting to Sun, 19 Jun 2016 13:58:42 GMT
+  Open Y; Passed n; Yea 4010 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe51a940464fb615a5e081b9435477046f5d3b2b0
+  Recipient 0xe52435be3f079a6185f62766cbac3c0bdfaea5b4
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 78; SPLIT; Voting to Sun, 19 Jun 2016 16:14:00 GMT
+  Open Y; Passed Y; Yea 33337 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+  Recipient 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+  
+  Northern split
+  
+  (Goodies)
+  Address      0xb136707642a4ea12fb4bae820f03d2562ebff487 with 7277385.711515429122911683 ETH and 727738571 DAO
+  ExtraBalance 0xdbe9b615a3ae8709af8b93336ce9b477e4ac0940 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 78.1; SPLIT; Voting to Mon, 25 Jul 2016 17:49:02 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    
+    Robin Hood Split
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.2; non-split; Voting to Mon, 01 Aug 2016 17:49:57 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+    Recipient 0xb136707642a4ea12fb4bae820f03d2562ebff487
+    
+    Send all ETH to mother DAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.3; non-split; Voting to Mon, 08 Aug 2016 00:25:25 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 7277385.711515429 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    A
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.4; non-split; Voting to Mon, 08 Aug 2016 00:27:04 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 3638692.8557577143 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    B
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.5; non-split; Voting to Mon, 08 Aug 2016 00:28:50 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 1819346.4278788572 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    C
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.6; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 454836.6069697143 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    D
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.7; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 454836.6069697143 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    D2
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.8; SPLIT; Voting to Sat, 06 Aug 2016 15:18:40 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    
+    S1
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.9; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+    Open Y; Passed n; Yea 0.000000000000000200 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    
+    S2
+    
+    --------------------------------------------------------------------------------
+    Proposal 78.10; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+    
+    S3
+    
+  --------------------------------------------------------------------------------
+  Proposal 79; SPLIT; Voting to Sun, 19 Jun 2016 18:05:10 GMT
+  Open Y; Passed n; Yea 20013 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0449d907531168fbe26afc381a4ae005e31bbe75
+  Recipient 0x0449d907531168fbe26afc381a4ae005e31bbe75
+  
+  SplitxProposal Are there stalkers?
+  
+  --------------------------------------------------------------------------------
+  Proposal 80; SPLIT; Voting to Sun, 19 Jun 2016 18:48:16 GMT
+  Open Y; Passed n; Yea 48013 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc4dc238f4ff143480f64456e0c4837e1c802934e
+  Recipient 0xc4dc238f4ff143480f64456e0c4837e1c802934e
+  
+  Split 0xc4D
+  
+  --------------------------------------------------------------------------------
+  Proposal 81; SPLIT; Voting to Sun, 19 Jun 2016 22:04:24 GMT
+  Open Y; Passed Y; Yea 87133 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x83444307da515dc6646ae0201c718d783897d772
+  Recipient 0x83444307da515dc6646ae0201c718d783897d772
+  
+  blaa blaa blaa
+  
+  (Infiltrated)
+  Address      0xf14c14075d6c4ed84b86798af0956deef67365b5 with 2.123311222366559138 ETH and 212 DAO
+  ExtraBalance 0xca544e5c4687d109611d0f8f928b53a25af72448 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 82; non-split; Voting to Mon, 27 Jun 2016 00:59:29 GMT
+  Open Y; Passed n; Yea 1262340 DAO; Nay 22097 DAO
+  Deposit 2.111111111111 ETH; Amount 0 WEI
+  Creator 0xa9c50def415509c5772476142426ff5d6739b050
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Active Curators: Please Remove the 2 Inactive Curators from your Multisig   \n  
+  This proposal requests that addresses 0xb2c1b92f4bed7a173547cc601fb73a1254d10d26
+   and 0x127ac03acfad15f7a49dd037e52d5507260e1425 be removed from the Curator’s 
+  multisig as these addresses have not shown any activity. \n \n  \n \n According 
+  to [a post on blog.daohub.org](https://blog.daohub.org/daohub-verification-of-0x
+  bb9bc244d798123fde783fcc1c72d3bb8c189413-d755317ee724#.g14we50gx) 0xb2c1... belo
+  ngs to **Aeron Buchanan**, and the owner of  0x127a... **has not even been verif
+  ied** but it is supposedly owned by **Vlad Zamfir**.  \n \n If either address re
+  aches a status of being publicly verified && is actively used during the debatin
+  g period for this proposal, then it can remain in the multisig, but if either of
+   these addresses remain inactive or unverified despite this proposal, they shoul
+  d be removed from the Curator’s multisig if this proposal is passed. \n \n ![I
+  nactive sloths](http://i.imgur.com/A4vCUSy.jpg)   \n \n There are several nice p
+  laces to discuss this topic further: the [#curator channel on The DAO’s slack]
+  (https://thedao.slack.com/messages/curator/), [reddit](https://www.reddit.com/r/
+  TheDao/comments/4ndsh8/curator_removal_process/) and the [DAOhub.org forums](htt
+  ps://forum.daohub.org/t/curator-removal-process/4844). \n \n
+  
+  --------------------------------------------------------------------------------
+  Proposal 83; SPLIT; Voting to Mon, 20 Jun 2016 05:39:44 GMT
+  Open Y; Passed n; Yea 55077 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x81fff0f75c6cb65bc9799922c18b27d211131079
+  Recipient 0x81fff0f75c6cb65bc9799922c18b27d211131079
+  
+  Split-Zg7vm2
+  
+  --------------------------------------------------------------------------------
+  Proposal 84; non-split; Voting to Mon, 04 Jul 2016 08:39:05 GMT
+  Open Y; Passed n; Yea 1679790 DAO; Nay 272954 DAO
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0xe51a940464fb615a5e081b9435477046f5d3b2b0
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  The DAO as the official name \n  ![DAO logo](https://www.cryptocompare.com/media
+  /350881/dao.png?width=200 "DAO logo")\n  # Make The DAO the official name \n   W
+  hile it has been a placeholder initially, The DAO became more or less the offici
+  al name of, well... The DAO. \n \n Yet, the name should be a decision made by al
+  l the DAO token holders, which is why I am going to ask you: \n\n\n\n  Do you wa
+  nt to have The DAO as the official name?\n\n\n\n   The related forum thread can 
+  be found here: [DAOhub forum](https://forum.daohub.org/t/should-we-make-the-dao-
+  the-official-name/4992)\n\n A poll regarding the name is on [consider.it](https:
+  //dao.consider.it/)\n\n
+  
+  --------------------------------------------------------------------------------
+  Proposal 85; SPLIT; Voting to Mon, 20 Jun 2016 12:48:15 GMT
+  Open Y; Passed Y; Yea 34700855 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x51476eb4696e33b412091f09b5463e83598b555e
+  Recipient 0x51476eb4696e33b412091f09b5463e83598b555e
+  
+  EpSplit
+  
+  (Infiltrated)
+  Address      0xaeeb8ff27288bdabc0fa5ebb731b6f409507516c with 859.189750496835322093 ETH and 85919 DAO
+  ExtraBalance 0xcbb9d3703e651b0d496cdefb8b92c25aeb2171f7 with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 85.1; SPLIT; Voting to Wed, 10 Aug 2016 02:42:13 GMT
+    Open Y; Passed n; Yea 85569 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x988cf59904d4ae5e949e4a62e231d56a3e09b05c
+    Recipient 0x988cf59904d4ae5e949e4a62e231d56a3e09b05c
+    
+    
+  --------------------------------------------------------------------------------
+  Proposal 86; SPLIT; Voting to Mon, 20 Jun 2016 14:49:21 GMT
+  Open Y; Passed n; Yea 34695325 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x862656d0db96c32c7cc551e1e22780c394c9e24e
+  Recipient 0x862656d0db96c32c7cc551e1e22780c394c9e24e
+  
+  Split. Please don't stalk. Bye.
+  
+  --------------------------------------------------------------------------------
+  Proposal 87; SPLIT; Voting to Mon, 20 Jun 2016 15:01:42 GMT
+  Open Y; Passed Y; Yea 34695609 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xffbf6b9f8d575765f430392b57a29ddf92c365a0
+  Recipient 0xffbf6b9f8d575765f430392b57a29ddf92c365a0
+  
+  Split ffbf
+  
+  (Untrusted)
+  Address      0x6d87578288b6cb5549d5076a207456a1f6a63dc0 with 1.944767821345229848 ETH and 194 DAO
+  ExtraBalance 0xb2c6f0dfbb716ac562e2d85d6cb2f8d5ee87603e with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 88; SPLIT; Voting to Mon, 20 Jun 2016 17:10:51 GMT
+  Open Y; Passed n; Yea 34698912 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x7b49fe515e027f80cc93a9d6db6e3c5aaca91917
+  Recipient 0x7b49fe515e027f80cc93a9d6db6e3c5aaca91917
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 89; SPLIT; Voting to Mon, 20 Jun 2016 20:37:04 GMT
+  Open Y; Passed n; Yea 34805445 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1873f651ecf56d27c01d8d17a1bf06a9acf8830b
+  Recipient 0x1873f651ecf56d27c01d8d17a1bf06a9acf8830b
+  
+  NEW SOLOSPLIT PROPOSAL AGAIN BECAUSE THE FIRST TIME I VOTED WITH MY TOKENS ON PR
+  OPOSAL 5 AND THEN COULD NOT SPLITDAO. STOP SHOUTING.
+  
+  --------------------------------------------------------------------------------
+  Proposal 90; SPLIT; Voting to Mon, 20 Jun 2016 21:49:48 GMT
+  Open Y; Passed n; Yea 34695525 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf2a83b593162d77c62337a02668be1ee088cb55d
+  Recipient 0xf2a83b593162d77c62337a02668be1ee088cb55d
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 91; SPLIT; Voting to Mon, 20 Jun 2016 23:36:44 GMT
+  Open Y; Passed n; Yea 34695353 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x522b59b92a4566440ae3ef8e3426fbfaa2f37a9b
+  Recipient 0x522b59b92a4566440ae3ef8e3426fbfaa2f37a9b
+  
+  schplitter
+  
+  --------------------------------------------------------------------------------
+  Proposal 92; SPLIT; Voting to Tue, 21 Jun 2016 01:15:11 GMT
+  Open Y; Passed n; Yea 34713503 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x14c81f47cda966e90c5ff7fc1a3f81012dd8b721
+  Recipient 0x14c81f47cda966e90c5ff7fc1a3f81012dd8b721
+  
+  moose1
+  
+  --------------------------------------------------------------------------------
+  Proposal 93; SPLIT; Voting to Tue, 21 Jun 2016 09:07:49 GMT
+  Open Y; Passed n; Yea 34697026 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xef0b9496aaf4245db417ba821818340f6213ecd1
+  Recipient 0xef0b9496aaf4245db417ba821818340f6213ecd1
+  
+  06/14-1465895020
+  
+  --------------------------------------------------------------------------------
+  Proposal 94; SPLIT; Voting to Tue, 21 Jun 2016 09:42:39 GMT
+  Open Y; Passed Y; Yea 34688766 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa4084616dac89e5fd7b81c30e73deb7bcbcc8716
+  Recipient 0x55d1554b08a5311c5c0a0b6464162192f9d2f884
+  
+  Last hurrah
+  
+  (Infiltrated)
+  Address      0xaccc230e8a6e5be9160b8cdf2864dd2a001c28b6 with 23.997787866533545896 ETH and 2400 DAO
+  ExtraBalance 0x2b3455ec7fedf16e646268bf88846bd7a2319bb2 with 0 WEI
+  --------------------------------------------------------------------------------
+  Proposal 95; SPLIT; Voting to Tue, 21 Jun 2016 09:49:15 GMT
+  Open Y; Passed n; Yea 34685266 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa4084616dac89e5fd7b81c30e73deb7bcbcc8716
+  Recipient 0x55d1554b08a5311c5c0a0b6464162192f9d2f884
+  
+  Hammer Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 96; SPLIT; Voting to Tue, 21 Jun 2016 11:31:30 GMT
+  Open Y; Passed n; Yea 34688764 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x996114abfffe481c05c5341098b284679f158d53
+  Recipient 0x996114abfffe481c05c5341098b284679f158d53
+  
+  0x99611 split
+  
+  --------------------------------------------------------------------------------
+  Proposal 97; SPLIT; Voting to Tue, 21 Jun 2016 14:46:21 GMT
+  Open Y; Passed n; Yea 34785264 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5236a1870aee21aa83a55c534127b43a775d216f
+  Recipient 0x5236a1870aee21aa83a55c534127b43a775d216f
+  
+  T A X A T I O N    I S    T H E F T
+  
+  --------------------------------------------------------------------------------
+  Proposal 98; SPLIT; Voting to Tue, 21 Jun 2016 15:04:44 GMT
+  Open Y; Passed Y; Yea 34693264 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x522b59b92a4566440ae3ef8e3426fbfaa2f37a9b
+  Recipient 0x522b59b92a4566440ae3ef8e3426fbfaa2f37a9b
+  
+  
+  (Infiltrated)
+  Address      0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a with 28927.603152430302650042 ETH and 2892760 DAO
+  ExtraBalance 0xd343b217de44030afaa275f54d31a9317c7f441e with 5192.307692307692307692 ETH
+    --------------------------------------------------------------------------------
+    Proposal 98.1; SPLIT; Voting to Mon, 25 Jul 2016 15:25:27 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x79f09717c5b352078234832e5737651ddb333548
+    
+    Split proposal
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.2; non-split; Voting to Mon, 01 Aug 2016 15:25:57 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.3; non-split; Voting to Mon, 01 Aug 2016 22:29:40 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+    
+    Transfer Extra Balance to DAO
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.4; non-split; Voting to Mon, 01 Aug 2016 22:32:02 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.5; non-split; Voting to Mon, 01 Aug 2016 22:36:05 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0xd343b217de44030afaa275f54d31a9317c7f441e
+    
+    Transfer Extra Balance to DAO
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.6; non-split; Voting to Mon, 01 Aug 2016 22:39:08 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.7; non-split; Voting to Mon, 08 Aug 2016 14:23:39 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 5192.307692307692 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    A-Extra
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.8; non-split; Voting to Mon, 08 Aug 2016 14:24:24 GMT
+    Open Y; Passed n; Yea 723190 DAO; Nay 0
+    Deposit 0 WEI; Amount 28927.603152430303 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    A
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.9; non-split; Voting to Mon, 08 Aug 2016 14:25:08 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 14463.801576215152 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    B
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.10; non-split; Voting to Mon, 08 Aug 2016 14:26:02 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 7231.900788107576 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    C
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.11; non-split; Voting to Mon, 08 Aug 2016 14:26:58 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 3615.950394053788 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    D
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.12; non-split; Voting to Mon, 08 Aug 2016 14:28:05 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 1807.975197026894 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    E
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.13; non-split; Voting to Mon, 08 Aug 2016 14:29:06 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 1807.975197026894 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    E2
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.14; non-split; Voting to Fri, 19 Aug 2016 21:16:08 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x35479b80433e07c3fef0931cf5a6a174204cf811
+    Recipient 0xd343b217de44030afaa275f54d31a9317c7f441e
+    
+    Send extra balance to The DAO (again)
+    
+    --------------------------------------------------------------------------------
+    Proposal 98.15; non-split; Voting to Fri, 19 Aug 2016 21:50:38 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 5192.307692307692 ETH
+    Creator 0x35479b80433e07c3fef0931cf5a6a174204cf811
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    Retrieve the extra balance
+    
+  --------------------------------------------------------------------------------
+  Proposal 99; SPLIT; Voting to Tue, 21 Jun 2016 16:01:56 GMT
+  Open n; Passed Y; Yea 34699265 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8d184669301640a42652e9b436843a3fa4998370
+  Recipient 0x8d184669301640a42652e9b436843a3fa4998370
+  
+  moose2
+  
+  (Goodies)
+  Address      0x84ef4b2357079cd7a7c69fd7a37cd0609a679106 with 598974.326560793095813484 ETH and 59897433 DAO
+  ExtraBalance 0xda2fef9e4a3230988ff17df2165440f37e8b1708 with 73722.042576599901129491 ETH
+    --------------------------------------------------------------------------------
+    Proposal 99.1; non-split; Voting to Mon, 01 Aug 2016 22:12:04 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 99.2; non-split; Voting to Tue, 02 Aug 2016 14:26:31 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0xda2fef9e4a3230988ff17df2165440f37e8b1708
+    
+    Transfer Extra Balance to DAO
+    
+    --------------------------------------------------------------------------------
+    Proposal 99.3; non-split; Voting to Tue, 02 Aug 2016 14:28:05 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 99.4; non-split; Voting to Mon, 08 Aug 2016 14:32:49 GMT
+    Open Y; Passed n; Yea 14974358 DAO; Nay 0
+    Deposit 0 WEI; Amount 672696.369137393 ETH
+    Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    A-PlusExtra
+    
+    --------------------------------------------------------------------------------
+    Proposal 99.5; non-split; Voting to Fri, 19 Aug 2016 16:45:56 GMT
+    Open Y; Passed n; Yea 14974358 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x941d6f2cae269f6e72f9baaaf2c98057ee421960
+    Recipient 0xda2fef9e4a3230988ff17df2165440f37e8b1708
+    
+    Transfer EB
+    
+    --------------------------------------------------------------------------------
+    Proposal 99.6; non-split; Voting to Fri, 19 Aug 2016 17:29:59 GMT
+    Open Y; Passed n; Yea 14974358 DAO; Nay 0
+    Deposit 0 WEI; Amount 73722.042576599901129491 ETH
+    Creator 0x941d6f2cae269f6e72f9baaaf2c98057ee421960
+    Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+    
+    B
+    
+  --------------------------------------------------------------------------------
+  Proposal 100; SPLIT; Voting to Tue, 21 Jun 2016 17:11:51 GMT
+  Open Y; Passed n; Yea 34705265 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8fdb7441bd9263499af346135153a737aa9b3fbb
+  Recipient 0x8fdb7441bd9263499af346135153a737aa9b3fbb
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 101; SPLIT; Voting to Tue, 21 Jun 2016 18:34:25 GMT
+  Open Y; Passed Y; Yea 34662435 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5fbea6b04d5824c73a89cb8348d66492e0e4b7bf
+  Recipient 0x5fbea6b04d5824c73a89cb8348d66492e0e4b7bf
+  
+  split909090
+  
+  (Infiltrated)
+  Address      0xf4c64518ea10f995918a454158c6b61407ea345c with 21 WEI and 26956559 DAO
+  ExtraBalance 0x7602b46df5390e432ef1c307d4f2c9ff6d65cc97 with 369.231179004682274248 ETH
+    --------------------------------------------------------------------------------
+    Proposal 101.1; SPLIT; Voting to Mon, 25 Jul 2016 18:46:42 GMT
+    Open Y; Passed Y; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x79f09717c5b352078234832e5737651ddb333548
+    
+    Split proposal
+    
+    (Infiltrated)
+    Address      0x39771e2d34eda36a49ff4fa4194d7fcb839165da with 269565.591797974102411573 ETH and 26956559 DAO
+    ExtraBalance 0x0f112f6698b23dd44060eca9c09f4b3463feb07f with 0 WEI
+    --------------------------------------------------------------------------------
+    Proposal 101.2; non-split; Voting to Mon, 01 Aug 2016 18:46:42 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0xf4c64518ea10f995918a454158c6b61407ea345c
+    
+    Send all ether to TheDAO curator
+    
+    --------------------------------------------------------------------------------
+    Proposal 101.3; SPLIT; Voting to Mon, 25 Jul 2016 18:46:42 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x79f09717c5b352078234832e5737651ddb333548
+    
+    Split proposal
+    
+    --------------------------------------------------------------------------------
+    Proposal 101.4; SPLIT; Voting to Mon, 25 Jul 2016 18:46:42 GMT
+    Open Y; Passed n; Yea 0; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0x79f09717c5b352078234832e5737651ddb333548
+    
+    Split proposal
+    
+    --------------------------------------------------------------------------------
+    Proposal 101.5; non-split; Voting to Mon, 01 Aug 2016 18:46:42 GMT
+    Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+    Deposit 0 WEI; Amount 0 WEI
+    Creator 0x79f09717c5b352078234832e5737651ddb333548
+    Recipient 0xf4c64518ea10f995918a454158c6b61407ea345c
+    
+    Send all ether to TheDAO curator
+    
+  --------------------------------------------------------------------------------
+  Proposal 102; SPLIT; Voting to Tue, 21 Jun 2016 20:24:53 GMT
+  Open Y; Passed n; Yea 34664162 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x2895e80999d406ad592e2b262737d35f7db4b699
+  Recipient 0xd68ba7734753e2ee54103116323aba2d94c78dc5
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 103; SPLIT; Voting to Tue, 21 Jun 2016 20:51:31 GMT
+  Open Y; Passed n; Yea 34706997 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaa09688e89371fee6dcda9dd7a995737e2a3a196
+  Recipient 0xaa09688e89371fee6dcda9dd7a995737e2a3a196
+  
+  squids split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 104; SPLIT; Voting to Tue, 21 Jun 2016 21:40:14 GMT
+  Open Y; Passed n; Yea 34661087 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8bebbfbc64a23a31fa3a003c1883b0ef26514400
+  Recipient 0x8bebbfbc64a23a31fa3a003c1883b0ef26514400
+  
+  0x8beb split
+  
+  --------------------------------------------------------------------------------
+  Proposal 105; SPLIT; Voting to Wed, 22 Jun 2016 02:07:52 GMT
+  Open Y; Passed n; Yea 34740523 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbb5c7fccc433fb92d04064816cbee74070f9ec90
+  Recipient 0xbb5c7fccc433fb92d04064816cbee74070f9ec90
+  
+  Split 0xBB5
+  
+  --------------------------------------------------------------------------------
+  Proposal 106; SPLIT; Voting to Wed, 22 Jun 2016 04:26:02 GMT
+  Open Y; Passed n; Yea 34665464 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8c99b1fab831dae42fa8acd4f3a05a19f443f559
+  Recipient 0x8c99b1fab831dae42fa8acd4f3a05a19f443f559
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 107; SPLIT; Voting to Wed, 22 Jun 2016 07:12:02 GMT
+  Open Y; Passed n; Yea 34660264 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x522163712cadf19b64d13b0cb0f07024081d23cb
+  Recipient 0x522163712cadf19b64d13b0cb0f07024081d23cb
+  
+  Split 0xbeef
+  
+  --------------------------------------------------------------------------------
+  Proposal 108; SPLIT; Voting to Wed, 22 Jun 2016 14:21:41 GMT
+  Open Y; Passed n; Yea 34698665 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x465423cb836d2809811c9c5309a3c7e4d53e3d20
+  Recipient 0x465423cb836d2809811c9c5309a3c7e4d53e3d20
+  
+  0x4654 Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 109; SPLIT; Voting to Wed, 22 Jun 2016 16:00:24 GMT
+  Open Y; Passed n; Yea 34668264 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xaf8bd1432b1baf546ae1751769d31a633841c605
+  Recipient 0xaf8bd1432b1baf546ae1751769d31a633841c605
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 110; SPLIT; Voting to Wed, 22 Jun 2016 16:32:40 GMT
+  Open Y; Passed n; Yea 34660953 DAO; Nay 1000 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe07b848cb04fa7d3b2a5609d70153f01c2e13b83
+  Recipient 0x64d4c6a676b0314d747847d2314634aa71126a09
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 111; SPLIT; Voting to Wed, 22 Jun 2016 16:39:16 GMT
+  Open Y; Passed n; Yea 34660386 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xffff16f80329cd2110c1dea6715a678fc826b43b
+  Recipient 0xffff16f80329cd2110c1dea6715a678fc826b43b
+  
+  split prop 0xffff16f
+  
+  --------------------------------------------------------------------------------
+  Proposal 112; SPLIT; Voting to Wed, 22 Jun 2016 18:38:55 GMT
+  Open Y; Passed n; Yea 34665496 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8df9f63bddd6918590fd283969cf9f3bd14b1793
+  Recipient 0xb9c13e25933c54b68ed425a862272db940386bee
+  
+  refundsplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 113; SPLIT; Voting to Wed, 22 Jun 2016 19:51:28 GMT
+  Open Y; Passed n; Yea 34726796 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf49efc9b25bed7694dc1cbfd119dcef5862c25bd
+  Recipient 0xf49efc9b25bed7694dc1cbfd119dcef5862c25bd
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 114; SPLIT; Voting to Wed, 22 Jun 2016 22:42:09 GMT
+  Open Y; Passed n; Yea 34666298 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1ea0517703749db2619d54ccd8de0b53494008ed
+  Recipient 0x1ea0517703749db2619d54ccd8de0b53494008ed
+  
+  AngSplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 115; SPLIT; Voting to Thu, 23 Jun 2016 00:00:15 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe3cbc85806a5407ed22e087e9a4ee1c8f934b82b
+  Recipient 0xe3cbc85806a5407ed22e087e9a4ee1c8f934b82b
+  
+  0xe3Cb Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 116; SPLIT; Voting to Thu, 23 Jun 2016 00:06:28 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x2c4c5cf7aedbe989a07acd7d071053ecd331c74c
+  Recipient 0x2c4c5cf7aedbe989a07acd7d071053ecd331c74c
+  
+  0x2C4c Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 117; SPLIT; Voting to Thu, 23 Jun 2016 00:07:23 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x129344ed0f059580bf667a27bd15a5dea0b751d6
+  Recipient 0x129344ed0f059580bf667a27bd15a5dea0b751d6
+  
+  0x1293 Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 118; SPLIT; Voting to Thu, 23 Jun 2016 00:08:09 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x899d6a07c90ad5eb406ba2165ae0d55415a8e752
+  Recipient 0x899d6a07c90ad5eb406ba2165ae0d55415a8e752
+  
+  0x899d Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 119; SPLIT; Voting to Thu, 23 Jun 2016 00:09:06 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb6bfe6ae7d164cfcd4622de6e87fb55a54e7220e
+  Recipient 0xb6bfe6ae7d164cfcd4622de6e87fb55a54e7220e
+  
+  0xB6bF Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 120; SPLIT; Voting to Thu, 23 Jun 2016 02:16:55 GMT
+  Open Y; Passed n; Yea 34689605 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x907b7be980917cdda0346bd747f026393e794df7
+  Recipient 0x907b7be980917cdda0346bd747f026393e794df7
+  
+  0xFEFE Split Proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 121; SPLIT; Voting to Thu, 23 Jun 2016 07:36:32 GMT
+  Open Y; Passed n; Yea 34666285 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x94b6c4e1af692c88fb8c9f69fa961098ce8fab67
+  Recipient 0x94b6c4e1af692c88fb8c9f69fa961098ce8fab67
+  
+  split prop 0x94b6c4
+  
+  --------------------------------------------------------------------------------
+  Proposal 122; SPLIT; Voting to Thu, 23 Jun 2016 08:54:41 GMT
+  Open Y; Passed n; Yea 34660285 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x81d0fae35a74c5105c4332f6ede87fd27344f5c1
+  Recipient 0x81d0fae35a74c5105c4332f6ede87fd27344f5c1
+  
+  0x81d split
+  
+  --------------------------------------------------------------------------------
+  Proposal 123; SPLIT; Voting to Thu, 23 Jun 2016 13:31:00 GMT
+  Open Y; Passed n; Yea 34660286 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa852246e4ac2da710afa72aa1a60f03620d1978a
+  Recipient 0xa852246e4ac2da710afa72aa1a60f03620d1978a
+  
+  123 split
+  
+  --------------------------------------------------------------------------------
+  Proposal 124; SPLIT; Voting to Thu, 23 Jun 2016 16:51:04 GMT
+  Open Y; Passed n; Yea 34671285 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x131ba80e1ae0d9a9a3b905193ed76122acf36541
+  Recipient 0x131ba80e1ae0d9a9a3b905193ed76122acf36541
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 125; SPLIT; Voting to Thu, 23 Jun 2016 19:19:41 GMT
+  Open Y; Passed n; Yea 34661285 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x77d0967ffddbad3aba301837208392573da29299
+  Recipient 0x77d0967ffddbad3aba301837208392573da29299
+  
+  BloomSplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 126; SPLIT; Voting to Fri, 24 Jun 2016 01:34:40 GMT
+  Open Y; Passed n; Yea 33052 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbaed532ec78c440abb51ad325b1593ef72c03bf3
+  Recipient 0xbaed532ec78c440abb51ad325b1593ef72c03bf3
+  
+  0xbAED split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 127; SPLIT; Voting to Fri, 24 Jun 2016 02:38:14 GMT
+  Open Y; Passed n; Yea 38224 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8d08aa327c884af528deac25dd5df7ba74bf7f69
+  Recipient 0x8d08aa327c884af528deac25dd5df7ba74bf7f69
+  
+  life is opinion
+  
+  --------------------------------------------------------------------------------
+  Proposal 128; SPLIT; Voting to Fri, 24 Jun 2016 03:48:54 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4ee4723e0c54e0aa4fee0d3d24c0fca1f7ac4178
+  Recipient 0x4ee4723e0c54e0aa4fee0d3d24c0fca1f7ac4178
+  
+  lickety-split
+  
+  --------------------------------------------------------------------------------
+  Proposal 129; SPLIT; Voting to Fri, 24 Jun 2016 05:06:46 GMT
+  Open Y; Passed n; Yea 28024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6b890f9aecbbc163ccb6e06f19afeb5516aefc71
+  Recipient 0x6b890f9aecbbc163ccb6e06f19afeb5516aefc71
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 130; SPLIT; Voting to Fri, 24 Jun 2016 05:37:52 GMT
+  Open Y; Passed n; Yea 33024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcc9fa6eb6ab4279841f93f6945b8d0ffa4e534a8
+  Recipient 0xcc9fa6eb6ab4279841f93f6945b8d0ffa4e534a8
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 131; SPLIT; Voting to Fri, 24 Jun 2016 06:59:57 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb18e6467db64686dfed14c7368ca59e5019c95c8
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 132; SPLIT; Voting to Fri, 24 Jun 2016 08:03:35 GMT
+  Open Y; Passed n; Yea 435324 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x13d8c756f609b6a9f0077a6d149f0e817b9a9ab5
+  Recipient 0x13d8c756f609b6a9f0077a6d149f0e817b9a9ab5
+  
+  JOY
+  
+  --------------------------------------------------------------------------------
+  Proposal 133; SPLIT; Voting to Fri, 24 Jun 2016 08:17:44 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x9999d6102715ac273c8d89bb7c219571f80a80c1
+  Recipient 0x00ff1d79e83997b205e7f0284f6f0502d75d979a
+  
+  split
+  
+  --------------------------------------------------------------------------------
+  Proposal 134; SPLIT; Voting to Fri, 24 Jun 2016 08:32:08 GMT
+  Open Y; Passed n; Yea 41972 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xdec667002239b94015a4b67aa1c5c432f5c0a98c
+  Recipient 0x525abf0142ea4102982eefd5c57f7500c307e3f6
+  
+  sp
+  
+  --------------------------------------------------------------------------------
+  Proposal 135; SPLIT; Voting to Fri, 24 Jun 2016 08:38:38 GMT
+  Open Y; Passed n; Yea 41972 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xd65653065088e7527061ef4aabd131b86af6e2df
+  Recipient 0x525abf0142ea4102982eefd5c57f7500c307e3f6
+  
+  sp2
+  
+  --------------------------------------------------------------------------------
+  Proposal 136; SPLIT; Voting to Fri, 24 Jun 2016 08:45:55 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x53337dbed2981c8c9c2d73c865317951c4b1f4c6
+  Recipient 0x53337dbed2981c8c9c2d73c865317951c4b1f4c6
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 137; SPLIT; Voting to Fri, 24 Jun 2016 08:55:01 GMT
+  Open Y; Passed n; Yea 41972 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x525abf0142ea4102982eefd5c57f7500c307e3f6
+  Recipient 0x525abf0142ea4102982eefd5c57f7500c307e3f6
+  
+  sp3
+  
+  --------------------------------------------------------------------------------
+  Proposal 138; SPLIT; Voting to Fri, 24 Jun 2016 09:03:03 GMT
+  Open Y; Passed n; Yea 122644 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x802bde4e1977e1f7bfc51d49b8896fd40e3606a1
+  Recipient 0x802bde4e1977e1f7bfc51d49b8896fd40e3606a1
+  
+  F$CK, SH!T P!SS
+  
+  --------------------------------------------------------------------------------
+  Proposal 139; SPLIT; Voting to Fri, 24 Jun 2016 09:19:04 GMT
+  Open Y; Passed n; Yea 45024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe8b017d9fbe87e0ba3005457662815dd2ead9c6e
+  Recipient 0xfd589b0573e12f1266155b02fd6636081e9e03dc
+  
+  split proposal 6581
+  
+  --------------------------------------------------------------------------------
+  Proposal 140; SPLIT; Voting to Fri, 24 Jun 2016 09:23:10 GMT
+  Open Y; Passed n; Yea 2320033 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x81c636277383b06b9cc3983089c86441deedfab5
+  Recipient 0x81c636277383b06b9cc3983089c86441deedfab5
+  
+  Bye bye DAO
+  
+  --------------------------------------------------------------------------------
+  Proposal 141; SPLIT; Voting to Fri, 24 Jun 2016 09:29:43 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8bb50b7869c6cf041db6f98ea9ce1f4cc9e8d9ca
+  Recipient 0x5f633807a48c326123712ec5b492219029adde98
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 142; SPLIT; Voting to Fri, 24 Jun 2016 09:32:14 GMT
+  Open Y; Passed n; Yea 30084 DAO; Nay 33 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfa8ede0792b8a4f0d5299d76730244ba76b4ab0b
+  Recipient 0xfa8ede0792b8a4f0d5299d76730244ba76b4ab0b
+  
+  splitt
+  
+  --------------------------------------------------------------------------------
+  Proposal 143; SPLIT; Voting to Fri, 24 Jun 2016 09:45:26 GMT
+  Open Y; Passed n; Yea 29924 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x92bcabf8179b00b1c18c8b1fb31fc6fb7caccec0
+  Recipient 0x92bcabf8179b00b1c18c8b1fb31fc6fb7caccec0
+  
+  0x92BCab split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 144; SPLIT; Voting to Fri, 24 Jun 2016 09:46:08 GMT
+  Open Y; Passed n; Yea 20024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8bb50b7869c6cf041db6f98ea9ce1f4cc9e8d9ca
+  Recipient 0x5f633807a48c326123712ec5b492219029adde98
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 145; SPLIT; Voting to Fri, 24 Jun 2016 09:57:50 GMT
+  Open Y; Passed n; Yea 635024 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x45d803c38f1bf8ca9cf2154f66a3e4ee4ad1a44c
+  Recipient 0x45d803c38f1bf8ca9cf2154f66a3e4ee4ad1a44c
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 146; SPLIT; Voting to Fri, 24 Jun 2016 10:14:42 GMT
+  Open Y; Passed n; Yea 50002 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x00e8ac9aff4bd73e68bca39e76cdf15ff7f592c4
+  Recipient 0x00e8ac9aff4bd73e68bca39e76cdf15ff7f592c4
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 147; SPLIT; Voting to Fri, 24 Jun 2016 10:15:13 GMT
+  Open Y; Passed n; Yea 34002 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xd60651e393783423e5cc1bc5f889e44ef7ea243e
+  Recipient 0xd60651e393783423e5cc1bc5f889e44ef7ea243e
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 148; SPLIT; Voting to Fri, 24 Jun 2016 10:57:43 GMT
+  Open Y; Passed n; Yea 20002 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xeda3c50ee6af463cdf2b0b1bbf859ca56fb92d9b
+  Recipient 0xeda3c50ee6af463cdf2b0b1bbf859ca56fb92d9b
+  
+  gzfs split
+  
+  --------------------------------------------------------------------------------
+  Proposal 149; SPLIT; Voting to Fri, 24 Jun 2016 11:04:45 GMT
+  Open Y; Passed n; Yea 53002 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe7aa7aeab52b8479e2c04a5af79ac0862265ba62
+  Recipient 0xe7aa7aeab52b8479e2c04a5af79ac0862265ba62
+  
+  VM Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 150; SPLIT; Voting to Fri, 24 Jun 2016 11:27:23 GMT
+  Open Y; Passed n; Yea 84449 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf845026d99b12de7b1d662b2f9b810f04a2fa1dd
+  Recipient 0x48c163de076cd3ac5fdc493c2b62cf3cb554b6c1
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 151; SPLIT; Voting to Fri, 24 Jun 2016 11:41:34 GMT
+  Open Y; Passed n; Yea 2021200 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf845026d99b12de7b1d662b2f9b810f04a2fa1dd
+  Recipient 0x48c163de076cd3ac5fdc493c2b62cf3cb554b6c1
+  
+  propsp_1
+  
+  --------------------------------------------------------------------------------
+  Proposal 152; SPLIT; Voting to Fri, 24 Jun 2016 11:42:18 GMT
+  Open Y; Passed n; Yea 62500 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3942d7a7a71548d55ae284dae89e83326e140578
+  Recipient 0x3942d7a7a71548d55ae284dae89e83326e140578
+  
+  PH - Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 153; SPLIT; Voting to Fri, 24 Jun 2016 12:11:32 GMT
+  Open Y; Passed n; Yea 1020100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa204010d0ff84eaf79270082b7bc44b7d4b7c88a
+  Recipient 0x3cd0c53aa2455a4c740add11ecd8bfea0aae141b
+  
+  splt2
+  
+  --------------------------------------------------------------------------------
+  Proposal 154; SPLIT; Voting to Fri, 24 Jun 2016 12:16:34 GMT
+  Open Y; Passed n; Yea 1020150 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xff81facc55c957a26e7a37ab7cb7cf595862ab3a
+  Recipient 0xd96ca3ca549669e3c4b1dec0d5d57dfcef9b27bd
+  
+  splt
+  
+  --------------------------------------------------------------------------------
+  Proposal 155; SPLIT; Voting to Fri, 24 Jun 2016 12:45:38 GMT
+  Open Y; Passed n; Yea 575125 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa7ebc1edeefba0af22bbaca1479413c21325eee4
+  Recipient 0x412b8ceecc499dea1a355f8de2ad7d3cf27f9af8
+  
+  spl
+  
+  --------------------------------------------------------------------------------
+  Proposal 156; SPLIT; Voting to Fri, 24 Jun 2016 12:57:59 GMT
+  Open Y; Passed n; Yea 121100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3bd6a49db9c092d842f8f0ef061303be22dae105
+  Recipient 0x42484e5c43c75f6df8264ccff8a4b190c4f0f148
+  
+  sp
+  
+  --------------------------------------------------------------------------------
+  Proposal 157; SPLIT; Voting to Fri, 24 Jun 2016 13:05:24 GMT
+  Open Y; Passed n; Yea 30659 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x15de8e40e5d2913932f9825d1ac8d0ca4a8caaca
+  Recipient 0x5d6d5bea4f20bd7130917ef8ef6902ded28f536e
+  
+  sppl
+  
+  --------------------------------------------------------------------------------
+  Proposal 158; SPLIT; Voting to Fri, 24 Jun 2016 13:27:04 GMT
+  Open Y; Passed n; Yea 20022 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xdf44dc408b085f9344d78fecca4981e7df474160
+  Recipient 0xdf44dc408b085f9344d78fecca4981e7df474160
+  
+  ethoutasap
+  
+  --------------------------------------------------------------------------------
+  Proposal 159; SPLIT; Voting to Fri, 24 Jun 2016 14:54:38 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6fc4d393bcebc69dbc8a6877e098babd19504e3b
+  Recipient 0x6fc4d393bcebc69dbc8a6877e098babd19504e3b
+  
+  0x6FC4 split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 160; SPLIT; Voting to Fri, 24 Jun 2016 14:58:29 GMT
+  Open Y; Passed n; Yea 22868 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x082ab210f44f3e644cd2ea76c516a7cfa9b67555
+  Recipient 0x082ab210f44f3e644cd2ea76c516a7cfa9b67555
+  
+  Ethereum-kaufen.de Tutorial
+  
+  --------------------------------------------------------------------------------
+  Proposal 161; SPLIT; Voting to Fri, 24 Jun 2016 15:03:55 GMT
+  Open Y; Passed n; Yea 35100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1eb53a7bcdf2f8eceb50468005b5bf6f01ba593b
+  Recipient 0x1eb53a7bcdf2f8eceb50468005b5bf6f01ba593b
+  
+  Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 162; SPLIT; Voting to Fri, 24 Jun 2016 15:15:28 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8e08b284f1383f76bafbe14aab4dc859f63640ab
+  Recipient 0x8e08b284f1383f76bafbe14aab4dc859f63640ab
+  
+  split0x8e
+  
+  --------------------------------------------------------------------------------
+  Proposal 163; SPLIT; Voting to Fri, 24 Jun 2016 15:22:07 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x53337dbed2981c8c9c2d73c865317951c4b1f4c6
+  Recipient 0x8e08b284f1383f76bafbe14aab4dc859f63640ab
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 164; SPLIT; Voting to Fri, 24 Jun 2016 15:33:41 GMT
+  Open Y; Passed n; Yea 20400 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6adc4e3d436886ca1851dc14fb773365eb60ab63
+  Recipient 0x6adc4e3d436886ca1851dc14fb773365eb60ab63
+  
+  Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 165; SPLIT; Voting to Fri, 24 Jun 2016 15:57:26 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8527e7947c0cce9a5ddee6d566c69497d2e7be0b
+  Recipient 0x8527e7947c0cce9a5ddee6d566c69497d2e7be0b
+  
+  narf
+  
+  --------------------------------------------------------------------------------
+  Proposal 166; SPLIT; Voting to Fri, 24 Jun 2016 16:22:39 GMT
+  Open Y; Passed n; Yea 80000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5a8e70f2d75c1468db4a2241fdd70e5a84f028b8
+  Recipient 0xb394730f0f9d16567e5ef7e17434f5c12bc7ea1e
+  
+  0xb394730f0f Split. Do not vote yes or try to split with this. We will take all 
+  the Eth of those who come in this split.
+  
+  --------------------------------------------------------------------------------
+  Proposal 167; SPLIT; Voting to Fri, 24 Jun 2016 16:30:07 GMT
+  Open Y; Passed n; Yea 20110 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x9192ca96de0b90f2a67a2d81f4a1325cfa3cc685
+  Recipient 0x9192ca96de0b90f2a67a2d81f4a1325cfa3cc685
+  
+  MT-Dao Split
+  
+  --------------------------------------------------------------------------------
+  Proposal 168; SPLIT; Voting to Fri, 24 Jun 2016 18:05:46 GMT
+  Open Y; Passed n; Yea 1020000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  K
+  
+  --------------------------------------------------------------------------------
+  Proposal 169; SPLIT; Voting to Fri, 24 Jun 2016 19:07:22 GMT
+  Open Y; Passed n; Yea 40000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0bf61fa2869a999af58961d310f7f903389d9edd
+  Recipient 0x6ba3f804886567f991996699f0ede93b79abd1dc
+  
+  doing the splits
+  
+  --------------------------------------------------------------------------------
+  Proposal 170; SPLIT; Voting to Fri, 24 Jun 2016 19:10:46 GMT
+  Open Y; Passed n; Yea 77025 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x1c1a2bdb37d958722e24dfc1e5c332ec94895742
+  Recipient 0x1c1a2bdb37d958722e24dfc1e5c332ec94895742
+  
+  LLIO
+  
+  --------------------------------------------------------------------------------
+  Proposal 171; SPLIT; Voting to Fri, 24 Jun 2016 19:37:52 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6a23a7b1439a5cd3e20a69a318a3f12ccaa09317
+  Recipient 0x6a23a7b1439a5cd3e20a69a318a3f12ccaa09317
+  
+  balabala
+  
+  --------------------------------------------------------------------------------
+  Proposal 172; SPLIT; Voting to Fri, 24 Jun 2016 21:15:33 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xde013d0fb1b41ea3c86bb335487c52acc8484bf2
+  Recipient 0xde013d0fb1b41ea3c86bb335487c52acc8484bf2
+  
+  afool split
+  
+  --------------------------------------------------------------------------------
+  Proposal 173; SPLIT; Voting to Fri, 24 Jun 2016 23:48:52 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x53337dbed2981c8c9c2d73c865317951c4b1f4c6
+  Recipient 0x53337dbed2981c8c9c2d73c865317951c4b1f4c6
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 174; SPLIT; Voting to Sat, 25 Jun 2016 01:47:13 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x25c70924dbc4bb344e560aeca807f07d87ee8c7a
+  Recipient 0x25c70924dbc4bb344e560aeca807f07d87ee8c7a
+  
+  splatter splitter
+  
+  --------------------------------------------------------------------------------
+  Proposal 175; SPLIT; Voting to Sat, 25 Jun 2016 02:26:03 GMT
+  Open Y; Passed n; Yea 44900 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x67bd2e99b50b80a42d8870c72fd3bb16492ec4bc
+  Recipient 0x67bd2e99b50b80a42d8870c72fd3bb16492ec4bc
+  
+  0x67bD2 split
+  
+  --------------------------------------------------------------------------------
+  Proposal 176; SPLIT; Voting to Sat, 25 Jun 2016 02:56:14 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4d836d9d3b0e2cbd4de050596faa490cffb60d5d
+  Recipient 0x4d836d9d3b0e2cbd4de050596faa490cffb60d5d
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 177; SPLIT; Voting to Sat, 25 Jun 2016 03:05:22 GMT
+  Open Y; Passed n; Yea 41948 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc713cd7182325090337d41bf204a14ed9ab72edf
+  Recipient 0x525abf0142ea4102982eefd5c57f7500c307e3f6
+  
+  Splitzo
+  
+  --------------------------------------------------------------------------------
+  Proposal 178; SPLIT; Voting to Sat, 25 Jun 2016 10:01:19 GMT
+  Open Y; Passed n; Yea 20314 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x2f88180369377869a1bc5ae807416f72d736c206
+  Recipient 0x2f88180369377869a1bc5ae807416f72d736c206
+  
+  splitK
+  
+  --------------------------------------------------------------------------------
+  Proposal 179; SPLIT; Voting to Sat, 25 Jun 2016 10:13:15 GMT
+  Open Y; Passed n; Yea 20100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5ebb086c36ed16dcee53f3e089e2e54ba47bd11d
+  Recipient 0x5ebb086c36ed16dcee53f3e089e2e54ba47bd11d
+  
+  MySimpleSplit#179 
+  
+  --------------------------------------------------------------------------------
+  Proposal 180; SPLIT; Voting to Sat, 25 Jun 2016 12:41:39 GMT
+  Open Y; Passed n; Yea 74625 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x16efbb80e246b61e42e0d8bd6496cefb9d40867b
+  Recipient 0x16efbb80e246b61e42e0d8bd6496cefb9d40867b
+  
+  fallback plan - g
+  
+  --------------------------------------------------------------------------------
+  Proposal 181; SPLIT; Voting to Sat, 25 Jun 2016 12:43:31 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x16efbb80e246b61e42e0d8bd6496cefb9d40867b
+  Recipient 0x16efbb80e246b61e42e0d8bd6496cefb9d40867b
+  
+  fallback plan - g
+  
+  --------------------------------------------------------------------------------
+  Proposal 182; SPLIT; Voting to Sat, 25 Jun 2016 15:13:06 GMT
+  Open Y; Passed n; Yea 499243 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8fa320aa0ee230a61458dd77274663a16bf90e96
+  Recipient 0x8fa320aa0ee230a61458dd77274663a16bf90e96
+  
+  acc6-F90e96
+  
+  --------------------------------------------------------------------------------
+  Proposal 183; SPLIT; Voting to Sat, 25 Jun 2016 15:14:22 GMT
+  Open Y; Passed n; Yea 25000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4202a7e17e0bab06c408f64ffddf66a61dd9ed9f
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  FromTokyo
+  
+  --------------------------------------------------------------------------------
+  Proposal 184; SPLIT; Voting to Sat, 25 Jun 2016 17:07:42 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4d3a534c20963ef653961f26bf49b0ef484e5558
+  Recipient 0x4d3a534c20963ef653961f26bf49b0ef484e5558
+  
+  4D3A534
+  
+  --------------------------------------------------------------------------------
+  Proposal 185; SPLIT; Voting to Sat, 25 Jun 2016 18:17:59 GMT
+  Open Y; Passed n; Yea 74625 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4d80792539dfb35a667b276c71dd0264734d35c8
+  Recipient 0x4d80792539dfb35a667b276c71dd0264734d35c8
+  
+  splitting hairs 35C8
+  
+  --------------------------------------------------------------------------------
+  Proposal 186; SPLIT; Voting to Sat, 25 Jun 2016 19:05:08 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8ba23f7bc4c3d218bd69c37d3ec7f13501c2cce1
+  Recipient 0x8ba23f7bc4c3d218bd69c37d3ec7f13501c2cce1
+  
+  im out
+  
+  --------------------------------------------------------------------------------
+  Proposal 187; SPLIT; Voting to Sat, 25 Jun 2016 19:09:35 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x394ba228ff7cbe91da7e27340740fec557bc8b68
+  Recipient 0x394ba228ff7cbe91da7e27340740fec557bc8b68
+  
+  split pea soup
+  
+  --------------------------------------------------------------------------------
+  Proposal 188; SPLIT; Voting to Sat, 25 Jun 2016 19:13:19 GMT
+  Open Y; Passed n; Yea 520000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3708e59de6b4055088782902e0579c7201a8bf50
+  Recipient 0x3708e59de6b4055088782902e0579c7201a8bf50
+  
+  0x3708 split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 189; SPLIT; Voting to Sat, 25 Jun 2016 19:16:01 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe256eb645aa3b821e502b370424cd33f804f4f33
+  Recipient 0xe256eb645aa3b821e502b370424cd33f804f4f33
+  
+  split because of hubris
+  
+  --------------------------------------------------------------------------------
+  Proposal 190; SPLIT; Voting to Sat, 25 Jun 2016 19:30:41 GMT
+  Open Y; Passed n; Yea 77461 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbca349c4dc5d4fdc01296e8e1af48d4027e2303b
+  Recipient 0xbca349c4dc5d4fdc01296e8e1af48d4027e2303b
+  
+  teaching moment
+  
+  --------------------------------------------------------------------------------
+  Proposal 191; SPLIT; Voting to Sun, 26 Jun 2016 04:59:12 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbca349c4dc5d4fdc01296e8e1af48d4027e2303b
+  Recipient 0xbca349c4dc5d4fdc01296e8e1af48d4027e2303b
+  
+  take 2
+  
+  --------------------------------------------------------------------------------
+  Proposal 192; SPLIT; Voting to Sun, 26 Jun 2016 05:24:47 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8ba0c7d031356f4d6f1b664e3e6a557fcaf6cfd2
+  Recipient 0x8ba0c7d031356f4d6f1b664e3e6a557fcaf6cfd2
+  
+  Ż
+  
+  --------------------------------------------------------------------------------
+  Proposal 193; SPLIT; Voting to Sun, 26 Jun 2016 07:00:17 GMT
+  Open Y; Passed n; Yea 40100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xae9d3c583add8f3e912c850fa95742e642409721
+  Recipient 0xae9d3c583add8f3e912c850fa95742e642409721
+  
+  0xAE9 split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 194; SPLIT; Voting to Sun, 26 Jun 2016 08:53:42 GMT
+  Open Y; Passed n; Yea 20136 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5b102b20250ad4e320fc61ee3db6dfb0c0018b34
+  Recipient 0x5b102b20250ad4e320fc61ee3db6dfb0c0018b34
+  
+  Stupid community has no future.
+  
+  --------------------------------------------------------------------------------
+  Proposal 195; SPLIT; Voting to Sun, 26 Jun 2016 09:26:59 GMT
+  Open Y; Passed n; Yea 22522 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa112317e680e5215260246f1b1809eb1aea0fcf5
+  Recipient 0xa112317e680e5215260246f1b1809eb1aea0fcf5
+  
+  0xA112
+  
+  --------------------------------------------------------------------------------
+  Proposal 196; SPLIT; Voting to Sun, 26 Jun 2016 12:24:30 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc30f3e11b4f34259ce948a5558f73f64fdc9ed7b
+  Recipient 0xc30f3e11b4f34259ce948a5558f73f64fdc9ed7b
+  
+  split0619
+  
+  --------------------------------------------------------------------------------
+  Proposal 197; SPLIT; Voting to Sun, 26 Jun 2016 12:32:42 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc30f3e11b4f34259ce948a5558f73f64fdc9ed7b
+  Recipient 0xf79d569abc9941d894985ba039bc3ad019bcb0e2
+  
+  0619split
+  
+  --------------------------------------------------------------------------------
+  Proposal 198; SPLIT; Voting to Sun, 26 Jun 2016 13:07:06 GMT
+  Open Y; Passed n; Yea 20100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf489ce6718e98960883528bfd080e39f6fac5b33
+  Recipient 0xf489ce6718e98960883528bfd080e39f6fac5b33
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 199; SPLIT; Voting to Sun, 26 Jun 2016 14:24:31 GMT
+  Open Y; Passed n; Yea 20001 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xed24bce2915aaa10c1c08ffd28dbd13c4c3f56b7
+  Recipient 0x2001bef77b66f51e1599b02fb110194a0099b78d
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 200; SPLIT; Voting to Sun, 26 Jun 2016 14:25:44 GMT
+  Open Y; Passed n; Yea 74625 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xecfffd759275dacf003ba44ee8fd3db4862618b9
+  Recipient 0x4c09123e222f19d09d6bb4dbf5352c93df4fd23a
+  
+  abc
+  
+  --------------------------------------------------------------------------------
+  Proposal 201; SPLIT; Voting to Sun, 26 Jun 2016 16:31:23 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcb4baa0344065655da9e7d2dde781e5efa25995e
+  Recipient 0xcb4baa0344065655da9e7d2dde781e5efa25995e
+  
+  jbm split
+  
+  --------------------------------------------------------------------------------
+  Proposal 202; SPLIT; Voting to Sun, 03 Jul 2016 16:53:18 GMT
+  Open Y; Passed n; Yea 74625 DAO; Nay 385 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x56cfdedb06aa5f2307e1980219e721619bc906b6
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  <script>alert("Bye");</script>
+  
+  --------------------------------------------------------------------------------
+  Proposal 203; SPLIT; Voting to Sun, 03 Jul 2016 17:01:16 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 385 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcd8368170358d401cd03c66065fe4ae12aa5ee58
+  Recipient 0x56cfdedb06aa5f2307e1980219e721619bc906b6
+  
+  Bye
+  
+  --------------------------------------------------------------------------------
+  Proposal 204; SPLIT; Voting to Sun, 03 Jul 2016 17:15:42 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcd8368170358d401cd03c66065fe4ae12aa5ee58
+  Recipient 0x56cfdedb06aa5f2307e1980219e721619bc906b6
+  
+  <iframe src="http://disney.com/" />
+  
+  --------------------------------------------------------------------------------
+  Proposal 205; SPLIT; Voting to Sun, 26 Jun 2016 17:38:02 GMT
+  Open Y; Passed n; Yea 99391 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x66a97b07c0870f239b7be2899af3141ee0c0dbe4
+  Recipient 0x66a97b07c0870f239b7be2899af3141ee0c0dbe4
+  
+  Split it for Knut
+  
+  --------------------------------------------------------------------------------
+  Proposal 206; SPLIT; Voting to Sun, 26 Jun 2016 17:59:28 GMT
+  Open Y; Passed n; Yea 20000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x81fff0f75c6cb65bc9799922c18b27d211131079
+  Recipient 0x81fff0f75c6cb65bc9799922c18b27d211131079
+  
+  split-T8cW4b
+  
+  --------------------------------------------------------------------------------
+  Proposal 207; SPLIT; Voting to Sun, 26 Jun 2016 20:48:10 GMT
+  Open Y; Passed n; Yea 125189 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc8037a1fb53723d70a11f7c5656eaa7ce0e7222a
+  Recipient 0xc8037a1fb53723d70a11f7c5656eaa7ce0e7222a
+  
+  0x696969x
+  
+  --------------------------------------------------------------------------------
+  Proposal 208; SPLIT; Voting to Sun, 26 Jun 2016 20:53:12 GMT
+  Open Y; Passed n; Yea 1000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x692d3b8be284907783142893cb3fa9c958b4b098
+  Recipient 0x692d3b8be284907783142893cb3fa9c958b4b098
+  
+  0x692d3b8BE284907783142893cb3fA9C958B4B098
+  
+  --------------------------------------------------------------------------------
+  Proposal 209; SPLIT; Voting to Sun, 26 Jun 2016 21:05:39 GMT
+  Open Y; Passed n; Yea 2936 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4a7d1785b2c69d518701ab23bfcb5a16bc6e25e1
+  Recipient 0x4a7d1785b2c69d518701ab23bfcb5a16bc6e25e1
+  
+  DubaiSplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 210; SPLIT; Voting to Sun, 26 Jun 2016 21:19:00 GMT
+  Open Y; Passed n; Yea 55338 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x805c66885cf0d53d3c1c7a38dc939bbd7c69ab4b
+  Recipient 0x805c66885cf0d53d3c1c7a38dc939bbd7c69ab4b
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 211; SPLIT; Voting to Sun, 26 Jun 2016 22:13:26 GMT
+  Open Y; Passed n; Yea 54625 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xda96a1ff35028cea66547049387c36339d960611
+  Recipient 0xda96a1ff35028cea66547049387c36339d960611
+  
+  1111 0100
+  
+  --------------------------------------------------------------------------------
+  Proposal 212; SPLIT; Voting to Mon, 27 Jun 2016 02:19:54 GMT
+  Open Y; Passed n; Yea 3 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  Recipient 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 213; SPLIT; Voting to Mon, 27 Jun 2016 03:41:36 GMT
+  Open Y; Passed n; Yea 35120 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xcd7ccc985ff99a65607c06db4b512c262f5e27ec
+  Recipient 0xcd7ccc985ff99a65607c06db4b512c262f5e27ec
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 214; SPLIT; Voting to Mon, 27 Jun 2016 04:54:37 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xd46cfede703d5aebee6907ebac8c809815551309
+  Recipient 0xd46cfede703d5aebee6907ebac8c809815551309
+  
+  spit split
+  
+  --------------------------------------------------------------------------------
+  Proposal 215; SPLIT; Voting to Mon, 27 Jun 2016 09:07:32 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x889bdb905b78fcd1ca6e237ebbdb88ef52b3fe61
+  Recipient 0x8cda24ac16bc326bf20726e004344b51bb195f9b
+  
+  no description
+  
+  --------------------------------------------------------------------------------
+  Proposal 216; SPLIT; Voting to Mon, 04 Jul 2016 09:51:23 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0ee82c5e35cbcf9e1271808f0386b930ee8ae8a2
+  Recipient 0x0ee82c5e35cbcf9e1271808f0386b930ee8ae8a2
+  
+  m2 splt
+  
+  --------------------------------------------------------------------------------
+  Proposal 217; SPLIT; Voting to Mon, 27 Jun 2016 12:32:09 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3ea10d0d8e3c5f41818a1d737d92323628dcc0b8
+  Recipient 0x3ea10d0d8e3c5f41818a1d737d92323628dcc0b8
+  
+  splitting
+  
+  --------------------------------------------------------------------------------
+  Proposal 218; SPLIT; Voting to Mon, 27 Jun 2016 12:33:42 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3ea10d0d8e3c5f41818a1d737d92323628dcc0b8
+  Recipient 0x4f27142f6fb94c0e6585b28aaed0f538c8ac70b6
+  
+  mee too
+  
+  --------------------------------------------------------------------------------
+  Proposal 219; SPLIT; Voting to Mon, 27 Jun 2016 14:01:23 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf68f16be97c1357c059ca1ef2ac5fb714a061bfc
+  Recipient 0xf68f16be97c1357c059ca1ef2ac5fb714a061bfc
+  
+  split
+  
+  --------------------------------------------------------------------------------
+  Proposal 220; SPLIT; Voting to Mon, 27 Jun 2016 14:04:21 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8529926580bf7ad8eef61da6e96613ce8e0a943b
+  Recipient 0x8529926580bf7ad8eef61da6e96613ce8e0a943b
+  
+  follow me at your peril
+  
+  --------------------------------------------------------------------------------
+  Proposal 221; SPLIT; Voting to Mon, 27 Jun 2016 14:07:34 GMT
+  Open Y; Passed n; Yea 2836 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x058a2e7046f84514f1477f57f3acf0a847a572a9
+  Recipient 0x058a2e7046f84514f1477f57f3acf0a847a572a9
+  
+  https://www.youtube.com/watch?v=8y5KnmFHQqw
+  
+  --------------------------------------------------------------------------------
+  Proposal 222; SPLIT; Voting to Mon, 27 Jun 2016 14:09:34 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6d18aef70974c32a1944553403d380a7ae01e4e7
+  Recipient 0x6d18aef70974c32a1944553403d380a7ae01e4e7
+  
+  out
+  
+  --------------------------------------------------------------------------------
+  Proposal 223; SPLIT; Voting to Mon, 27 Jun 2016 14:10:23 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x7d3f767af039f3fb53ba61fd8a1b0d76854f0f7f
+  Recipient 0x7d3f767af039f3fb53ba61fd8a1b0d76854f0f7f
+  
+  split nao, I command you
+  
+  --------------------------------------------------------------------------------
+  Proposal 224; SPLIT; Voting to Mon, 27 Jun 2016 14:11:19 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x40fc5226cc4bb91b3f9f25c7cdd1c5397d2e45fa
+  Recipient 0x40fc5226cc4bb91b3f9f25c7cdd1c5397d2e45fa
+  
+  rrrrrrrrrrrrrrrrrrrrrrewind
+  
+  --------------------------------------------------------------------------------
+  Proposal 225; SPLIT; Voting to Mon, 27 Jun 2016 14:13:45 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x4f27142f6fb94c0e6585b28aaed0f538c8ac70b6
+  Recipient 0x4f27142f6fb94c0e6585b28aaed0f538c8ac70b6
+  
+  that's all folks
+  
+  --------------------------------------------------------------------------------
+  Proposal 226; SPLIT; Voting to Mon, 27 Jun 2016 15:41:09 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xeda3c50ee6af463cdf2b0b1bbf859ca56fb92d9b
+  Recipient 0xeda3c50ee6af463cdf2b0b1bbf859ca56fb92d9b
+  
+  gzfs
+  
+  --------------------------------------------------------------------------------
+  Proposal 227; SPLIT; Voting to Mon, 27 Jun 2016 17:52:51 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0.804083510000002999 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xea03048d3af1c60b852c472293f7dfb5508dac88
+  Recipient 0xea03048d3af1c60b852c472293f7dfb5508dac88
+  
+  ~~personal split
+  
+  --------------------------------------------------------------------------------
+  Proposal 228; SPLIT; Voting to Mon, 27 Jun 2016 18:12:10 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0a44c738b04c17a17ef68ecb1faa69891055cc93
+  Recipient 0x0a44c738b04c17a17ef68ecb1faa69891055cc93
+  
+  try 2
+  
+  --------------------------------------------------------------------------------
+  Proposal 229; SPLIT; Voting to Mon, 27 Jun 2016 18:13:12 GMT
+  Open Y; Passed n; Yea 10000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc3128a6b538812f9858d57748fc4f4b6c1e788e8
+  Recipient 0x5fa0c49519cc615cd703b06140bbeba87a8e59a1
+  
+  losty split
+  
+  --------------------------------------------------------------------------------
+  Proposal 230; SPLIT; Voting to Mon, 27 Jun 2016 18:50:03 GMT
+  Open Y; Passed n; Yea 50010 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x5fa0c49519cc615cd703b06140bbeba87a8e59a1
+  Recipient 0x5fa0c49519cc615cd703b06140bbeba87a8e59a1
+  
+  losty split
+  
+  --------------------------------------------------------------------------------
+  Proposal 231; SPLIT; Voting to Mon, 27 Jun 2016 22:36:09 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe140fb115fab01d61d218bf1edf534832e9e63d8
+  Recipient 0x667c883fbde1f6a5124dd7389b1c7e23a0548f84
+  
+  2dj - 5a
+  
+  --------------------------------------------------------------------------------
+  Proposal 232; SPLIT; Voting to Mon, 27 Jun 2016 22:58:26 GMT
+  Open Y; Passed n; Yea 5 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x36b0b347f46ad2807d3b191b3d558c1a80b5f54a
+  Recipient 0xfb659752a52fe234f870a6fb8181d85b5568d5ea
+  
+  2dkrn - 6a
+  
+  --------------------------------------------------------------------------------
+  Proposal 233; SPLIT; Voting to Tue, 28 Jun 2016 05:36:31 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x829233201f51aa775fa903d3a1644df0c829b324
+  Recipient 0x829233201f51aa775fa903d3a1644df0c829b324
+  
+  sleep split
+  
+  --------------------------------------------------------------------------------
+  Proposal 234; SPLIT; Voting to Tue, 28 Jun 2016 08:27:22 GMT
+  Open Y; Passed n; Yea 1274 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x114de5532df8f21ba74d261d44c6775e47140118
+  Recipient 0x7dd86c45a20e34e8ecec73931a634b27bb517e00
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 235; SPLIT; Voting to Tue, 28 Jun 2016 10:33:15 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x43bcf388356a06bbcceeec51dd92f8e5c8d96b71
+  Recipient 0x43bcf388356a06bbcceeec51dd92f8e5c8d96b71
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 236; SPLIT; Voting to Tue, 28 Jun 2016 13:22:42 GMT
+  Open Y; Passed n; Yea 54022 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc933bad3ac72a228ae2aba5b09d31e7c95afe99d
+  Recipient 0xc933bad3ac72a228ae2aba5b09d31e7c95afe99d
+  
+  YadaYada
+  
+  --------------------------------------------------------------------------------
+  Proposal 237; SPLIT; Voting to Tue, 28 Jun 2016 14:43:19 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x490f824a4c4942e360227dbccc9daf3310fcd66d
+  Recipient 0x490f824a4c4942e360227dbccc9daf3310fcd66d
+  
+  0x762f split proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 238; SPLIT; Voting to Tue, 28 Jun 2016 17:24:04 GMT
+  Open Y; Passed n; Yea 44087 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb89e767ba817444f8e49ee1ab85e2cf530f2f61c
+  Recipient 0xb89e767ba817444f8e49ee1ab85e2cf530f2f61c
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 239; non-split; Voting to Wed, 06 Jul 2016 09:24:49 GMT
+  Open Y; Passed n; Yea 253 DAO; Nay 14307 DAO
+  Deposit 48 ETH; Amount 0 WEI
+  Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Need ETH in the DAO for splitting
+  
+  --------------------------------------------------------------------------------
+  Proposal 240; SPLIT; Voting to Fri, 01 Jul 2016 05:43:34 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xa0245daa69dd85495d454adcb91c07f01de83b05
+  Recipient 0xa0245daa69dd85495d454adcb91c07f01de83b05
+  
+  brexit split
+  
+  --------------------------------------------------------------------------------
+  Proposal 241; SPLIT; Voting to Fri, 01 Jul 2016 05:47:25 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8ff8723d47665bcb16c8e7b0e20fc3c284b06301
+  Recipient 0x8ff8723d47665bcb16c8e7b0e20fc3c284b06301
+  
+  aligator split
+  
+  --------------------------------------------------------------------------------
+  Proposal 242; non-split; Voting to Fri, 08 Jul 2016 15:16:20 GMT
+  Open n; Passed Y; Yea 119871100 DAO; Nay 0
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x807640a13483f8ac783c557fcdf27be11ea4ac7a
+  
+  Proposal to payout the extra Balance back to the DAO. Part of the Soft Fork coun
+  ter-attack plan as can be seen in: https://blog.slock.it/white-hat-siphoning-has
+  -occurred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 243; non-split; Voting to Fri, 08 Jul 2016 15:57:08 GMT
+  Open n; Passed Y; Yea 129920123 DAO; Nay 0
+  Deposit 2 ETH; Amount 1000 ETH
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  Proposal to buy 1k ETH worth of tokens into the Dark DAO.
+   counter-attack plan as can be seen in: https://blog.slock.it/white-hat-siphonin
+  g-has-occurred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 244; SPLIT; Voting to Sun, 03 Jul 2016 19:59:22 GMT
+  Open Y; Passed n; Yea 498 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x997987850d3c2546e74f20aa583fad1d3d8ea93c
+  Recipient 0x997987850d3c2546e74f20aa583fad1d3d8ea93c
+  
+  S0x99 DAO SPLIT
+  
+  --------------------------------------------------------------------------------
+  Proposal 245; SPLIT; Voting to Mon, 04 Jul 2016 20:25:00 GMT
+  Open Y; Passed n; Yea 203 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  Recipient 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 246; non-split; Voting to Mon, 11 Jul 2016 22:10:14 GMT
+  Open Y; Passed n; Yea 255725 DAO; Nay 0
+  Deposit 2 ETH; Amount 1000 ETH
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  Flexibility in Counterattack 1k ETH version
+  hat will allow us extra flexibility in the DAO counter-attack as described in: h
+  ttps://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 247; non-split; Voting to Tue, 12 Jul 2016 01:14:21 GMT
+  Open Y; Passed n; Yea 255725 DAO; Nay 0
+  Deposit 2 ETH; Amount 274000 ETH
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  Flexibility in Counterattack 247k ETH version
+   that will allow us flexibility in the DAO counter-attack as described in: https
+  ://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 248; SPLIT; Voting to Tue, 05 Jul 2016 03:02:54 GMT
+  Open Y; Passed n; Yea 203 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  Recipient 0xfc4dd4fa1511a1ec98e6694843b9736eaf0a5759
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 249; non-split; Voting to Tue, 12 Jul 2016 06:49:04 GMT
+  Open Y; Passed n; Yea 217499 DAO; Nay 0
+  Deposit 2 ETH; Amount 274000 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  V2 - Proposal to payout the extra Balance back to the DAO. Part of the Soft Fork
+   counter-attack plan as can be seen in: https://blog.slock.it/white-hat-siphonin
+  g-has-occurred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 250; non-split; Voting to Tue, 12 Jul 2016 08:51:58 GMT
+  Open Y; Passed n; Yea 219591 DAO; Nay 0
+  Deposit 2 ETH; Amount 1000 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  V2 - Proposal to payout the extra Balance back to the DAO. Part of the Soft Fork
+   counter-attack plan as can be seen in: https://blog.slock.it/white-hat-siphonin
+  g-has-occurred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 251; non-split; Voting to Tue, 12 Jul 2016 10:55:20 GMT
+  Open Y; Passed n; Yea 11048 DAO; Nay 0
+  Deposit 2 ETH; Amount 1000 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  V2 - Flexibility in Counterattack 1k ETH version Buy dark DAO tokens for a contr
+  act that will allow us extra flexibility in the DAO counter-attack as described 
+  in: https://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 252; non-split; Voting to Tue, 12 Jul 2016 12:58:36 GMT
+  Open Y; Passed n; Yea 8835 DAO; Nay 0
+  Deposit 2 ETH; Amount 274000 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  V2 - Flexibility in Counterattack 274k ETH version Buy dark DAO tokens for a con
+  tract that will allow us flexibility in the DAO counter-attack as described in: 
+  https://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 253; non-split; Voting to Tue, 12 Jul 2016 11:17:47 GMT
+  Open Y; Passed n; Yea 21167 DAO; Nay 0
+  Deposit 2 ETH; Amount 0 WEI
+  Creator 0x13370bcff475ca6fcac2fc00ed3fbe02974217df
+  Recipient 0xbb9bc244d798123fde783fcc1c72d3bb8c189413
+  
+  Send TheDao tokens to Counterattack
+  
+  --------------------------------------------------------------------------------
+  Proposal 254; non-split; Voting to Tue, 12 Jul 2016 19:09:00 GMT
+  Open Y; Passed n; Yea 24241827 DAO; Nay 0
+  Deposit 2 ETH; Amount 1000 ETH
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  Flexibility in Counterattack 1k ETH version
+  hat will allow us extra flexibility in the DAO counter-attack as described in: h
+  ttps://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 255; non-split; Voting to Tue, 12 Jul 2016 20:13:06 GMT
+  Open Y; Passed n; Yea 24420341 DAO; Nay 0
+  Deposit 2 ETH; Amount 247000 ETH
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+  
+  Flexibility in Counterattack 247k ETH version
+   that will allow us extra flexibility in the DAO counter-attack as described in:
+   https://blog.slock.it/white-hat-siphoning-has-occurred-what-now-f7ba2f8d20ef
+  
+  --------------------------------------------------------------------------------
+  Proposal 256; SPLIT; Voting to Wed, 06 Jul 2016 03:32:23 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 257; SPLIT; Voting to Wed, 06 Jul 2016 03:33:47 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 258; SPLIT; Voting to Wed, 06 Jul 2016 03:34:12 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 259; SPLIT; Voting to Wed, 06 Jul 2016 03:39:17 GMT
+  Open Y; Passed n; Yea 1041276 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  private split 0xe845
+  
+  --------------------------------------------------------------------------------
+  Proposal 260; SPLIT; Voting to Wed, 06 Jul 2016 16:42:47 GMT
+  Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x13370bcff475ca6fcac2fc00ed3fbe02974217df
+  Recipient 0x13370bcff475ca6fcac2fc00ed3fbe02974217df
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 261; SPLIT; Voting to Thu, 07 Jul 2016 13:06:33 GMT
+  Open Y; Passed n; Yea 1000000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  Recipient 0xe845e387c4cbdf982280f6aa01c40e4be958ddb2
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 262; SPLIT; Voting to Sat, 09 Jul 2016 14:38:32 GMT
+  Open Y; Passed n; Yea 24766 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x66a97b07c0870f239b7be2899af3141ee0c0dbe4
+  Recipient 0x66a97b07c0870f239b7be2899af3141ee0c0dbe4
+  
+  Knut2
+  
+  --------------------------------------------------------------------------------
+  Proposal 263; non-split; Voting to Sun, 17 Jul 2016 07:43:15 GMT
+  Open Y; Passed n; Yea 21167 DAO; Nay 0
+  Deposit 2 ETH; Amount 871 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x4613f3bca5c44ea06337a9e439fbc6d42e501d0a
+  
+  Buy tokens in DAO98
+  
+  --------------------------------------------------------------------------------
+  Proposal 264; non-split; Voting to Sun, 17 Jul 2016 07:50:13 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 2 ETH; Amount 20125 ETH
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0xf4c64518ea10f995918a454158c6b61407ea345c
+  
+  Buy tokens in DAO101
+  
+  --------------------------------------------------------------------------------
+  Proposal 265; non-split; Voting to Sun, 17 Jul 2016 16:19:30 GMT
+  Open Y; Passed n; Yea 381945 DAO; Nay 0
+  Deposit 2 ETH; Amount 42.95948752484177 ETH
+  Creator 0x9a1d43466a952ef07f7a03f75ad50fbd55e87c71
+  Recipient 0xaeeb8ff27288bdabc0fa5ebb731b6f409507516c
+  
+  Generic proposal to attack all smaller bad DAOs.
+  attack plan as can be seen in: https://blog.slock.it/white-hat-siphoning-has-occ
+  urred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 266; non-split; Voting to Sun, 17 Jul 2016 16:20:19 GMT
+  Open Y; Passed n; Yea 29528 DAO; Nay 0
+  Deposit 2 ETH; Amount 1.1998893933266772 ETH
+  Creator 0x9a1d43466a952ef07f7a03f75ad50fbd55e87c71
+  Recipient 0xaccc230e8a6e5be9160b8cdf2864dd2a001c28b6
+  
+  Generic proposal to attack all smaller bad DAOs.
+  attack plan as can be seen in: https://blog.slock.it/white-hat-siphoning-has-occ
+  urred-what-now-f7ba2f8d20ef#.c5afe12o2
+  
+  --------------------------------------------------------------------------------
+  Proposal 267; SPLIT; Voting to Mon, 11 Jul 2016 19:34:28 GMT
+  Open Y; Passed n; Yea 7500 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0b9d45de7ef82e7e1d0b921d0683a8702136a661
+  Recipient 0xf0020b046e3fc0e3e6d5a7b41429179eaee92725
+  
+  0x04072016 Split Proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 268; SPLIT; Voting to Tue, 12 Jul 2016 12:19:07 GMT
+  Open Y; Passed n; Yea 10 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x45b97adf34cb65b56a46d2a1ed054b020c8b1ffb
+  Recipient 0x45b97adf34cb65b56a46d2a1ed054b020c8b1ffb
+  
+  fallback plan - g
+  
+  --------------------------------------------------------------------------------
+  Proposal 269; SPLIT; Voting to Wed, 13 Jul 2016 21:34:30 GMT
+  Open Y; Passed n; Yea 10 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xc5e6ef115b322b54209790a754faf4986d00e63a
+  Recipient 0xc5e6ef115b322b54209790a754faf4986d00e63a
+  
+  fallback plan - g
+  
+  --------------------------------------------------------------------------------
+  Proposal 270; SPLIT; Voting to Sun, 17 Jul 2016 13:52:14 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x365968a0747edc66e4ae3b0a6c065de903ee4ae9
+  Recipient 0x365968a0747edc66e4ae3b0a6c065de903ee4ae9
+  
+  fallbackplan - g
+  
+  --------------------------------------------------------------------------------
+  Proposal 271; SPLIT; Voting to Mon, 18 Jul 2016 22:59:13 GMT
+  Open Y; Passed n; Yea 8289 DAO; Nay 5003 DAO
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x0b9d45de7ef82e7e1d0b921d0683a8702136a661
+  Recipient 0x0b9d45de7ef82e7e1d0b921d0683a8702136a661
+  
+  11.07.2016 Split Proposal
+  
+  --------------------------------------------------------------------------------
+  Proposal 272; SPLIT; Voting to Thu, 28 Jul 2016 13:30:08 GMT
+  Open Y; Passed n; Yea 0.000000000000000500 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  Recipient 0xb3b10eff47b9c0b3e5579bf1c25872111667e650
+  
+  Split for people who sent money to the DAO after the Hard Fork by mistake
+  
+  --------------------------------------------------------------------------------
+  Proposal 273; SPLIT; Voting to Thu, 28 Jul 2016 16:04:34 GMT
+  Open Y; Passed n; Yea 0.000000000000000300 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x79f09717c5b352078234832e5737651ddb333548
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 274; SPLIT; Voting to Thu, 28 Jul 2016 16:05:44 GMT
+  Open Y; Passed n; Yea 0.000000000000000300 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x79f09717c5b352078234832e5737651ddb333548
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 275; SPLIT; Voting to Thu, 28 Jul 2016 16:06:08 GMT
+  Open Y; Passed n; Yea 0.000000000000000300 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x79f09717c5b352078234832e5737651ddb333548
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 276; SPLIT; Voting to Thu, 28 Jul 2016 16:06:08 GMT
+  Open Y; Passed n; Yea 0.000000000000000200 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x79f09717c5b352078234832e5737651ddb333548
+  Recipient 0x79f09717c5b352078234832e5737651ddb333548
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 277; SPLIT; Voting to Fri, 29 Jul 2016 04:58:32 GMT
+  Open Y; Passed n; Yea 0.000000000000000300 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xb1414534bce31e4f9b15f7efa33d9719edd21817
+  Recipient 0xb1414534bce31e4f9b15f7efa33d9719edd21817
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 278; SPLIT; Voting to Fri, 29 Jul 2016 06:32:27 GMT
+  Open Y; Passed n; Yea 94 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbf2929390b70d56350c1514abf31ace3760673c4
+  Recipient 0xbf2929390b70d56350c1514abf31ace3760673c4
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 279; SPLIT; Voting to Fri, 29 Jul 2016 15:47:05 GMT
+  Open Y; Passed n; Yea 0.000000000000000300 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x82c84b665570a0d9000e6868daac444fb93b38fa
+  Recipient 0x82c84b665570a0d9000e6868daac444fb93b38fa
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 280; SPLIT; Voting to Sun, 31 Jul 2016 18:25:05 GMT
+  Open Y; Passed n; Yea 100000 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x3534bfcd7799b49e645fa25fe0f69c7eae6008b9
+  Recipient 0x3534bfcd7799b49e645fa25fe0f69c7eae6008b9
+  
+  0x3534bf split
+  
+  --------------------------------------------------------------------------------
+  Proposal 281; SPLIT; Voting to Sun, 31 Jul 2016 23:25:28 GMT
+  Open Y; Passed n; Yea 813 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xed4194210dad4f9368dfad9530cfbcccd3acb36b
+  Recipient 0xed4194210dad4f9368dfad9530cfbcccd3acb36b
+  
+  AfterForkSplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 282; SPLIT; Voting to Wed, 03 Aug 2016 07:31:32 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbf2929390b70d56350c1514abf31ace3760673c4
+  Recipient 0xbf2929390b70d56350c1514abf31ace3760673c4
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 283; SPLIT; Voting to Wed, 03 Aug 2016 15:00:34 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x40a347a86b54e70fb22c0fe18c007391645f3a8f
+  Recipient 0x40a347a86b54e70fb22c0fe18c007391645f3a8f
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 284; SPLIT; Voting to Thu, 04 Aug 2016 07:56:58 GMT
+  Open Y; Passed n; Yea 21500 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x6f085821a0c80a709f7e67fae49157d01eac3ef6
+  Recipient 0x3ef72586be0acf4f3e0bcbf7de5e78dfc284434c
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 285; SPLIT; Voting to Thu, 04 Aug 2016 19:25:43 GMT
+  Open Y; Passed n; Yea 105010 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf9632b98086b5e0e7f8c699437bd546e1dd8a9a8
+  Recipient 0xf9632b98086b5e0e7f8c699437bd546e1dd8a9a8
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 286; SPLIT; Voting to Sat, 06 Aug 2016 03:31:45 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8a18aa83985eca59fb8172b8e5ac7df6a54a5da8
+  Recipient 0x8a18aa83985eca59fb8172b8e5ac7df6a54a5da8
+  
+  
+  --------------------------------------------------------------------------------
+  Proposal 287; SPLIT; Voting to Sat, 06 Aug 2016 03:38:57 GMT
+  Open Y; Passed n; Yea 8483 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0x8a18aa83985eca59fb8172b8e5ac7df6a54a5da8
+  Recipient 0x8a18aa83985eca59fb8172b8e5ac7df6a54a5da8
+  
+  8A18
+  
+  --------------------------------------------------------------------------------
+  Proposal 288; SPLIT; Voting to Sun, 07 Aug 2016 09:52:41 GMT
+  Open Y; Passed n; Yea 21481 DAO; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xf1be063812cf3bb46d251d9c7cdbf31e7cd76f18
+  Recipient 0xbe4bbe0def4ceadfed8f0b2437425037ecd19047
+  
+  You take the red pill, you stay in Wonderland
+  
+  --------------------------------------------------------------------------------
+  Proposal 289; SPLIT; Voting to Mon, 08 Aug 2016 03:13:36 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xd46c5630c021ddcde90df4443099fbb5f7a25c15
+  Recipient 0xd46c5630c021ddcde90df4443099fbb5f7a25c15
+  
+  TestSplit
+  
+  --------------------------------------------------------------------------------
+  Proposal 290; SPLIT; Voting to Thu, 11 Aug 2016 09:24:04 GMT
+  Open Y; Passed n; Yea 0; Nay 0
+  Deposit 0 WEI; Amount 0 WEI
+  Creator 0xbf2929390b70d56350c1514abf31ace3760673c4
+  Recipient 0xbf2929390b70d56350c1514abf31ace3760673c4
+  
+  
+
+Report generated at Sun, 07 Aug 2016 12:55:57 GMT

@@ -23,7 +23,7 @@
 geth attach << EOF | grep "DATA" | sed "s/^DATA: //"
 
 // Change the following variable to one of - "only", "exclude", "both"
-var splits = "only";
+var splits = "both";
 // Change the following variable to one of - "only", "include", "exclude"
 var summary = "include";
 // Max number of proposals for testing - 0 for all or eg 5
@@ -199,7 +199,7 @@ function chaseTheChildDAOSummary(daoAddress, level, id, rootProposalId) {
     var yea = proposal[9]; // / 1e16;
     var nay = proposal[10]; // / 1e16;
     var creator = proposal[11];
-    if ((newCurator && (splits == "include" || "only")) || (!newCurator && (splits == "exclude"))) {
+    if ((newCurator && (splits == "both" || splits == "only")) || (!newCurator && (splits == "both" || splits == "exclude"))) {
       var childDAOAddress = dao.getNewDAOAddress(proposalId);
       if (childDAOAddress != "0x" && childDAOAddress != "0x0000000000000000000000000000000000000000") {
         chaseTheChildDAOSummary(childDAOAddress, level, id + ":" + proposalId, rootProposalId);
@@ -248,7 +248,7 @@ function chaseTheChildDAODetail(daoAddress, level, spaces, proposalPrefix, rootP
     var yea = proposal[9]; // / 1e16;
     var nay = proposal[10]; // / 1e16;
     var creator = proposal[11];
-    if ((newCurator && (splits == "include" || "only")) || (!newCurator && (splits == "exclude"))) {
+    if ((newCurator && (splits == "both" || splits == "only")) || (!newCurator && (splits == "both" || splits == "exclude"))) {
       console.log("DATA: " + spaces + separator.substring(0, descriptionLength));
       console.log("DATA: " + spaces + "Proposal " + proposalPrefix + proposalId + 
         "; " + (newCurator ? "SPLIT" : "non-split") +
