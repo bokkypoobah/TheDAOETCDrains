@@ -3,7 +3,7 @@ Scripts and data related to the draining of The DAO on the Ethereum ETC chain
 
 ## Summary
 
-There are some planned movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain by the Baddies and other unknown actors:
+There are some potential upcoming movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain by the Baddies and other unknown actors:
 
 * \[Baddies] Proposal #59
     * Sub proposal #10: 3,642,408 ETC (~ 8.7 million USD), voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
@@ -12,15 +12,15 @@ There are some planned movements of ETCs within the following The DAO split prop
 * \[Infiltrated] Proposal #101 (potentially the Baddies)
     * Sub proposal #1: 269,565 ETC (~ 645,338 USD), voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
 
-And there are some potential planned movements of ETCs by the Goodies:
+And there are some potential upcoming movements of ETCs by the Goodies:
 
-* \[Goodies] Proposal #78
+* \[Goodies] Proposal #78 (could have been infiltrated by the Baddies)
     * Sub proposal #3: 7,277,385 ETC, voting deadline Mon, 08 Aug 2016 00:25:25 GMT
     * Sub proposal #4: 3,638,692 ETC, voting deadline Mon, 08 Aug 2016 00:27:04 GMT
     * Sub proposal #5: 1,819,346 ETC, voting deadline Mon, 08 Aug 2016 00:28:50 GMT
     * Sub proposal #6: 454,836 ETC, voting deadline Mon, 08 Aug 2016 00:32:03 GMT
     * Sub proposal #7: 454,836 ETC, voting deadline Mon, 08 Aug 2016 00:32:03 GMT
-* \[Goodies] Proposal #99
+* \[Goodies] Proposal #99 (could have been infiltrated by the Baddies)
     * Sub proposal #4: 672,696 ETC, voting deadline Mon, 08 Aug 2016 14:32:49 GMT
     * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GMT
 
