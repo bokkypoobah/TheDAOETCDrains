@@ -1,0 +1,293 @@
+#!/bin/sh
+# 
+# Copyright (c) 2016 BokkyPooBah.
+# 
+# Permission is hereby granted, free of charge, to any person obtaining a copy of
+# this software and associated documentation files (the "Software"), to deal in 
+# the Software without restriction, including without limitation the rights to 
+# use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies 
+# of the Software, and to permit persons to whom the Software is furnished to do 
+# so, subject to the following conditions:
+# 
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+# FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+# COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+# IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+# CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+# 
+
+geth attach << EOF | grep "DATA" | sed "s/^DATA: //"
+
+// Change the following variable to one of - "only", "exclude", "both"
+var splits = "only";
+// Change the following variable to one of - "only", "include", "exclude"
+var summary = "include";
+// Max number of proposals for testing - 0 for all or eg 5
+var maxProposals = 0;
+
+var theDAOAddress="0xbb9bc244d798123fde783fcc1c72d3bb8c189413";
+var theDAOABIFragment =[{"constant":true,"inputs":[{"name":"_proposalID","type":"uint256"}],"name":"getNewDAOAddress","outputs":[{"name":"_newDAO","type":"address"}],"type":"function"}, {"constant":true,"inputs":[],"name":"numberOfProposals","outputs":[{"name":"_numberOfProposals","type":"uint256"}],"type":"function"}, {"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"proposals","outputs":[{"name":"recipient","type":"address"},{"name":"amount","type":"uint256"},{"name":"description","type":"string"},{"name":"votingDeadline","type":"uint256"},{"name":"open","type":"bool"},{"name":"proposalPassed","type":"bool"},{"name":"proposalHash","type":"bytes32"},{"name":"proposalDeposit","type":"uint256"},{"name":"newCurator","type":"bool"},{"name":"yea","type":"uint256"},{"name":"nay","type":"uint256"},{"name":"creator","type":"address"}],"type":"function"}, {"constant":true,"inputs":[],"name":"extraBalance","outputs":[{"name":"","type":"address"}],"type":"function"}, {"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"type":"function"}];
+var descriptionLength = 80;
+var separator = "--------------------------------------------------------------------------------------------";
+
+function printEthers(e) {
+  if (e > 1e16) {
+    return web3.fromWei(e, "ether") + " ETH";
+  } else {
+    return e + " WEI";
+  }
+}
+
+function printTokens(e) {
+  if (e == 0) {
+    return 0;
+  } else if (e > 1e16) {
+    e = e / 1e16;
+    return e.toFixed(0) + " DAO";
+  } else {
+    e = e / 1e16;
+    return e.toFixed(18) + " DAO";
+  }
+}
+
+function padSummaryTokens(s) {
+  var o = s.toFixed(16);
+  while (o.length <= 27) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function padSummaryEthers(s) {
+  var o = s.toFixed(18);
+  while (o.length <= 27) {
+    o = " " + o;
+  }
+  return o;
+}
+
+function padSummaryTitle(s) {
+  var o = s;
+  while (o.length <= 12) {
+    o = o + " ";
+  }
+  return o;
+}
+
+function padSummaryId(s) {
+  var o = s;
+  while (o.length <= 7) {
+    o = o + " ";
+  }
+  return o;
+}
+
+// Title according to https://github.com/dsystems-io/childDaoWithdraw, except Goodies and Baddies split out
+function getTitle(proposalId) {
+  var title;
+  if (proposalId == 1 ||
+      proposalId == 4 ||
+      proposalId == 8 ||
+      proposalId == 13 ||
+      proposalId == 14 ||
+      proposalId == 18 ||
+      proposalId == 19 ||
+      proposalId == 22 ||
+      proposalId == 32 ||
+      proposalId == 33 ||
+      proposalId == 45) {
+    title = "Safe";
+  } else if (proposalId == 7 ||
+             proposalId == 10 ||
+             proposalId == 16 ||
+             proposalId == 20 ||
+             proposalId == 23 ||
+             proposalId == 26 ||
+             proposalId == 27 ||
+             proposalId == 28 ||
+             proposalId == 29 ||
+             proposalId == 31 ||
+             proposalId == 34 ||
+             proposalId == 37 ||
+             proposalId == 39 ||
+             proposalId == 41 ||
+             proposalId == 44 ||
+             proposalId == 52 ||
+             proposalId == 54 ||
+             proposalId == 56 ||
+             proposalId == 57 ||
+             proposalId == 60 ||
+             proposalId == 61 ||
+             proposalId == 63 ||
+             proposalId == 64 ||
+             proposalId == 65 ||
+             proposalId == 66) {
+    title = "Trusted";
+  } else if (proposalId == 35 ||
+             proposalId == 36 ||
+             proposalId == 53 ||
+             proposalId == 62 ||
+             proposalId == 67 ||
+             proposalId == 68 ||
+             proposalId == 70 ||
+             proposalId == 71 ||
+             proposalId == 73 ||
+             proposalId == 76 ||
+             proposalId == 87) {
+    title = "Untrusted";
+  } else if (proposalId == 69 ||
+             proposalId == 74 ||
+             proposalId == 81 ||
+             proposalId == 94) {
+    title = "Infiltrated";
+  } else if (proposalId == 85 ||
+             proposalId == 98 ||
+             proposalId == 101) {
+    title = "Infiltrated";
+  } else if (proposalId == 78 ||
+             proposalId == 99) {
+    title = "Goodies";
+  } else if (proposalId == 59) {
+    title = "Baddies";
+  } else {
+    title = "Unknown";
+  }
+  return title;
+}
+
+function chaseTheChildDAOSummary(daoAddress, level, id, rootProposalId) {
+  var title;
+  if (level == 0) {
+    title = "The DAO";
+  } else {
+    title = getTitle(rootProposalId);
+  }
+  if (daoAddress == theDAOAddress) {
+    console.log("DATA: Type                #                      Balance                 ExtraBalance                       Tokens Address");
+    console.log("DATA: ------------ -------- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------");
+  }
+  var dao = web3.eth.contract(theDAOABIFragment).at(daoAddress);
+  var balance = eth.getBalance(daoAddress)/1e18;
+  var supply =  dao.totalSupply()/1e16;
+  var extraBalanceAddress = dao.extraBalance();
+  var extraBalance = eth.getBalance(extraBalanceAddress)/1e18;
+  console.log("DATA: " + padSummaryTitle(title) + padSummaryId(id) + " " + padSummaryEthers(balance) + " " + padSummaryEthers(extraBalance) + " " + padSummaryTokens(supply) + " " + daoAddress);
+  level = level + 1;
+
+  var numberOfProposals = dao.numberOfProposals();
+  if (maxProposals != 0 && numberOfProposals > maxProposals) {
+     numberOfProposals = maxProposals;
+  }
+  var proposalId;
+  for (proposalId = 1; proposalId <= numberOfProposals; proposalId++) {
+    if (level == 1) {
+      rootProposalId = proposalId;
+    }
+    var proposal = dao.proposals(proposalId);  
+    var recipient = proposal[0];
+    var amount = proposal[1];
+    var description = proposal[2];
+    var votingDeadline = proposal[3];
+    var open = proposal[4];
+    var proposalPassed = proposal[5];
+    var proposalDeposit = proposal[7]; web3.fromWei(proposal[7], "ether");
+    var newCurator = proposal[8];
+    var yea = proposal[9]; // / 1e16;
+    var nay = proposal[10]; // / 1e16;
+    var creator = proposal[11];
+    if ((newCurator && (splits == "include" || "only")) || (!newCurator && (splits == "exclude"))) {
+      var childDAOAddress = dao.getNewDAOAddress(proposalId);
+      if (childDAOAddress != "0x" && childDAOAddress != "0x0000000000000000000000000000000000000000") {
+        chaseTheChildDAOSummary(childDAOAddress, level, id + ":" + proposalId, rootProposalId);
+      }
+    }
+  }
+}
+
+
+function chaseTheChildDAODetail(daoAddress, level, spaces, proposalPrefix, rootProposalId) {
+  var title;
+  if (level == 0) {
+    title = "The DAO";
+  } else {
+    title = getTitle(rootProposalId);
+  }
+  console.log("DATA: " + spaces + "(" + title + ")");
+  var dao = web3.eth.contract(theDAOABIFragment).at(daoAddress);
+  var balance = eth.getBalance(daoAddress);
+  var supply =  dao.totalSupply();
+  console.log("DATA: " + spaces + "Address      " + daoAddress + " with " + printEthers(balance) + " and " + printTokens(supply));
+  var extraBalanceAddress = dao.extraBalance();
+  var extraBalance = eth.getBalance(extraBalanceAddress);
+  console.log("DATA: " + spaces + "ExtraBalance " + extraBalanceAddress + " with " + printEthers(extraBalance));
+  spaces = spaces + "  ";
+  level = level + 1;
+
+  var numberOfProposals = dao.numberOfProposals();
+  if (maxProposals != 0 && numberOfProposals > maxProposals) {
+     numberOfProposals = maxProposals;
+  }
+  var proposalId;
+  for (proposalId = 1; proposalId <= numberOfProposals; proposalId++) {
+    if (level == 1) {
+      rootProposalId = proposalId;
+    }
+    var proposal = dao.proposals(proposalId);  
+    var recipient = proposal[0];
+    var amount = proposal[1];
+    var description = proposal[2];
+    var votingDeadline = proposal[3];
+    var open = proposal[4];
+    var proposalPassed = proposal[5];
+    var proposalDeposit = proposal[7]; web3.fromWei(proposal[7], "ether");
+    var newCurator = proposal[8];
+    var yea = proposal[9]; // / 1e16;
+    var nay = proposal[10]; // / 1e16;
+    var creator = proposal[11];
+    if ((newCurator && (splits == "include" || "only")) || (!newCurator && (splits == "exclude"))) {
+      console.log("DATA: " + spaces + separator.substring(0, descriptionLength));
+      console.log("DATA: " + spaces + "Proposal " + proposalPrefix + proposalId + 
+        "; " + (newCurator ? "SPLIT" : "non-split") +
+        "; Voting to " + new Date(votingDeadline * 1000).toGMTString());
+      console.log("DATA: " + spaces + "Open " + (open ? "Y" : "n") + 
+        "; Passed " + (proposalPassed ? "Y" : "n") +
+        "; Yea " + printTokens(yea) + 
+        "; Nay " + printTokens(nay));
+      console.log("DATA: " + spaces + "Deposit " + printEthers(proposalDeposit) +
+        "; Amount " + printEthers(amount));
+      console.log("DATA: " + spaces + "Creator " + creator);
+      console.log("DATA: " + spaces + "Recipient " + recipient);
+      console.log("DATA: " + spaces);
+      var s = description;
+      while (s.length > 0) {
+        console.log("DATA: " + spaces + s.substring(0, descriptionLength));
+        s = s.substring(descriptionLength);
+      }
+      console.log("DATA: " + spaces);
+      var childDAOAddress = dao.getNewDAOAddress(proposalId);
+      if (childDAOAddress != "0x" && childDAOAddress != "0x0000000000000000000000000000000000000000") {
+        chaseTheChildDAODetail(childDAOAddress, level, spaces, proposalId + ".", rootProposalId);
+      }
+    }
+  }
+}
+
+if (summary == "only" || summary == "include") {
+  console.log("DATA: " + "--- SUMMARY ---");
+  chaseTheChildDAOSummary(theDAOAddress, 0, "0", 0);
+  console.log("DATA: " + "");
+}
+if (summary == "include" || summary == "exclude") {
+  console.log("DATA: " + "--- DETAILS ---");
+  chaseTheChildDAODetail(theDAOAddress, 0, "", "", 0);
+  console.log("DATA: " + "");
+}
+console.log("DATA: Report generated at " + (new Date()).toGMTString());
+
+exit;
+
+EOF
