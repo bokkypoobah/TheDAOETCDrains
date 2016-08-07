@@ -5,9 +5,9 @@ Scripts and data related to the draining of The DAO on the Ethereum ETC chain
 
 There are some movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain:
 
-* Proposal 59, sub proposal 10, 3642408 ETC. Sub proposal voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
-* Proposal 73, sub proposal 1, 6772 ETC. Sub proposal voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
-* Proposal 101, sub proposal 1, 269565 ETC. Sub proposal voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
+* Proposal #59, sub proposal #10, 3,642,408 ETC (~ 8.7 million USD). Sub proposal voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
+* Proposal #73, sub proposal #1, 6,772 ETC (~ 16,202 USD). Sub proposal voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
+* Proposal #101, sub proposal #1, 269,565 ETC (~ 645,338 USD). Sub proposal voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
 
 
 <br />
