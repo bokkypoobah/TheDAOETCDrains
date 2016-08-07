@@ -17,9 +17,10 @@ There are some movements of ETCs within the following The DAO split proposals on
 ## Script To Recursively Retrieve The DAO Split Data
 
 ### New Script
-This new script [theDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains) was used to generate the following data for the ETC chain:
+This new script [theDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains) was used to generate the following data:
 
-* [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt)
+* On the ETC chain - [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt)
+* On the ETH chain - [theDAOETHDrains_20160807_1306GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETHDrains_20160807_1306GMT.txt)
 
 ### Older Script
 
@@ -50,7 +51,7 @@ See also:
 
 ## Changes To The Child DAO Balances
 
-Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
+Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
     --- SUMMARY ---
     Type                #                      Balance                 ExtraBalance                       Tokens Address
@@ -90,7 +91,7 @@ Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 
 
 ## Details For Splits #59, #73 and #101
 
-And here's some detailed data from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
+And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
 ### Proposal #59
 
