@@ -23,6 +23,11 @@ And the same older script was used to generate the following data pre-hard-fork:
 
 The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b).
 
+See also:
+
+* [What are the balances of The DAO and it's child DAOs on the Ethereum Classic chain?](http://ethereum.stackexchange.com/questions/7668/what-are-the-balances-of-the-dao-and-its-child-daos-on-the-ethereum-classic-cha)
+* [What's happening within child DAO #59 on the ETC chain?](http://ethereum.stackexchange.com/questions/7673/whats-happening-within-child-dao-59-on-the-etc-chain?noredirect=1&lq=1)
+
 
 <br />
 
