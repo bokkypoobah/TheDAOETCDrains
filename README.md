@@ -7,9 +7,9 @@ There are some planned movements of ETCs within the following The DAO split prop
 
 * \[Baddies] Proposal #59
     * Sub proposal #10: 3,642,408 ETC (~ 8.7 million USD), voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
-* \[Untrusted] Proposal #73
+* \[Untrusted] Proposal #73 (not the Baddies)
     * Sub proposal #1: 6,772 ETC (~ 16,202 USD), voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
-* \[Infiltrated] Proposal #101
+* \[Infiltrated] Proposal #101 (potentially the Baddies)
     * Sub proposal #1: 269,565 ETC (~ 645,338 USD), voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
 
 And there are some potential planned movements of ETCs by the Goodies:
@@ -23,6 +23,15 @@ And there are some potential planned movements of ETCs by the Goodies:
 * \[Goodies] Proposal #99
     * Sub proposal #4: 672,696 ETC, voting deadline Mon, 08 Aug 2016 14:32:49 GMT
     * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GMT
+
+### Notes
+
+The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b):
+
+* \[Baddies] are the Baddies
+* \[Untrusted] `childDAOs were not joined via any reentry attacks so their tokens are valid except for the ratio of ETH they represent.` These are not controlled by the Baddies.
+* \[Infiltrated] childDAOs are `innocent (no-reentry) splitters from childDAOs that were joined via other reentry splitters (black and white hats).` These could potentially be controlled by the Baddies.
+* \[Goodies] are the Goodies`
 
 <br />
 
@@ -47,11 +56,7 @@ And the same older script was used to generate the following data pre-hard-fork:
 
 * [theDAODrains_PreHF_20160626_1333.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_PreHF_20160626_1333.txt)
 
-### Notes
-
-The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b).
-
-See also:
+### See also
 
 * [What is a recursive calling vulnerability?](http://ethereum.stackexchange.com/questions/6176/what-is-a-recursive-calling-vulnerability)
 * [How many ethers have been drained through the recursive call attacks on The DAO?](http://ethereum.stackexchange.com/questions/6408/how-many-ethers-have-been-drained-through-the-recursive-call-attacks-on-the-dao)
