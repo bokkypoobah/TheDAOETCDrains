@@ -102,7 +102,7 @@ Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 
     child DAO  101    268320.817835378784685843         0.000000000000000000    26832081.7835378795862198 0xf4c64518ea10f995918a454158c6b61407ea345c
 
 ### Goodies
-Here is the data showing the Goodies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
+Here is the data showing the planned movements in the Goodies's child DAOs as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
     --- SUMMARY ---
     Type                #                      Balance                 ExtraBalance                       Tokens Address
@@ -119,7 +119,7 @@ Here is the data showing the Goodies's child DAO and two other child DAOs with s
 
 And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
-### Proposal #59
+### \[Baddies] Proposal #59
 
       Proposal 59; SPLIT; Voting to Wed, 15 Jun 2016 05:38:01 GMT
       Open n; Passed Y; Yea 0.000000000000000200 DAO; Nay 3838630 DAO
@@ -253,7 +253,7 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
      
 <br />
 
-### Proposal #73
+### \[Untrusted] Proposal #73
 
       Proposal 73; SPLIT; Voting to Sat, 18 Jun 2016 16:33:00 GMT
       Open Y; Passed Y; Yea 997355 DAO; Nay 0
@@ -280,7 +280,7 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         
 <br />
 
-### Proposal #101
+### \[Infiltrated] Proposal #101
 
       Proposal 101; SPLIT; Voting to Tue, 21 Jun 2016 18:34:25 GMT
       Open Y; Passed Y; Yea 34662435 DAO; Nay 0
@@ -347,7 +347,7 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
 
 Here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
-### Proposal #78
+### \[Goodies] Proposal #78
 
       Proposal 78; SPLIT; Voting to Sun, 19 Jun 2016 16:14:00 GMT
       Open Y; Passed Y; Yea 33337 DAO; Nay 0
@@ -452,7 +452,7 @@ Here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://gi
 
 <br />
 
-### Proposal #99
+### \[Goodies] Proposal #99
 
       Proposal 99; SPLIT; Voting to Tue, 21 Jun 2016 16:01:56 GMT
       Open n; Passed Y; Yea 34699265 DAO; Nay 0
