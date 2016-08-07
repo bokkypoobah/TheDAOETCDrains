@@ -10,10 +10,14 @@ This new script [theDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains
 
 ## Older Script
 
-The old script [theDAODrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains) was used to generate the following data:
+The older script [theDAODrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains) was used to generate the following data:
 
 * [theDAODrains_ETC_20160802_1558.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_ETC_20160802_1558.txt)
 * [theDAODrains_ETH_20160802_1605.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_ETH_20160802_1605.txt)
+
+And the same older script was used to generate the following data pre-hard-fork:
+
+* [theDAODrains_PreHF_20160626_1333.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_PreHF_20160626_1333.txt)
 
 <br />
 
@@ -21,7 +25,7 @@ The old script [theDAODrains](https://github.com/bokkypoobah/TheDAOETCDrains/blo
 
 # Changes To The Child DAO Balances
 
-Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT:
+Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
 
     --- SUMMARY ---
     Type                #                      Balance                 ExtraBalance                       Tokens Address
@@ -35,7 +39,7 @@ Here is the data showing the Baddies's child DAO and two other child DAOs with s
     Infiltrated  0:101            0.000000000000000021       369.231179004682303457    26956559.1797974072396755 0xf4c64518ea10f995918a454158c6b61407ea345c
     Infiltrated  0:101:1     269565.591797974077053368         0.000000000000000000    26956559.1797974072396755 0x39771e2d34eda36a49ff4fa4194d7fcb839165da
 
-Here is the corresponding data showing the same accounts as of 15:58 02/08/2016 AEST:
+Here is the corresponding data showing the same accounts as of 15:58 02/08/2016 AEST from [theDAODrains_ETC_20160802_1558.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_ETC_20160802_1558.txt):
 
     Type         #                      Balance                 ExtraBalance                       Tokens Address
     ---------- --- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------
@@ -45,7 +49,7 @@ Here is the corresponding data showing the same accounts as of 15:58 02/08/2016 
     ...
     child DAO  101         0.000000000000000021       369.231179004682274248    26956559.1797974072396755 0xf4c64518ea10f995918a454158c6b61407ea345c
     
-Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 GMT pre-hard-fork:
+Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 GMT pre-hard-fork from [theDAODrains_PreHF_20160626_1333.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_PreHF_20160626_1333.txt):
 
     Type         #                      Balance                 ExtraBalance                       Tokens Address
     ---------- --- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------
