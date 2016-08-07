@@ -106,7 +106,78 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
       (Baddies)
       Address      0x304a554a310c7e546dfe434669c62820b7d83490 with 11 WEI and 364240853 DAO
       ExtraBalance 0x914d1b8b43e92723e64fd0a06f5bdb8dd9b10c79 with 285.714295714285714286 ETH
-        ...
+        --------------------------------------------------------------------------------
+        Proposal 59.1; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.2; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.3; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.4; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.5; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.6; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.7; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.8; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.9; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x7498bb5749c9801f1f7e490baf5f966dbfe4e97b
+        Recipient 0xbe3ae5cb97c253dda67181c6e34e43f5c275e08b
+        
+        
         --------------------------------------------------------------------------------
         Proposal 59.10; SPLIT; Voting to Thu, 21 Jul 2016 03:34:56 GMT
         Open Y; Passed Y; Yea 0.000000000000000100 DAO; Nay 0
@@ -118,7 +189,42 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         (Baddies)
         Address      0x10abb5efecdc09581f8b7cb95791fe2936790b4e with 3642408.52761279270689932 ETH and 364240853 DAO
         ExtraBalance 0xfde8d5f77ef48bb7bf5766c7404691b9ee1dfca7 with 0 WEI
-        ...
+        --------------------------------------------------------------------------------
+        Proposal 59.11; SPLIT; Voting to Thu, 21 Jul 2016 03:35:57 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+        
+        Split for great Justice
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.12; non-split; Voting to Thu, 28 Jul 2016 03:40:27 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 3642408.527612792706899331 ETH
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0x304a554a310c7e546dfe434669c62820b7d83490
+        
+        Ending this game would be nice
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.13; non-split; Voting to Thu, 28 Jul 2016 03:50:41 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 3642408.527612792706899331 ETH
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xda4a4626d3e16e094de3225a751aab7128e96526
+        
+        Ending this game would be nice
+        
+        --------------------------------------------------------------------------------
+        Proposal 59.14; SPLIT; Voting to Thu, 21 Jul 2016 03:52:48 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        
+        Split for great Justice
+     
         
 <br />
 
@@ -172,8 +278,42 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         (Infiltrated)
         Address      0x39771e2d34eda36a49ff4fa4194d7fcb839165da with 269565.591797974102411573 ETH and 26956559 DAO
         ExtraBalance 0x0f112f6698b23dd44060eca9c09f4b3463feb07f with 0 WEI
-        ...
-
+        --------------------------------------------------------------------------------
+        Proposal 101.2; non-split; Voting to Mon, 01 Aug 2016 18:46:42 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0xf4c64518ea10f995918a454158c6b61407ea345c
+        
+        Send all ether to TheDAO curator
+        
+        --------------------------------------------------------------------------------
+        Proposal 101.3; SPLIT; Voting to Mon, 25 Jul 2016 18:46:42 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0x79f09717c5b352078234832e5737651ddb333548
+        
+        Split proposal
+        
+        --------------------------------------------------------------------------------
+        Proposal 101.4; SPLIT; Voting to Mon, 25 Jul 2016 18:46:42 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0x79f09717c5b352078234832e5737651ddb333548
+        
+        Split proposal
+        
+        --------------------------------------------------------------------------------
+        Proposal 101.5; non-split; Voting to Mon, 01 Aug 2016 18:46:42 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0xf4c64518ea10f995918a454158c6b61407ea345c
+        
+        Send all ether to TheDAO curator
+    
 <br />
 
 Enjoy. (c) BokkyPooBah 2016. The MIT licence.
