@@ -12,7 +12,7 @@ There are some planned movements of ETCs within the following The DAO split prop
 * \[Infiltrated] Proposal #101
     * Sub proposal #1: 269,565 ETC (~ 645,338 USD), voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
 
-And there are some planned movements of ETCs by the Goodies:
+And there are some potential planned movements of ETCs by the Goodies:
 
 * \[Goodies] Proposal #78
     * Sub proposal #3: 7,277,385 ETC, voting deadline Mon, 08 Aug 2016 00:25:25 GMT
