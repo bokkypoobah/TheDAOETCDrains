@@ -38,6 +38,8 @@ The categorisation of the splits are taken from [childDaoWithdraw](https://githu
 
 See also:
 
+* [What is a recursive calling vulnerability?](http://ethereum.stackexchange.com/questions/6176/what-is-a-recursive-calling-vulnerability)
+* [How many ethers have been drained through the recursive call attacks on The DAO?](http://ethereum.stackexchange.com/questions/6408/how-many-ethers-have-been-drained-through-the-recursive-call-attacks-on-the-dao)
 * [What are the balances of The DAO and it's child DAOs on the Ethereum Classic chain?](http://ethereum.stackexchange.com/questions/7668/what-are-the-balances-of-the-dao-and-its-child-daos-on-the-ethereum-classic-cha)
 * [What's happening within child DAO #59 on the ETC chain?](http://ethereum.stackexchange.com/questions/7673/whats-happening-within-child-dao-59-on-the-etc-chain?noredirect=1&lq=1)
 
