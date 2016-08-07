@@ -22,7 +22,7 @@ And there are some potential planned movements of ETCs by the Goodies:
     * Sub proposal #7: 454,836 ETC, voting deadline Mon, 08 Aug 2016 00:32:03 GMT
 * \[Goodies] Proposal #99
     * Sub proposal #4: 672,696 ETC, voting deadline Mon, 08 Aug 2016 14:32:49 GMT
-    * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GM
+    * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GMT
 
 <br />
 
