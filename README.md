@@ -3,12 +3,26 @@ Scripts and data related to the draining of The DAO on the Ethereum ETC chain
 
 ## Summary
 
-There are some movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain:
+There are some planned movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain by the Baddies and other unknown actors:
 
-* Proposal #59, sub proposal #10, 3,642,408 ETC (~ 8.7 million USD). Sub proposal voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
-* Proposal #73, sub proposal #1, 6,772 ETC (~ 16,202 USD). Sub proposal voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
-* Proposal #101, sub proposal #1, 269,565 ETC (~ 645,338 USD). Sub proposal voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
+* \[Baddies] Proposal #59
+    * Sub proposal #10: 3,642,408 ETC (~ 8.7 million USD), voting deadline was Thu, 21 Jul 2016 03:34:56 GMT.
+* \[Untrusted] Proposal #73
+    * Sub proposal #1: 6,772 ETC (~ 16,202 USD), voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
+* \[Infiltrated] Proposal #101
+    * Sub proposal #1: 269,565 ETC (~ 645,338 USD), voting deadline was Mon, 25 Jul 2016 18:46:42 GMT.
 
+And there are some planned movements of ETCs by the Goodies:
+
+* \[Goodies] Proposal #78
+    * Sub proposal #3: 7,277,385 ETC, voting deadline Mon, 08 Aug 2016 00:25:25 GMT
+    * Sub proposal #4: 3,638,692 ETC, voting deadline Mon, 08 Aug 2016 00:27:04 GMT
+    * Sub proposal #5: 1,819,346 ETC, voting deadline Mon, 08 Aug 2016 00:28:50 GMT
+    * Sub proposal #6: 454,836 ETC, voting deadline Mon, 08 Aug 2016 00:32:03 GMT
+    * Sub proposal #7: 454,836 ETC, voting deadline Mon, 08 Aug 2016 00:32:03 GMT
+* \[Goodies] Proposal #99
+    * Sub proposal #4: 672,696 ETC, voting deadline Mon, 08 Aug 2016 14:32:49 GMT
+    * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GM
 
 <br />
 
@@ -51,6 +65,8 @@ See also:
 
 ## Changes To The Child DAO Balances
 
+### Baddies, Untrusted and Infiltrated
+
 Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
     --- SUMMARY ---
@@ -85,11 +101,21 @@ Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 
     ...
     child DAO  101    268320.817835378784685843         0.000000000000000000    26832081.7835378795862198 0xf4c64518ea10f995918a454158c6b61407ea345c
 
+### Goodies
+Here is the data showing the Goodies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
+
+    --- SUMMARY ---
+    Type                #                      Balance                 ExtraBalance                       Tokens Address
+    ------------ -------- ---------------------------- ---------------------------- ---------------------------- ------------------------------------------
+    Goodies      0:78       7277385.711515428498387337         0.000000000000000000   727738571.1515429019927979 0xb136707642a4ea12fb4bae820f03d2562ebff487
+    ...
+    Goodies      0:99        598974.326560793095268309     73722.042576599895255640    59897432.6560793146491051 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+    
 <br />
 
 ---
 
-## Details For Splits #59, #73 and #101
+## Details For Splits #59, #73 and #101 - Baddies, Untrusted and Infiltrated
 
 And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
 
@@ -225,7 +251,6 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         
         Split for great Justice
      
-        
 <br />
 
 ### Proposal #73
@@ -253,6 +278,8 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         Address      0xd98157ae53342c90cfd341417d3c856351c1df95 with 6772.203185900849465032 ETH and 677220 DAO
         ExtraBalance 0x44d4b7faaddc01c253f01d8c2c33456026c0b895 with 0 WEI
         
+<br />
+
 ### Proposal #101
 
       Proposal 101; SPLIT; Voting to Tue, 21 Jun 2016 18:34:25 GMT
@@ -315,5 +342,181 @@ And here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https:
         Send all ether to TheDAO curator
     
 <br />
+
+## Details For Splits #78 and #99 - Goodies
+
+Here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt):
+
+### Proposal #78
+
+      Proposal 78; SPLIT; Voting to Sun, 19 Jun 2016 16:14:00 GMT
+      Open Y; Passed Y; Yea 33337 DAO; Nay 0
+      Deposit 0 WEI; Amount 0 WEI
+      Creator 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+      Recipient 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+      
+      Northern split
+      
+      (Goodies)
+      Address      0xb136707642a4ea12fb4bae820f03d2562ebff487 with 7277385.711515429122911683 ETH and 727738571 DAO
+      ExtraBalance 0xdbe9b615a3ae8709af8b93336ce9b477e4ac0940 with 0 WEI
+        --------------------------------------------------------------------------------
+        Proposal 78.1; SPLIT; Voting to Mon, 25 Jul 2016 17:49:02 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        
+        Robin Hood Split
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.2; non-split; Voting to Mon, 01 Aug 2016 17:49:57 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xb136707642a4ea12fb4bae820f03d2562ebff487
+        
+        Send all ETH to mother DAO curator
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.3; non-split; Voting to Mon, 08 Aug 2016 00:25:25 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 7277385.711515429 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        A
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.4; non-split; Voting to Mon, 08 Aug 2016 00:27:04 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 3638692.8557577143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        B
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.5; non-split; Voting to Mon, 08 Aug 2016 00:28:50 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 1819346.4278788572 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        C
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.6; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 454836.6069697143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        D
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.7; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 454836.6069697143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        D2
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.8; SPLIT; Voting to Sat, 06 Aug 2016 15:18:40 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S1
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.9; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+        Open Y; Passed n; Yea 0.000000000000000200 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S2
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.10; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S3
+
+<br />
+
+### Proposal #99
+
+      Proposal 99; SPLIT; Voting to Tue, 21 Jun 2016 16:01:56 GMT
+      Open n; Passed Y; Yea 34699265 DAO; Nay 0
+      Deposit 0 WEI; Amount 0 WEI
+      Creator 0x8d184669301640a42652e9b436843a3fa4998370
+      Recipient 0x8d184669301640a42652e9b436843a3fa4998370
+      
+      moose2
+      
+      (Goodies)
+      Address      0x84ef4b2357079cd7a7c69fd7a37cd0609a679106 with 598974.326560793095813484 ETH and 59897433 DAO
+      ExtraBalance 0xda2fef9e4a3230988ff17df2165440f37e8b1708 with 73722.042576599901129491 ETH
+        --------------------------------------------------------------------------------
+        Proposal 99.1; non-split; Voting to Mon, 01 Aug 2016 22:12:04 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+        
+        Send all ether to TheDAO curator
+        
+        --------------------------------------------------------------------------------
+        Proposal 99.2; non-split; Voting to Tue, 02 Aug 2016 14:26:31 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0xda2fef9e4a3230988ff17df2165440f37e8b1708
+        
+        Transfer Extra Balance to DAO
+        
+        --------------------------------------------------------------------------------
+        Proposal 99.3; non-split; Voting to Tue, 02 Aug 2016 14:28:05 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x79f09717c5b352078234832e5737651ddb333548
+        Recipient 0x84ef4b2357079cd7a7c69fd7a37cd0609a679106
+        
+        Send all ether to TheDAO curator
+        
+        --------------------------------------------------------------------------------
+        Proposal 99.4; non-split; Voting to Mon, 08 Aug 2016 14:32:49 GMT
+        Open Y; Passed n; Yea 14974358 DAO; Nay 0
+        Deposit 0 WEI; Amount 672696.369137393 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        A-PlusExtra
+        
+        --------------------------------------------------------------------------------
+        Proposal 99.5; non-split; Voting to Fri, 19 Aug 2016 16:45:56 GMT
+        Open Y; Passed n; Yea 14974358 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0x941d6f2cae269f6e72f9baaaf2c98057ee421960
+        Recipient 0xda2fef9e4a3230988ff17df2165440f37e8b1708
+        
+        Transfer EB
+        
+        --------------------------------------------------------------------------------
+        Proposal 99.6; non-split; Voting to Fri, 19 Aug 2016 17:29:59 GMT
+        Open Y; Passed n; Yea 14974358 DAO; Nay 0
+        Deposit 0 WEI; Amount 73722.042576599901129491 ETH
+        Creator 0x941d6f2cae269f6e72f9baaaf2c98057ee421960
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        B
 
 Enjoy. (c) BokkyPooBah 2016. The MIT licence.
