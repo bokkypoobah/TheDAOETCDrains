@@ -1,14 +1,14 @@
 # TheDAOETCDrains
 Scripts and data related to the draining of The DAO on the Ethereum ETC chain
 
-# Script To Recursively Retrieve The DAO Split Data
+## Script To Recursively Retrieve The DAO Split Data
 
-## New Script
+### New Script
 This new script [theDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains) was used to generate the following data for the ETC chain:
 
 * [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt)
 
-## Older Script
+### Older Script
 
 The older script [theDAODrains](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains) was used to generate the following data:
 
@@ -19,7 +19,7 @@ And the same older script was used to generate the following data pre-hard-fork:
 
 * [theDAODrains_PreHF_20160626_1333.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAODrains_PreHF_20160626_1333.txt)
 
-## Notes
+### Notes
 
 The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b).
 
@@ -33,7 +33,7 @@ See also:
 
 ---
 
-# Changes To The Child DAO Balances
+## Changes To The Child DAO Balances
 
 Here is the data showing the Baddies's child DAO and two other child DAOs with some movement in the balances as of 06:50 07/08/2016 GMT from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
 
@@ -73,11 +73,11 @@ Here is the corresponding data showing the same accounts as of 13:33 26/06/2016 
 
 ---
 
-# Details For Splits #59, #73 and #101
+## Details For Splits #59, #73 and #101
 
-And here are the detailed data from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
+And here's some detailed data from [theDAOETCDrains_20160807_0650.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_0650.txt):
 
-## Proposal #59
+### Proposal #59
 
       Proposal 59; SPLIT; Voting to Wed, 15 Jun 2016 05:38:01 GMT
       Open n; Passed Y; Yea 0.000000000000000200 DAO; Nay 3838630 DAO
@@ -194,7 +194,7 @@ And here are the detailed data from [theDAOETCDrains_20160807_0650.txt](https://
         
 <br />
 
-## Proposal #73
+### Proposal #73
 
       Proposal 73; SPLIT; Voting to Sat, 18 Jun 2016 16:33:00 GMT
       Open Y; Passed Y; Yea 997355 DAO; Nay 0
@@ -219,7 +219,7 @@ And here are the detailed data from [theDAOETCDrains_20160807_0650.txt](https://
         Address      0xd98157ae53342c90cfd341417d3c856351c1df95 with 6772.203185900849465032 ETH and 677220 DAO
         ExtraBalance 0x44d4b7faaddc01c253f01d8c2c33456026c0b895 with 0 WEI
         
-## Proposal #101
+### Proposal #101
 
       Proposal 101; SPLIT; Voting to Tue, 21 Jun 2016 18:34:25 GMT
       Open Y; Passed Y; Yea 34662435 DAO; Nay 0
