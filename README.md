@@ -26,7 +26,7 @@ And there are some potential upcoming movements of ETCs by the Goodies:
 
 ### \[Goodies] Proposal #78 - Update 00:29 08/08/2016 GMT
 
-The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt).
+The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt). The amount has ended up in [0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d](http://etherscan.io/address/0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d) with a current balance of +7,203,708.765226529095813484 ETC. (Classic explorer down, so see the Classic Balance in the ETH explorer).
 
 ### Notes
 
