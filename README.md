@@ -48,6 +48,7 @@ This new script [theDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains
 
 * On the ETC chain - [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt)
 * On the ETH chain - [theDAOETHDrains_20160807_1306GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETHDrains_20160807_1306GMT.txt)
+* See updates in the file listing above with the file name `theDAOETHDrains_yyyymmdd_hhmmGMT.txt`.
 
 ### Older Script
 
