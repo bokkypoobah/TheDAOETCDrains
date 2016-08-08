@@ -455,6 +455,111 @@ Here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://gi
         
         S3
 
+### \[Goodies] Proposal #78 - Update 00:29 08/08/2016 GMT
+
+The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has be depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt):
+
+      Proposal 78; SPLIT; Voting to Sun, 19 Jun 2016 16:14:00 GMT
+      Open Y; Passed Y; Yea 33337 DAO; Nay 0
+      Deposit 0 WEI; Amount 0 WEI
+      Creator 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+      Recipient 0x5494167cc3404fcc4e2435c124d0f661a8f45861
+      
+      Northern split
+      
+      (Goodies)
+      Address      0xb136707642a4ea12fb4bae820f03d2562ebff487 with 122911683 WEI and 727738571 DAO
+      ExtraBalance 0xdbe9b615a3ae8709af8b93336ce9b477e4ac0940 with 0 WEI
+        --------------------------------------------------------------------------------
+        Proposal 78.1; SPLIT; Voting to Mon, 25 Jul 2016 17:49:02 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        
+        Robin Hood Split
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.2; non-split; Voting to Mon, 01 Aug 2016 17:49:57 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xac80cba14c08f8a1242ebd0fd45881cfee54b0a2
+        Recipient 0xb136707642a4ea12fb4bae820f03d2562ebff487
+        
+        Send all ETH to mother DAO curator
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.3; non-split; Voting to Mon, 08 Aug 2016 00:25:25 GMT
+        Open n; Passed Y; Yea 451192685 DAO; Nay 0
+        Deposit 0 WEI; Amount 7277385.711515429 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        A
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.4; non-split; Voting to Mon, 08 Aug 2016 00:27:04 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 3638692.8557577143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        B
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.5; non-split; Voting to Mon, 08 Aug 2016 00:28:50 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 1819346.4278788572 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        C
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.6; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 454836.6069697143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        D
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.7; non-split; Voting to Mon, 08 Aug 2016 00:32:03 GMT
+        Open Y; Passed n; Yea 0; Nay 0
+        Deposit 0 WEI; Amount 454836.6069697143 ETH
+        Creator 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        Recipient 0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d
+        
+        D2
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.8; SPLIT; Voting to Sat, 06 Aug 2016 15:18:40 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S1
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.9; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+        Open Y; Passed n; Yea 0.000000000000000200 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S2
+        
+        --------------------------------------------------------------------------------
+        Proposal 78.10; SPLIT; Voting to Sat, 06 Aug 2016 15:19:52 GMT
+        Open Y; Passed n; Yea 0.000000000000000100 DAO; Nay 0
+        Deposit 0 WEI; Amount 0 WEI
+        Creator 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        Recipient 0xe1e278e5e6bbe00b2a41d49b60853bf6791ab614
+        
+        S3
+
 <br />
 
 ### \[Goodies] Proposal #99
