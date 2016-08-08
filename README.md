@@ -24,6 +24,10 @@ And there are some potential upcoming movements of ETCs by the Goodies:
     * Sub proposal #4: 672,696 ETC, voting deadline Mon, 08 Aug 2016 14:32:49 GMT
     * Sub proposal #6: 73,722 ETC, voting deadline Fri, 19 Aug 2016 17:29:59 GMT
 
+### \[Goodies] Proposal #78 - Update 00:29 08/08/2016 GMT
+
+The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt).
+
 ### Notes
 
 The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b):
@@ -457,7 +461,7 @@ Here's some detailed data from [theDAOETCDrains_20160807_1255GMT.txt](https://gi
 
 ### \[Goodies] Proposal #78 - Update 00:29 08/08/2016 GMT
 
-The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has be depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt):
+The balance of the account 0xb136707642a4ea12fb4bae820f03d2562ebff487 has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt):
 
       Proposal 78; SPLIT; Voting to Sun, 19 Jun 2016 16:14:00 GMT
       Open Y; Passed Y; Yea 33337 DAO; Nay 0
