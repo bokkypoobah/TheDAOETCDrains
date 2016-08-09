@@ -6,7 +6,7 @@ Scripts and data related to the draining of The DAO on the Ethereum ETC chain
 There are some potential upcoming movements of ETCs within the following The DAO split proposals on the Ethereum Classic blockchain by the Baddies and other unknown actors:
 
 * \[Baddies] Proposal #59
-    * Sub proposal #10: 3,642,408 ETC (~ 8.7 million USD), voting deadline was Thu, 21 Jul 2016 03:34:56 GMT. With `splitExecutionPeriod = 27 days;`, next movement potentially on 17/08/2016 03:34:56 GMT.
+    * Sub proposal #10: 3,642,408 ETC (~ 8.7 million USD), voting deadline was Thu, 21 Jul 2016 03:34:56 GMT. With `splitExecutionPeriod = 27 days;`, next movement potentially on 17/08/2016 03:34:56 GMT \[[1](https://www.reddit.com/r/ethereum/comments/4ukefq/attacker_has_withdrawn_all_etc_from_darkdao_on/)].
 * \[Untrusted] Proposal #73 (not the Baddies)
     * Sub proposal #1: 6,772 ETC (~ 16,202 USD), voting deadline was Wed, 03 Aug 2016 07:16:53 GMT.
 * \[Infiltrated] Proposal #101 (potentially the Baddies)
