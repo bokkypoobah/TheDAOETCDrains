@@ -28,13 +28,20 @@ And there are some potential upcoming movements of ETCs by the Goodies:
 
 The balance of the account [0xb136707642a4ea12fb4bae820f03d2562ebff487](http://etherscan.io/address/0xb136707642a4ea12fb4bae820f03d2562ebff487) on the Classic chain has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt). The amount has ended up in [0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d](http://etherscan.io/address/0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d) with a current balance of +7,203,708.765226529095813484 ETC. (Classic explorer down, so see the Classic Balance in the ETH explorer).
 
-### Difference Update 23:01:44 Aug 28 2016 GMT
+### Visual Difference Update 23:01:44 Aug 28 2016 GMT
 
 Following is the visual differences between the first report [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt) and the report as of 23:01:44 Aug 28 2016 GMT [theDAOETCDrains_20160828_230144GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160828_230144GMT.txt):
 
+#### Visual Difference - Summary Page 1
 <img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page1.png" />
+
+#### Visual Difference - Summary Page 2
 <img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page2.png" />
+
+#### Visual Difference - Baddies' Withdrawal
 <img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page3.png" />
+
+And the destination account for the Baddies' funds is [0xc362ef3150969f89a22b95521c1a8683e3e864f1](https://gastracker.io/addr/0xc362ef3150969f89a22b95521c1a8683e3e864f1), with the first available date for the withdrawal being either Mon, 05 Sep 2016 21:56:22 GMT or Mon, 05 Sep 2016 22:02:35 GMT.
 
 ### Notes
 
