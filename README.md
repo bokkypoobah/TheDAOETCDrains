@@ -28,6 +28,14 @@ And there are some potential upcoming movements of ETCs by the Goodies:
 
 The balance of the account [0xb136707642a4ea12fb4bae820f03d2562ebff487](http://etherscan.io/address/0xb136707642a4ea12fb4bae820f03d2562ebff487) on the Classic chain has been depleted from 7277385.711515429122911683 ETH to 122911683 WEI. From [theDAOETCDrains_20160808_0029GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160808_0029GMT.txt). The amount has ended up in [0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d](http://etherscan.io/address/0x59bc61238a2059e33d5fc0f91b8b8ce5cb45858d) with a current balance of +7,203,708.765226529095813484 ETC. (Classic explorer down, so see the Classic Balance in the ETH explorer).
 
+### Difference Update 23:01:44 Aug 28 2016 GMT
+
+Following is the visual differences between the first report [theDAOETCDrains_20160807_1255GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160807_1255GMT.txt) and the report as of 23:01:44 Aug 28 2016 GMT [theDAOETCDrains_20160828_230144GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160828_230144GMT.txt):
+
+<img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page1.png" />
+<img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page2.png" />
+<img src="https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/Diff_20160807_To_20160828-Page3.png" />
+
 ### Notes
 
 The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b):
