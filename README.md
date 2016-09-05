@@ -47,6 +47,8 @@ And the destination account for the Baddies' funds is [0xc362ef3150969f89a22b955
 
 The Baddies have Just Withdrawn Their Booty From The DAO On The ETC Chain. Receiving account was https://gastracker.io/addr/0xc362ef3150969f89a22b95521c1a8683e3e864f1 . Booty moved to https://gastracker.io/addr/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a . More details in [When will the Baddies have access to the hacked funds on the Ethereum Classic chain?](http://ethereum.stackexchange.com/questions/8377/when-will-the-baddies-have-access-to-the-hacked-funds-on-the-ethereum-classic-ch).
 
+Updated report at [theDAOETCDrains_20160905_220920GMT.txt](https://github.com/bokkypoobah/TheDAOETCDrains/blob/master/theDAOETCDrains_20160905_220920GMT.txt).
+
 ### Notes
 
 The categorisation of the splits are taken from [childDaoWithdraw](https://github.com/dsystems-io/childDaoWithdraw) that is referenced from [The DAO’s Edge Cases Multisig (Post Hard Fork)](https://medium.com/edge-cases-multisig-phf-official-channel/the-daos-edge-cases-multisig-post-hard-fork-2f107380bd61#.qdjyu4d9b):
